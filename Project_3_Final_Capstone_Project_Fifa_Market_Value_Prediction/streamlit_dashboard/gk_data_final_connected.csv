@@ -1,0 +1,1008 @@
+,actual_market_value,predicted_market_value,difference,player_name,long_name,year_of_birth,player_age,height_cm,weight_kg,nationality,geographical_continent,main_position,club,league,division,current_national_player,national_team_appearances,overall,preferred_foot,weak_foot
+0,4800000,2874392,1925608,Samir Handanovic,Samir Handanovič,1984,35,193,92,Slovenia,Europe,Torwart,Inter Mailand,Serie A (ITA),1,False,81,88,Right,2 Stars
+1,14500000,8127906,6372095,Hugo Lloris,Hugo Lloris,1986,33,188,82,France,Europe,Torwart,Tottenham Hotspur,Premier League (ENG),1,False,114,88,Left,1 Star
+2,14500000,5439526,9060474,Manuel Neuer,Manuel Neuer,1986,34,193,92,Germany,Europe,Torwart,FC Bayern München,1. Bundesliga (GER),1,True,92,88,Right,4 Stars
+3,8000000,8127906,-127906,Keylor Navas,Keylor Navas,1986,33,185,80,Costa Rica,North America,Torwart,FC Paris Saint-Germain,Ligue 1 (FRA),1,False,91,87,Right,3 Stars
+4,9500000,8127906,1372094,Péter Gulácsi,Péter Gulácsi,1990,29,192,86,Hungary,Europe,Torwart,RasenBallsport Leipzig,1. Bundesliga (GER),1,True,31,85,Right,2 Stars
+5,11000000,8127906,2872095,Roman Bürki,Roman Bürki,1990,29,187,85,Switzerland,Europe,Torwart,Borussia Dortmund,1. Bundesliga (GER),1,False,9,85,Right,2 Stars
+6,14500000,8127906,6372095,Neto,Norberto Murara Neto,1989,30,190,84,Brazil,South America,Torwart,FC Barcelona,LaLiga (ESP),1,False,1,85,Right,2 Stars
+7,6500000,8750810,-2250810,Salvatore Sirigu,Salvatore Sirigu,1987,32,192,80,Italy,Europe,Torwart,FC Turin,Serie A (ITA),1,True,24,84,Right,2 Stars
+8,9500000,8127906,1372094,Yann Sommer,Yann Sommer,1988,31,183,79,Switzerland,Europe,Torwart,Borussia Mönchengladbach,1. Bundesliga (GER),1,True,53,84,Right,4 Stars
+9,6500000,8127906,-1627906,Jiri Pavlenka,Jiří Pavlenka,1992,28,196,81,Czech Republic,Europe,Torwart,SV Werder Bremen,1. Bundesliga (GER),1,True,11,84,Right,3 Stars
+10,2400000,7434724,-5034724,Stéphane Ruffier,Stéphane Ruffier,1986,33,188,93,France,Europe,Torwart,AS Saint-Étienne,Ligue 1 (FRA),1,False,3,84,Right,3 Stars
+11,16000000,8127906,7872094,Rui Patrício,Rui Pedro dos Santos Patrício,1988,32,190,84,Portugal,Europe,Torwart,Wolverhampton Wanderers,Premier League (ENG),1,True,87,83,Left,2 Stars
+12,800000,772335,27665,Gianluigi Buffon,Gianluigi Buffon,1978,42,192,92,Italy,Europe,Torwart,Juventus Turin,Serie A (ITA),1,False,176,83,Right,2 Stars
+13,800000,961128,-161128,Iker Casillas,Iker Casillas Fernández,1981,38,185,84,Spain,Europe,Torwart,FC Porto,Liga NOS (POR),1,False,167,83,Left,2 Stars
+14,800000,1602729,-802729,Rune Jarstein,Rune  Almenning Jarstein,1984,35,190,86,Norway,Europe,Torwart,Hertha BSC,1. Bundesliga (GER),1,True,65,83,Right,4 Stars
+15,14500000,8127906,6372095,Jasper Cillessen,Jasper Cillessen,1989,31,185,83,Netherlands,Europe,Torwart,FC Valencia,LaLiga (ESP),1,True,54,83,Right,3 Stars
+16,8000000,7801874,198126,Lukas Hradecky,Lukáš Hrádecký,1989,30,192,85,Finland,Europe,Torwart,Bayer 04 Leverkusen,1. Bundesliga (GER),1,True,58,83,Right,3 Stars
+17,9500000,8127906,1372094,Kasper Schmeichel,Kasper Schmeichel,1986,33,189,89,Denmark,Europe,Torwart,Leicester City,Premier League (ENG),1,True,53,83,Right,3 Stars
+18,10500000,7801874,2698126,Koen Casteels,Koen Casteels,1992,27,197,86,Belgium,Europe,Torwart,VfL Wolfsburg,1. Bundesliga (GER),1,False,0,83,Left,2 Stars
+19,8000000,7801874,198126,Kevin Trapp,Kevin Trapp,1990,29,189,86,Germany,Europe,Torwart,Eintracht Frankfurt,1. Bundesliga (GER),1,False,3,83,Right,4 Stars
+20,14500000,8127906,6372095,Fernando Pacheco,Fernando Pacheco Flores,1992,27,186,81,Spain,Europe,Torwart,Deportivo Alavés,LaLiga (ESP),1,False,0,82,Left,2 Stars
+21,8000000,8127906,-127906,Mattia Perin,Mattia Perin,1992,27,188,77,Italy,Europe,Torwart,FC Genua 1893,Serie A (ITA),1,False,2,82,Right,3 Stars
+22,3200000,1763198,1436802,Lukasz Fabianski,Łukasz Fabiański,1985,35,190,83,Poland,Europe,Torwart,West Ham United,Premier League (ENG),1,False,52,82,Right,2 Stars
+23,14500000,8127906,6372095,David Soria,David Soria Solís,1993,27,192,85,Spain,Europe,Torwart,FC Getafe,LaLiga (ESP),1,False,0,82,Right,3 Stars
+24,650000,947882,-297882,Pepe Reina,José Manuel  Reina Páez,1982,37,188,92,Spain,Europe,Torwart,Aston Villa,Premier League (ENG),1,False,38,82,Right,3 Stars
+25,9500000,8127906,1372094,Sergio Asenjo,Sergio  Asenjo Andrés,1989,30,189,87,Spain,Europe,Torwart,FC Villarreal,LaLiga (ESP),1,False,1,82,Right,3 Stars
+26,5500000,7629120,-2129121,Oliver Baumann,Oliver Baumann,1990,30,187,82,Germany,Europe,Torwart,TSG 1899 Hoffenheim,1. Bundesliga (GER),1,False,0,82,Right,1 Star
+27,13000000,8127906,4872094,Alphonse Areola,Alphonse Areola,1993,27,195,94,France,Europe,Torwart,Real Madrid,LaLiga (ESP),1,True,3,82,Right,3 Stars
+28,14500000,8700457,5799543,Tomas Vaclik,Tomáš Vaclík,1989,31,188,85,Czech Republic,Europe,Torwart,FC Sevilla,LaLiga (ESP),1,True,29,81,Right,3 Stars
+29,16000000,8127906,7872094,Alessio Cragno,Alessio Cragno,1994,25,184,78,Italy,Europe,Torwart,Cagliari Calcio,Serie A (ITA),1,False,0,81,Right,3 Stars
+30,2800000,7497438,-4697438,Andrea Consigli,Andrea Consigli,1987,33,189,82,Italy,Europe,Torwart,US Sassuolo,Serie A (ITA),1,False,0,81,Right,3 Stars
+31,8000000,8649049,-649049,Gerónimo Rulli,Gerónimo Rulli,1992,27,189,84,Argentina,South America,Torwart,HSC Montpellier,Ligue 1 (FRA),1,False,2,81,Right,3 Stars
+32,4000000,7242980,-3242980,Timo Horn,Timo Horn,1993,26,192,90,Germany,Europe,Torwart,1. FC Köln,1. Bundesliga (GER),1,False,0,81,Left,3 Stars
+33,4000000,6336288,-2336289,Fernando Muslera,Fernando Muslera,1986,33,190,74,Uruguay,South America,Torwart,Galatasaray Istanbul,Süper Lig (TUR),1,True,116,81,Right,2 Stars
+34,4800000,7875094,-3075095,Jordi Masip,Jordi Masip López,1989,31,180,76,Spain,Europe,Torwart,Real Valladolid,LaLiga (ESP),1,False,0,81,Right,4 Stars
+35,800000,4431892,-3631892,Antonio Adán,Antonio Adán Garrido,1987,32,190,92,Spain,Europe,Torwart,Atlético Madrid,LaLiga (ESP),1,False,0,81,Left,2 Stars
+36,6500000,4453394,2046606,Igor Akinfeev,Igor Akinfeev,1986,33,186,78,Russia,Asia,Torwart,ZSKA Moskau,misc_other_teams (MISC),1,False,111,80,Right,3 Stars
+37,6000000,4355216,1644784,Franco Armani,Franco Armani,1986,33,189,88,Argentina,South America,Torwart,Club Atlético River Plate,Superliga (ARG),1,False,11,80,Right,2 Stars
+38,9500000,8127906,1372094,Marko Dmitrovic,Marko Dmitrović,1992,28,194,94,Serbia,Europe,Torwart,SD Eibar,LaLiga (ESP),1,True,13,80,Left,2 Stars
+39,8000000,7830699,169301,Esteban Andrada,Esteban Andrada,1991,29,194,81,Argentina,South America,Torwart,Club Atlético Boca Juniors,Superliga (ARG),1,False,4,80,Right,2 Stars
+40,2800000,4820748,-2020748,Sergio Romero,Sergio Germán Romero,1987,33,192,86,Argentina,South America,Torwart,Manchester United,Premier League (ENG),1,False,96,80,Right,3 Stars
+41,8000000,6593116,1406884,Walter Benítez,Walter Benítez,1993,27,191,91,Argentina,South America,Torwart,OGC Nizza,Ligue 1 (FRA),1,False,0,80,Right,2 Stars
+42,4800000,5549584,-749584,Tom Heaton,Tom Heaton,1986,34,187,92,England,Europe,Torwart,Aston Villa,Premier League (ENG),1,False,3,80,Right,3 Stars
+43,1200000,1339653,-139653,Ben Foster,Ben Foster,1983,37,193,90,England,Europe,Torwart,FC Watford,Premier League (ENG),1,False,8,80,Left,3 Stars
+44,1600000,8417321,-6817321,Ralf Fährmann,Ralf Fährmann,1988,31,197,98,Germany,Europe,Torwart,Brann Bergen,Eliteserien (NOR),1,False,0,80,Right,1 Star
+45,5500000,6581796,-1081796,Jeroen Zoet,Jeroen Zoet,1991,28,189,88,Netherlands,Europe,Torwart,FC Utrecht,Eredivisie (NED),1,True,11,80,Right,4 Stars
+46,800000,852289,-52289,Diego López,Diego López Rodríguez,1981,39,196,89,Spain,Europe,Torwart,Espanyol Barcelona,LaLiga (ESP),1,False,1,80,Right,3 Stars
+47,4000000,4969593,-969593,Benoît Costil,Benoît Costil,1987,33,187,88,France,Europe,Torwart,FC Girondins Bordeaux,Ligue 1 (FRA),1,False,1,80,Right,3 Stars
+48,2800000,7398756,-4598757,David Ospina,David Ospina Ramírez,1988,31,183,80,Colombia,South America,Torwart,SSC Neapel,Serie A (ITA),1,True,103,80,Right,3 Stars
+49,12000000,8127906,3872094,Odysseas Vlachodimos,Odisseas Vlachodimos,1994,26,188,77,Greece,Europe,Torwart,Benfica Lissabon,Liga NOS (POR),1,True,6,80,Right,3 Stars
+50,2400000,1838024,561976,Steve Mandanda,Steve Mandanda,1985,35,185,80,France,Europe,Torwart,Olympique Marseille,Ligue 1 (FRA),1,True,32,80,Right,3 Stars
+51,1200000,725086,474914,Miguel Ángel Moyà,Miguel Ángel Moyá Rumbo,1984,36,188,83,Spain,Europe,Torwart,Real Sociedad San Sebastián,LaLiga (ESP),1,False,0,80,Right,2 Stars
+52,5500000,7272250,-1772250,Martin Dubravka,Martin Dúbravka,1989,31,190,80,Slovakia,Europe,Torwart,Newcastle United,Premier League (ENG),1,True,24,80,Right,2 Stars
+53,8000000,7824040,175959,Mathew Ryan,Mathew Ryan,1992,27,184,82,Australia,Oceania/Australia,Torwart,Brighton & Hove Albion,Premier League (ENG),1,True,58,80,Right,4 Stars
+54,2000000,5007410,-3007410,Nahuel Guzmán,Nahuel Ignacio Guzmán,1986,33,193,94,Argentina,South America,Torwart,Tigres UANL,Liga MX Clausura (MEX),1,False,6,79,Right,3 Stars
+55,4000000,4509861,-509861,Vicente Guaita,Vicente Guaita Panadero,1987,32,190,80,Spain,Europe,Torwart,Crystal Palace,Premier League (ENG),1,False,0,79,Right,3 Stars
+56,9500000,9114410,385590,Nick Pope,Nick Pope,1992,28,200,76,England,Europe,Torwart,FC Burnley,Premier League (ENG),1,True,2,79,Right,3 Stars
+57,11000000,8127906,2872095,Alban Lafont,Alban Lafont,1999,21,193,82,France,Europe,Torwart,FC Nantes,Ligue 1 (FRA),1,False,0,79,Right,3 Stars
+58,650000,733126,-83126,Antonio Mirante,Antonio Mirante,1983,36,193,79,Italy,Europe,Torwart,AS Rom,Serie A (ITA),1,False,0,79,Right,2 Stars
+59,1200000,4716568,-3516568,Ciprian Tatarusanu,Anton Ciprian Tătărușanu,1986,33,196,86,Romania,Europe,Torwart,Olympique Lyon,Ligue 1 (FRA),1,True,67,79,Right,3 Stars
+60,3200000,7311450,-4111450,Loris Karius,Loris Karius,1993,26,189,87,Germany,Europe,Torwart,Besiktas Istanbul,Süper Lig (TUR),1,False,0,79,Right,3 Stars
+61,3500000,2592672,907328,Sven Ulreich,Sven Ulreich,1988,32,192,87,Germany,Europe,Torwart,FC Bayern München,1. Bundesliga (GER),1,False,0,79,Right,2 Stars
+62,2800000,3214016,-414016,Iago Herrerín,Iago Herrerín Buisán,1988,32,187,89,Spain,Europe,Torwart,Athletic Bilbao,LaLiga (ESP),1,False,0,79,Right,3 Stars
+63,2000000,1746466,253534,Guillermo Ochoa,Francisco Guillermo Ochoa Magaña,1985,34,185,78,Mexico,North America,Torwart,CF América,Liga MX Clausura (MEX),1,True,109,78,Right,3 Stars
+64,6000000,6067918,-67918,Joel Robles,Joel Robles Blázquez,1990,29,195,90,Spain,Europe,Torwart,Real Betis Sevilla,LaLiga (ESP),1,False,0,78,Right,2 Stars
+65,800000,1718906,-918906,Itumeleng Khune,Itumeleng Khune,1987,32,181,81,South Africa,Africa,Torwart,Kaizer Chiefs,misc_other_teams (MISC),1,True,91,78,Right,5 Stars
+66,6500000,5527373,972627,Robin Olsen,Robin Olsen,1990,29,196,86,Sweden,Europe,Torwart,Cagliari Calcio,Serie A (ITA),1,False,36,78,Right,2 Stars
+67,8000000,5644498,2355502,Simon Mignolet,Simon Mignolet,1988,31,193,87,Belgium,Europe,Torwart,FC Brügge,Jupiler Pro League (BEL),1,True,23,78,Right,2 Stars
+68,2000000,1890650,109350,Marwin Hitz,Marwin Hitz,1987,32,194,89,Switzerland,Europe,Torwart,Borussia Dortmund,1. Bundesliga (GER),1,False,2,78,Right,3 Stars
+69,6500000,5677078,822922,Matz Sels,Matz Sels,1992,28,190,88,Belgium,Europe,Torwart,RC Straßburg Alsace,Ligue 1 (FRA),1,True,0,78,Right,2 Stars
+70,2800000,6974931,-4174931,José Sá,José Pedro Malheiro de Sá,1993,27,192,85,Portugal,Europe,Torwart,Olympiakos Piräus,misc_other_teams (MISC),1,True,0,78,Right,2 Stars
+71,7000000,6974931,25069,Alexander Schwolow,Alexander Schwolow,1992,28,190,84,Germany,Europe,Torwart,SC Freiburg,1. Bundesliga (GER),1,False,0,78,Right,3 Stars
+72,2000000,4343390,-2343391,Ron-Robert Zieler,Ron-Robert Zieler,1989,30,188,81,Germany,Europe,Torwart,Hannover 96,2. Bundesliga (GER),2,False,6,78,Right,3 Stars
+73,2400000,3117684,-717684,Gabriel Arias,Gabriel Arias,1987,32,187,91,Chile,South America,Torwart,Racing Club,Superliga (ARG),1,True,12,78,Right,3 Stars
+74,2200000,4343390,-2143391,Martín Campaña,Martín Campaña,1989,30,185,75,Uruguay,South America,Torwart,Club Atlético Independiente,Superliga (ARG),1,True,5,78,Right,3 Stars
+75,6500000,4973258,1526742,Jack Butland,Jack Butland,1993,26,196,95,England,Europe,Torwart,Stoke City,Championship (ENG),2,False,9,78,Right,3 Stars
+76,800000,1790315,-990315,Orestis Karnezis,Orestis Karnezis,1985,34,190,81,Greece,Europe,Torwart,SSC Neapel,Serie A (ITA),1,False,49,78,Right,3 Stars
+77,6800000,5155426,1644574,Agustín Marchesín,Agustín Marchesín,1988,32,188,85,Argentina,South America,Torwart,FC Porto,Liga NOS (POR),1,False,7,78,Right,3 Stars
+78,12000000,7142830,4857170,Juan Musso,Juan Musso,1994,25,191,93,Argentina,South America,Torwart,Udinese Calcio,Serie A (ITA),1,True,1,78,Right,3 Stars
+79,2000000,1602729,397271,Guilherme,Guilherme Alvim Marinato,1985,34,195,95,Russia,Asia,Torwart,Lokomotiv Moskau,misc_other_teams (MISC),1,True,13,78,Right,2 Stars
+80,2800000,7048251,-4248251,Aleksandr Selikhov,Alexandr Selikhov,1994,25,188,85,Russia,Asia,Torwart,Spartak Moskau,misc_other_teams (MISC),1,False,0,78,Right,4 Stars
+81,400000,1297759,-897759,Michael Esser,Michael Esser,1987,32,198,97,Germany,Europe,Torwart,TSG 1899 Hoffenheim,1. Bundesliga (GER),1,False,0,77,Right,3 Stars
+82,1600000,3319036,-1719036,Cláudio Ramos,Cláudio Pires de Morais Ramos,1991,28,182,78,Portugal,Europe,Torwart,CD Tondela,Liga NOS (POR),1,False,1,77,Right,3 Stars
+83,2000000,5388098,-3388098,Marco Sportiello,Marco Sportiello,1992,27,192,87,Italy,Europe,Torwart,Atalanta Bergamo,Serie A (ITA),1,False,0,77,Right,2 Stars
+84,12000000,6703512,5296488,Emil Audero,Emil Audero,1997,23,192,83,Italy,Europe,Torwart,Sampdoria Genua,Serie A (ITA),1,False,0,77,Right,2 Stars
+85,200000,448825,-248825,Douglas Jesus,Douglas Renato de Jesus,1983,36,188,87,Brazil,South America,Torwart,Vitória Guimarães SC,Liga NOS (POR),1,False,0,77,Right,2 Stars
+86,2000000,1516537,483463,Renan Ribeiro,Renan Ribeiro,1990,30,193,87,Brazil,South America,Torwart,Sporting Lissabon,Liga NOS (POR),1,False,0,77,Right,2 Stars
+87,1600000,1618734,-18734,Alexandros Paschalakis,Alexandros  Paschalakis,1989,30,197,92,Greece,Europe,Torwart,PAOK Thessaloniki,misc_other_teams (MISC),1,True,3,77,Right,2 Stars
+88,1200000,1562482,-362482,Camilo Vargas,Camilo Andrés Vargas Gil,1989,30,185,80,Colombia,South America,Torwart,Atlas Guadalajara,Liga MX Clausura (MEX),1,False,6,77,Left,3 Stars
+89,2400000,2976575,-576575,Baptiste Reynet,Baptiste Reynet,1990,29,185,90,France,Europe,Torwart,FC Toulouse,Ligue 1 (FRA),1,False,0,77,Right,3 Stars
+90,1600000,971016,628984,Andriy Pyatov,Andriy Pyatov,1984,35,190,84,Ukraine,Europe,Torwart,Shakhtar Donetsk,misc_other_teams (MISC),1,True,93,77,Right,3 Stars
+91,8000000,4958610,3041390,Sergio Rico,Sergio Rico González,1993,27,194,90,Spain,Europe,Torwart,FC Paris Saint-Germain,Ligue 1 (FRA),1,False,1,77,Right,3 Stars
+92,1200000,733126,466874,Claudio Bravo,Claudio Andrés Bravo Muñoz,1983,37,184,80,Chile,South America,Torwart,Manchester City,Premier League (ENG),1,True,123,77,Right,3 Stars
+93,2400000,2467625,-67625,Joe Hart,Joe Hart,1987,33,196,91,England,Europe,Torwart,FC Burnley,Premier League (ENG),1,False,75,77,Right,3 Stars
+94,7000000,4779220,2220780,Edouard Mendy,Edouard Mendy,1992,28,197,86,Senegal,Africa,Torwart,FC Stade Rennes,Ligue 1 (FRA),1,False,0,77,Right,2 Stars
+95,800000,1521655,-721655,Roberto,Roberto Jiménez Gago,1986,33,192,94,Spain,Europe,Torwart,Deportivo Alavés,LaLiga (ESP),1,False,0,77,Right,2 Stars
+96,5500000,6604343,-1104343,Paul Bernardoni,Paul Bernardoni,1997,23,190,78,France,Europe,Torwart,Nîmes Olympique,Ligue 1 (FRA),1,False,0,77,Left,2 Stars
+97,3500000,4476583,-976583,Tomas Koubek,Tomáš Koubek,1992,27,197,95,Czech Republic,Europe,Torwart,FC Augsburg,1. Bundesliga (GER),1,False,9,77,Right,2 Stars
+98,1000000,1036583,-36583,Régis Gurtner,Régis Gurtner,1986,33,182,82,France,Europe,Torwart,SC Amiens,Ligue 1 (FRA),1,False,0,77,Right,2 Stars
+99,5500000,4779220,720780,Marco Bizot,Marco Bizot,1991,28,194,85,Netherlands,Europe,Torwart,AZ Alkmaar,Eredivisie (NED),1,True,0,77,Right,2 Stars
+100,1600000,2322740,-722740,Sergio Padt,Sergio Padt,1990,29,197,85,Netherlands,Europe,Torwart,FC Groningen,Eredivisie (NED),1,False,0,76,Right,3 Stars
+101,2400000,1301153,1098847,Etrit Berisha,Etrit Berisha,1989,30,194,92,Albania,Europe,Torwart,SPAL,Serie A (ITA),1,True,58,76,Left,2 Stars
+102,550000,502599,47401,Beto,António Alberto Bastos Pimparel,1982,38,182,81,Portugal,Europe,Torwart,Göztepe,Süper Lig (TUR),1,True,16,76,Right,3 Stars
+103,8000000,6942440,1057560,Rubén Blanco,Rubén Blanco Veiga,1995,24,188,70,Spain,Europe,Torwart,Celta Vigo,LaLiga (ESP),1,False,0,76,Right,3 Stars
+104,12000000,6703512,5296488,Alex Remiro,Alejandro Remiro Gargallo,1995,25,191,83,Spain,Europe,Torwart,Real Sociedad San Sebastián,LaLiga (ESP),1,False,0,76,Right,3 Stars
+105,6000000,5527373,472627,Jaume Doménech,Jaume Domenech Sánchez,1990,29,185,73,Spain,Europe,Torwart,FC Valencia,LaLiga (ESP),1,False,0,76,Right,3 Stars
+106,8000000,5367010,2632990,Aitor Fernández,Aitor Fernández,1991,29,182,78,Spain,Europe,Torwart,UD Levante,LaLiga (ESP),1,False,0,76,Right,2 Stars
+107,1200000,1919920,-719920,Leandro Chichizola,Leandro Chichizola,1990,30,185,80,Argentina,South America,Torwart,FC Getafe,LaLiga (ESP),1,False,0,76,Right,3 Stars
+108,2400000,2789790,-389790,Guido Herrera,Guido Herrera,1992,28,188,84,Argentina,South America,Torwart,Club Atlético Talleres,Superliga (ARG),1,False,0,76,Left,2 Stars
+109,2800000,4929420,-2129420,Thomas Didillon,Thomas Didillon,1995,24,189,88,France,Europe,Torwart,KRC Genk,Jupiler Pro League (BEL),1,False,0,76,Left,2 Stars
+110,1100000,2333775,-1233775,Alan Aguerre,Alan Aguerre,1990,29,181,80,Argentina,South America,Torwart,Club Atlético Newell's Old Boys,Superliga (ARG),1,False,0,76,Right,2 Stars
+111,1000000,852289,147711,Marcos Díaz,Marcos Guillermo Díaz,1986,34,186,86,Argentina,South America,Torwart,Club Atlético Boca Juniors,Superliga (ARG),1,False,0,76,Right,2 Stars
+112,4000000,1746466,2253534,Adrián,Adrián San Miguel del Castillo,1987,33,190,80,Spain,Europe,Torwart,FC Liverpool,Premier League (ENG),1,False,0,76,Right,2 Stars
+113,5500000,3295856,2204144,Lukasz Skorupski,Łukasz Skorupski,1991,29,187,84,Poland,Europe,Torwart,FC Bologna,Serie A (ITA),1,True,3,76,Right,2 Stars
+114,1600000,1715025,-115025,Jonathan Orozco,Jonathan Emmanuel Orozco Domínguez,1986,33,184,81,Mexico,North America,Torwart,Santos Laguna,Liga MX Clausura (MEX),1,False,9,76,Right,3 Stars
+115,2800000,2322740,477260,Lars Unnerstall,Lars Unnerstall,1990,29,198,103,Germany,Europe,Torwart,PSV Eindhoven,Eredivisie (NED),1,False,0,76,Right,1 Star
+116,1600000,1790315,-190315,Denys Boyko,Denys Boyko,1988,32,194,82,Ukraine,Europe,Torwart,Dynamo Kiew,misc_other_teams (MISC),1,False,6,76,Right,3 Stars
+117,1600000,1657852,-57852,Kenneth Vermeer,Kenneth Vermeer,1986,33,181,78,Netherlands,Europe,Torwart,Los Angeles FC,Major League Soccer (USA),1,False,5,76,Right,4 Stars
+118,325000,590873,-265873,Silvio Proto,Silvio Proto,1983,36,184,74,Belgium,Europe,Torwart,Lazio Rom,Serie A (ITA),1,False,13,76,Right,2 Stars
+119,400000,547582,-147582,Serkan Kirintili,Serkan Kırıntılı,1985,35,185,78,Turkey,Asia,Torwart,Konyaspor,Süper Lig (TUR),1,False,4,76,Right,2 Stars
+120,800000,1574465,-774465,Harun Tekin,Harun Tekin,1989,30,187,78,Turkey,Asia,Torwart,Fenerbahce Istanbul,Süper Lig (TUR),1,False,2,76,Right,1 Star
+121,900000,1521655,-621655,André Hansen,André Hansen,1989,30,189,87,Norway,Europe,Torwart,Rosenborg BK,Eliteserien (NOR),1,False,4,76,Right,2 Stars
+122,6000000,4958610,1041390,Zack Steffen,Zack Steffen,1995,25,191,86,United States,North America,Torwart,Fortuna Düsseldorf,1. Bundesliga (GER),1,False,17,76,Right,4 Stars
+123,2400000,1618734,781266,Sinan Bolat,Sinan Bolat,1988,32,186,83,Turkey,Asia,Torwart,Royal Antwerpen FC,Jupiler Pro League (BEL),1,True,12,76,Right,3 Stars
+124,4000000,7041036,-3041036,Alex McCarthy,Alex McCarthy,1989,31,193,79,England,Europe,Torwart,FC Southampton,Premier League (ENG),1,False,1,76,Right,2 Stars
+125,2400000,4453394,-2053394,Yvon Mvogo,Yvon Mvogo,1994,25,190,90,Switzerland,Europe,Torwart,RasenBallsport Leipzig,1. Bundesliga (GER),1,True,2,76,Right,3 Stars
+126,2700000,4835805,-2135805,Andriy Lunin,Andriy Lunin,1999,20,191,80,Ukraine,Europe,Torwart,Real Oviedo,LaLiga2 (ESP),2,True,5,76,Right,3 Stars
+127,1200000,1426782,-226782,Andre Blake,Andre Blake,1990,29,193,79,Jamaica,North America,Torwart,Philadelphia Union,Major League Soccer (USA),1,False,45,76,Right,2 Stars
+128,400000,517826,-117826,Heurelho Gomes,Heurelho da Silva Gomes,1981,39,191,95,Brazil,South America,Torwart,FC Watford,Premier League (ENG),1,False,12,76,Right,2 Stars
+129,1200000,1383584,-183584,Marcelo Grohe,Marcelo Grohe,1987,33,188,81,Brazil,South America,Torwart,Al-Ittihad Dschidda,Saudi Professional League (KSA),1,False,2,76,Right,2 Stars
+130,2800000,2565560,234440,Matheus,Matheus Lima Magalhães,1992,27,190,84,Brazil,South America,Torwart,SC Braga,Liga NOS (POR),1,False,0,76,Right,3 Stars
+131,13000000,6557768,6442232,Pierluigi Gollini,Pierluigi Gollini,1995,25,194,90,Italy,Europe,Torwart,Atalanta Bergamo,Serie A (ITA),1,True,1,76,Right,3 Stars
+132,6500000,4078561,2421439,Angus Gunn,Angus Gunn,1996,24,196,77,England,Europe,Torwart,FC Southampton,Premier League (ENG),1,False,0,76,Right,3 Stars
+133,950000,595937,354063,Danny Vukovic,Danny Vukovic,1985,35,188,96,Australia,Oceania/Australia,Torwart,KRC Genk,Jupiler Pro League (BEL),1,False,3,75,Right,2 Stars
+134,2800000,1685656,1114344,Darren Randolph,Darren Randolph,1987,32,188,78,Republic of Ireland,Europe,Torwart,West Ham United,Premier League (ENG),1,True,42,75,Right,3 Stars
+135,1600000,903350,696650,Florin Nita,Florin Constantin Niţă,1987,33,184,76,Romania,Europe,Torwart,AC Sparta Prag,misc_other_teams (MISC),1,True,2,75,Right,2 Stars
+136,9500000,7783339,1716661,Ionut Radu,Ionuţ Andrei Radu,1997,22,188,78,Romania,Europe,Torwart,Parma Calcio 1913,Serie A (ITA),1,False,0,75,Right,2 Stars
+137,2400000,3836262,-1436262,Vasilios Barkas,Vasilios Barkas,1994,25,195,91,Greece,Europe,Torwart,AEK Athen,misc_other_teams (MISC),1,True,10,75,Left,2 Stars
+138,800000,1038420,-238420,Junling Yan,颜骏凌,1991,29,191,83,China PR,Asia,Torwart,Shanghai SIPG,Chinese Super League (CHN),1,True,29,75,Right,1 Star
+139,2800000,1545927,1254073,Lovre Kalinic,Lovre Kalinić,1990,30,201,99,Croatia,Europe,Torwart,FC Toulouse,Ligue 1 (FRA),1,True,19,75,Left,2 Stars
+140,2400000,2965480,-565480,Wayne Hennessey,Wayne  Hennessey,1987,33,198,90,Wales,Europe,Torwart,Crystal Palace,Premier League (ENG),1,True,85,75,Right,3 Stars
+141,1000000,1877954,-877954,Alexis Martín Arias,Alexis Martín Arias,1992,28,185,79,Argentina,South America,Torwart,Unión La Calera,Primera División de Chile (CHI),1,False,0,75,Right,3 Stars
+142,3200000,1657852,1542148,Jonas Lössl,Jonas Lössl,1989,31,195,88,Denmark,Europe,Torwart,Huddersfield Town,Championship (ENG),2,False,1,75,Right,2 Stars
+143,1800000,1827232,-27232,Rodolfo Cota,Rodolfo Cota Robles,1987,33,183,86,Mexico,North America,Torwart,Club León FC,Liga MX Clausura (MEX),1,False,3,75,Right,2 Stars
+144,2400000,1674407,725593,Asmir Begovic,Asmir Begović,1987,32,199,83,Bosnia Herzegovina,Europe,Torwart,AC Mailand,Serie A (ITA),1,True,62,75,Right,2 Stars
+145,600000,498385,101615,Allan McGregor,Allan McGregor,1982,38,183,74,Scotland,Europe,Torwart,Glasgow Rangers,Scottish Premiership (SCO),1,False,42,75,Right,3 Stars
+146,800000,942526,-142526,Sten Grytebust,Sten Michael Grytebust,1989,30,185,82,Norway,Europe,Torwart,FC Kopenhagen,Superligaen (DEN),1,True,5,75,Right,2 Stars
+147,800000,538657,261343,Jesús Corona,José de Jesús Corona Rodríguez,1981,39,184,84,Mexico,North America,Torwart,CD Cruz Azul,Liga MX Clausura (MEX),1,False,54,75,Right,3 Stars
+148,2400000,2965480,-565480,Alfred Gomis,Alfred Benjamin Gomis,1993,26,194,80,Senegal,Africa,Torwart,FCO Dijon,Ligue 1 (FRA),1,True,11,75,Right,3 Stars
+149,4000000,2322740,1677260,Luigi Sepe,Luigi Sepe,1991,28,185,75,Italy,Europe,Torwart,Parma Calcio 1913,Serie A (ITA),1,False,0,75,Left,2 Stars
+150,14500000,6611268,7888732,Dean Henderson,Dean Henderson,1997,22,190,85,England,Europe,Torwart,Sheffield United,Premier League (ENG),1,True,0,75,Right,2 Stars
+151,5500000,1460566,4039434,Sam Johnstone,Sam Johnstone,1993,27,193,85,England,Europe,Torwart,West Bromwich Albion,Championship (ENG),2,False,0,75,Right,3 Stars
+152,300000,503828,-203828,Ramazan Özcan,Ramazan Özcan,1984,35,184,78,Austria,Europe,Torwart,Bayer 04 Leverkusen,1. Bundesliga (GER),1,False,10,75,Left,3 Stars
+153,475000,1574465,-1099465,Miguel Silva,João Miguel Macedo da Silva,1995,24,190,78,Portugal,Europe,Torwart,Vitória Guimarães SC,Liga NOS (POR),1,False,0,75,Right,3 Stars
+154,2400000,1574465,825535,Tiago Sá,Tiago Magalhães de Sá,1995,24,185,78,Portugal,Europe,Torwart,SC Braga,Liga NOS (POR),1,False,0,75,Right,3 Stars
+155,1200000,873786,326214,Rafal Gikiewicz,Rafał Gikiewicz,1987,32,190,81,Poland,Europe,Torwart,1. FC Union Berlin,1. Bundesliga (GER),1,False,0,75,Right,2 Stars
+156,400000,551584,-151584,Artur Boruc,Artur Boruc,1980,40,193,87,Poland,Europe,Torwart,AFC Bournemouth,Premier League (ENG),1,False,65,75,Right,3 Stars
+157,325000,523167,-198167,Cristian Álvarez,Cristian Darío Álvarez,1985,34,186,83,Argentina,South America,Torwart,Real Saragossa,LaLiga2 (ESP),2,False,0,75,Right,3 Stars
+158,2800000,4064125,-1264125,Paulo Gazzaniga,Paulo Dino Gazzaniga,1992,28,196,90,Argentina,South America,Torwart,Tottenham Hotspur,Premier League (ENG),1,False,1,75,Right,3 Stars
+159,1200000,499137,700863,Marcelo Barovero,Marcelo Barovero,1984,36,182,74,Argentina,South America,Torwart,CF Monterrey,Liga MX Clausura (MEX),1,False,0,75,Right,3 Stars
+160,600000,476434,123566,Willy Caballero,Wilfredo Daniel Caballero,1981,38,186,81,Argentina,South America,Torwart,FC Chelsea,Premier League (ENG),1,False,5,75,Right,3 Stars
+161,2800000,4871823,-2071823,Emiliano Martínez,Emiliano Martínez,1992,28,193,85,Argentina,South America,Torwart,FC Arsenal,Premier League (ENG),1,False,0,75,Right,3 Stars
+162,300000,481532,-181532,Mariano Barbosa,Mariano Damián Barbosa,1984,35,188,79,Argentina,South America,Torwart,FC Villarreal,LaLiga (ESP),1,False,0,75,Right,2 Stars
+163,300000,969632,-669632,Volkan Babacan,Volkan Babacan,1988,31,192,86,Turkey,Asia,Torwart,Istanbul Basaksehir FK,Süper Lig (TUR),1,False,36,75,Right,2 Stars
+164,4000000,1471819,2528181,Mert Günok,Fehmi Mert Günok,1989,31,196,92,Turkey,Asia,Torwart,Istanbul Basaksehir FK,Süper Lig (TUR),1,True,15,75,Right,2 Stars
+165,800000,1521655,-721655,Gabriel,Gabriel Vasconelos Ferreira,1992,27,193,90,Brazil,South America,Torwart,US Lecce,Serie A (ITA),1,False,2,75,Right,2 Stars
+166,475000,365736,109264,Cássio,Cássio Albuquerque dos Anjos,1980,39,185,83,Brazil,South America,Torwart,Al-Taawon,Saudi Professional League (KSA),1,False,0,75,Right,2 Stars
+167,800000,1471819,-671819,Christian Mathenia,Christian Mathenia,1992,28,189,90,Germany,Europe,Torwart,1. FC Nürnberg,2. Bundesliga (GER),2,False,0,75,Right,1 Star
+168,600000,977908,-377908,Thomas Kraft,Thomas Kraft,1988,31,187,85,Germany,Europe,Torwart,Hertha BSC,1. Bundesliga (GER),1,False,0,75,Right,4 Stars
+169,200000,332734,-132734,Rafael,Rafael  de Andrade Bittencourt Pinheiro,1982,38,187,80,Brazil,South America,Torwart,Cagliari Calcio,Serie A (ITA),1,False,0,75,Right,3 Stars
+170,2000000,823748,1176252,Kiko Casilla,Francisco Casilla Cortés,1986,34,190,86,Spain,Europe,Torwart,Leeds United,Championship (ENG),2,False,1,75,Right,2 Stars
+171,2400000,6172879,-3772879,Florian Müller,Florian Müller,1997,22,190,85,Germany,Europe,Torwart,1. FSV Mainz 05,1. Bundesliga (GER),1,False,0,75,Left,3 Stars
+172,9500000,4629635,4870365,Alexander Nübel,Alexander Nübel,1996,23,193,86,Germany,Europe,Torwart,FC Schalke 04,1. Bundesliga (GER),1,False,0,75,Right,5 Stars
+173,1200000,885276,314724,Sergio Álvarez,Sergio Álvarez Conde,1986,34,180,75,Spain,Europe,Torwart,Celta Vigo,LaLiga (ESP),1,False,0,75,Right,2 Stars
+174,1200000,768157,431843,Yoel Rodríguez,Yoel Rodríguez Oterino,1988,31,185,78,Spain,Europe,Torwart,SD Eibar,LaLiga (ESP),1,False,0,74,Right,5 Stars
+175,250000,331253,-81253,Yohann Pelé,Yohann Pelé,1982,38,196,89,France,Europe,Torwart,Olympique Marseille,Ligue 1 (FRA),1,False,0,74,Right,3 Stars
+176,200000,265819,-65819,Dani Giménez,Daniel Giménez Hernández,1983,36,182,77,Spain,Europe,Torwart,Deportivo La Coruna,LaLiga2 (ESP),2,False,0,74,Right,2 Stars
+177,1600000,961128,638872,Oier Olazábal,Oier Olazábal Paredes,1989,30,190,91,Spain,Europe,Torwart,Espanyol Barcelona,LaLiga (ESP),1,False,0,74,Left,3 Stars
+178,2400000,1684296,715704,Bruno Varela,Bruno Miguel Semedo Varela,1994,26,191,87,Portugal,Europe,Torwart,Ajax Amsterdam,Eredivisie (NED),1,False,0,74,Right,3 Stars
+179,1000000,1413392,-413393,Daniel Heuer Fernandes,Daniel  Heuer Fernandes,1992,27,188,81,Portugal,Europe,Torwart,Hamburger SV,2. Bundesliga (GER),2,False,0,74,Right,4 Stars
+180,450000,885276,-435276,Marafona,José Carlos Coentrão Marafona,1987,32,190,86,Portugal,Europe,Torwart,Alanyaspor,Süper Lig (TUR),1,False,1,74,Right,2 Stars
+181,250000,329800,-79800,Ludovic Butelle,Ludovic Butelle,1983,37,188,84,France,Europe,Torwart,SCO Angers,Ligue 1 (FRA),1,False,0,74,Left,3 Stars
+182,675000,1421481,-746481,Bill Hamid,Bill Hamid,1990,29,191,102,United States,North America,Torwart,D.C. United,Major League Soccer (USA),1,True,7,74,Right,3 Stars
+183,800000,538657,261343,Alfredo Talavera,Alfredo Talavera Díaz,1982,37,188,82,Mexico,North America,Torwart,Deportivo Toluca,Liga MX Clausura (MEX),1,False,27,74,Right,4 Stars
+184,200000,435153,-235153,Romain Salin,Romain Jules Salin,1984,35,189,76,France,Europe,Torwart,FC Stade Rennes,Ligue 1 (FRA),1,False,0,74,Left,2 Stars
+185,300000,499951,-199951,Keiren Westwood,Keiren Westwood,1984,35,187,86,Republic of Ireland,Europe,Torwart,Sheffield Wednesday,Championship (ENG),2,False,21,74,Left,4 Stars
+186,950000,852289,97711,Eloy Room,Eloy Room,1989,30,188,81,Curacao,North America,Torwart,Columbus Crew SC,Major League Soccer (USA),1,True,34,74,Right,3 Stars
+187,650000,526364,123636,Munir,Munir Mohand Mohamedi,1989,30,190,89,Morocco,Africa,Torwart,FC Málaga,LaLiga2 (ESP),2,True,38,74,Right,3 Stars
+188,1600000,1827232,-227232,Antonio Rodríguez,José Antonio Rodríguez Romero,1992,28,186,85,Mexico,North America,Torwart,Deportivo Guadalajara,Liga MX Clausura (MEX),1,False,0,74,Right,3 Stars
+189,4500000,4735100,-235100,Justin Bijlow,Justin Bijlow,1998,22,188,76,Netherlands,Europe,Torwart,Feyenoord Rotterdam,Eredivisie (NED),1,False,0,74,Right,2 Stars
+190,4800000,1521655,3278345,Marco Silvestri,Marco Silvestri,1991,29,191,80,Italy,Europe,Torwart,Hellas Verona,Serie A (ITA),1,False,0,74,Right,2 Stars
+191,800000,1772281,-972281,Sokratis Dioudis,Sokratis Dioudis,1993,27,189,75,Greece,Europe,Torwart,Panathinaikos Athen,misc_other_teams (MISC),1,False,0,74,Right,2 Stars
+192,2400000,1684296,715704,Frederik Rönnow,Frederik Rønnow,1992,28,190,77,Denmark,Europe,Torwart,Eintracht Frankfurt,1. Bundesliga (GER),1,True,7,74,Right,2 Stars
+193,550000,565546,-15546,Nicolás Vikonis,Nicolás Vikonis Mureau,1984,35,184,86,Uruguay,South America,Torwart,Puebla FC,Liga MX Clausura (MEX),1,False,0,74,Left,3 Stars
+194,1200000,968342,231658,Rodrigo Rey,Rodrigo Rey,1991,28,190,73,Argentina,South America,Torwart,Club Deportivo Godoy Cruz Antonio Tomba,Superliga (ARG),1,False,0,74,Right,3 Stars
+195,950000,500412,449588,Mariano Andújar,Mariano Gonzalo Andújar,1983,36,194,86,Argentina,South America,Torwart,Club Estudiantes de La Plata,Superliga (ARG),1,False,11,74,Right,3 Stars
+196,1600000,1718906,-118906,Agustín Rossi,Agustín Daniel Rossi,1995,24,193,95,Argentina,South America,Torwart,Club Atlético Lanús,Superliga (ARG),1,False,0,74,Right,2 Stars
+197,2800000,1684296,1115704,Cican Stankovic,Cican Stanković,1992,28,186,80,Austria,Europe,Torwart,Red Bull Salzburg,Bundesliga (AUT),1,False,4,74,Right,4 Stars
+198,2400000,1657852,742148,Thomas Kaminski,Thomas Kaminski,1992,27,190,80,Belgium,Europe,Torwart,KAA Gent,Jupiler Pro League (BEL),1,False,0,74,Right,3 Stars
+199,800000,733126,66874,Diego Mariño,Diego Mariño Villar,1990,29,187,76,Spain,Europe,Torwart,Sporting Gijón,LaLiga2 (ESP),2,False,0,74,Right,3 Stars
+200,725000,852289,-127289,Heinz Lindner,Heinz Lindner,1990,29,187,80,Austria,Europe,Torwart,SV Wehen Wiesbaden,2. Bundesliga (GER),2,False,28,74,Right,3 Stars
+201,600000,751798,-151798,Rafael,Rafael Cabral Barbosa,1990,29,186,83,Brazil,South America,Torwart,FC Reading,Championship (ENG),2,False,3,74,Right,2 Stars
+202,650000,527257,122743,Daniele Padelli,Daniele Padelli,1985,34,191,82,Italy,Europe,Torwart,Inter Mailand,Serie A (ITA),1,False,0,74,Left,2 Stars
+203,650000,877180,-227180,Charles,Charles Marcelo da Silva,1994,26,186,84,Brazil,South America,Torwart,CS Marítimo,Liga NOS (POR),1,False,0,74,Right,2 Stars
+204,400000,527257,-127257,Tobias Sippel,Tobias Sippel,1988,32,183,78,Germany,Europe,Torwart,Borussia Mönchengladbach,1. Bundesliga (GER),1,False,0,74,Right,2 Stars
+205,4500000,2322740,2177260,Ondrej Kolar,Ondřej Kolář,1994,25,193,81,Czech Republic,Europe,Torwart,SK Slavia Prag,misc_other_teams (MISC),1,True,1,73,Right,3 Stars
+206,1000000,579906,420094,Brad Jones,Brad Jones,1982,38,193,87,Australia,Oceania/Australia,Torwart,Al-Nasr Riad,Saudi Professional League (KSA),1,False,6,73,Left,2 Stars
+207,1000000,1423358,-423358,Milan Heca,Milan Heča,1991,29,187,83,Czech Republic,Europe,Torwart,AC Sparta Prag,misc_other_teams (MISC),1,False,0,73,Right,2 Stars
+208,300000,285424,14576,Nicolas Penneteau,Nicolas Penneteau,1981,39,185,86,France,Europe,Torwart,RSC Charleroi,Jupiler Pro League (BEL),1,False,0,73,Left,3 Stars
+209,650000,1684296,-1034296,Yoan Cardinale,Yoan Cardinale,1994,26,181,84,France,Europe,Torwart,OGC Nizza,Ligue 1 (FRA),1,False,0,73,Right,3 Stars
+210,5500000,4343390,1156609,Gautier Larsonneur,Gautier Larsonneur,1997,23,181,70,France,Europe,Torwart,Stade Brest 29,Ligue 1 (FRA),1,False,0,73,Right,2 Stars
+211,1200000,2660496,-1460496,Bingourou Kamara,Bingourou Kamara,1996,23,193,84,France,Europe,Torwart,RC Straßburg Alsace,Ligue 1 (FRA),1,False,0,73,Right,3 Stars
+212,1600000,1925143,-325143,Paul Nardi,Paul Nardi,1994,25,188,82,France,Europe,Torwart,FC Lorient,Ligue 2 (FRA),2,False,0,73,Right,3 Stars
+213,800000,512957,287043,Jean-Louis Leca,Jean-Louis Leca,1985,34,180,75,France,Europe,Torwart,RC Lens,Ligue 2 (FRA),2,False,0,73,Right,3 Stars
+214,200000,393912,-193912,Artem Rebrov,Artem Rebrov,1984,36,194,90,Russia,Asia,Torwart,Spartak Moskau,misc_other_teams (MISC),1,False,1,73,Right,3 Stars
+215,300000,301112,-1112,Vincent Demarconnay,Vincent De Marconnay,1983,37,180,73,France,Europe,Torwart,Paris FC,Ligue 2 (FRA),2,False,0,73,Right,3 Stars
+216,4500000,5388098,-888098,Wuilker Fariñez,Wuilker Faríñez,1998,22,181,81,Venezuela,South America,Torwart,Millonarios FC,Liga DIMAYOR I (COL),1,True,24,73,Right,3 Stars
+217,650000,1471819,-821819,Jacob Rinne,Jacob Rinne,1993,26,187,81,Sweden,Europe,Torwart,Aalborg BK,Superligaen (DEN),1,False,3,73,Left,2 Stars
+218,1000000,1703261,-703261,Karl-Johan Johnsson,Karl-Johan Johnsson,1990,30,189,84,Sweden,Europe,Torwart,FC Kopenhagen,Superligaen (DEN),1,False,7,73,Right,2 Stars
+219,2800000,1684296,1115704,Richard Strebinger,Richard Strebinger,1993,27,194,90,Austria,Europe,Torwart,SK Rapid Wien,Bundesliga (AUT),1,False,1,73,Right,2 Stars
+220,3200000,2142504,1057496,Robin Zentner,Robin Zentner,1994,25,194,96,Germany,Europe,Torwart,1. FSV Mainz 05,1. Bundesliga (GER),1,False,0,73,Right,3 Stars
+221,950000,1530302,-580302,Masaaki Higashiguchi,東口 順昭,1986,33,184,78,Japan,Asia,Torwart,Gamba Osaka,J1 League (JPN),1,False,8,73,Right,3 Stars
+222,550000,598090,-48090,Maarten Stekelenburg,Maarten Stekelenburg,1982,37,197,92,Netherlands,Europe,Torwart,FC Everton,Premier League (ENG),1,False,58,73,Right,4 Stars
+223,4000000,1194513,2805487,Tim Krul,Tim Krul,1988,32,188,74,Netherlands,Europe,Torwart,Norwich City,Premier League (ENG),1,False,8,73,Left,2 Stars
+224,400000,733126,-333126,Joe Lewis,Joe Lewis,1987,32,198,85,England,Europe,Torwart,Aberdeen FC,Scottish Premiership (SCO),1,False,0,73,Right,3 Stars
+225,9500000,3039608,6460392,Ugurcan Cakir,Uğurcan Çakır,1996,24,191,82,Turkey,Asia,Torwart,Trabzonspor,Süper Lig (TUR),1,True,2,73,Right,3 Stars
+226,1300000,2142504,-842504,Gökhan Akkan,Gökhan Akkan,1995,25,186,80,Turkey,Asia,Torwart,Caykur Rizespor,Süper Lig (TUR),1,True,0,73,Right,2 Stars
+227,475000,527257,-52257,Matías Dituro,Matías Dituro,1987,32,191,90,Argentina,South America,Torwart,CD Universidad Católica,Primera División de Chile (CHI),1,False,0,73,Right,3 Stars
+228,2200000,1727410,472590,Ezequiel Unsain,Ezequiel Unsain,1995,24,188,83,Argentina,South America,Torwart,Defensa y Justicia,Superliga (ARG),1,False,0,73,Right,3 Stars
+229,11000000,5190447,5809553,Bartlomiej Dragowski,Bartłomiej Drągowski,1997,22,188,74,Poland,Europe,Torwart,AC Florenz,Serie A (ITA),1,False,0,73,Right,2 Stars
+230,2400000,1968124,431876,Karl Darlow,Karl Darlow,1990,29,190,78,England,Europe,Torwart,Newcastle United,Premier League (ENG),1,False,0,73,Right,2 Stars
+231,6500000,1838024,4661976,Fraser Forster,Fraser Forster,1988,32,201,93,England,Europe,Torwart,Celtic Glasgow,Scottish Premiership (SCO),1,False,6,73,Right,5 Stars
+232,6500000,6625710,-125710,Danny Ward,Danny Ward,1993,26,191,88,Wales,Europe,Torwart,Leicester City,Premier League (ENG),1,True,7,73,Right,3 Stars
+233,200000,264206,-64206,René,René Román Hinojo,1983,36,183,79,Spain,Europe,Torwart,SD Ponferradina,LaLiga2 (ESP),2,False,0,73,Right,2 Stars
+234,1200000,813124,386876,Sebastián Sosa,Carlos Sebastián Sosa Silva,1986,33,182,79,Uruguay,South America,Torwart,Monarcas Morelia,Liga MX Clausura (MEX),1,False,0,73,Right,3 Stars
+235,400000,333622,66378,Leonardo Burián,Leonardo Fabián Burián Castro,1984,36,188,81,Uruguay,South America,Torwart,Club Atlético Colón,Superliga (ARG),1,False,0,73,Right,3 Stars
+236,300000,563189,-263189,Sebastián Viera,Mario Sebastián Viera Galain,1983,36,184,86,Uruguay,South America,Torwart,Junior FC,Liga DIMAYOR I (COL),1,False,15,73,Right,3 Stars
+237,325000,340853,-15853,Philipp Tschauner,Philipp Tschauner,1985,35,196,93,Germany,Europe,Torwart,RasenBallsport Leipzig,1. Bundesliga (GER),1,False,0,73,Right,3 Stars
+238,600000,309080,290920,Alexander Walke,Alexander Walke,1983,36,189,88,Germany,Europe,Torwart,Red Bull Salzburg,Bundesliga (AUT),1,False,0,73,Right,3 Stars
+239,800000,1657852,-857852,Stefanos Kapino,Stefanos Kapino,1994,26,196,91,Greece,Europe,Torwart,SV Werder Bremen,1. Bundesliga (GER),1,False,9,73,Right,2 Stars
+240,1400000,1795645,-395645,Iván Arboleda,Iván Mauricio Arboleda,1996,24,185,76,Colombia,South America,Torwart,Club Atlético Banfield,Superliga (ARG),1,False,1,73,Right,2 Stars
+241,800000,957692,-157692,Alberto Brignoli,Alberto Brignoli,1991,28,187,74,Italy,Europe,Torwart,FC Empoli,Serie B (ITA),2,False,0,73,Left,3 Stars
+242,200000,326601,-126601,Federico Marchetti,Federico Marchetti,1983,36,188,83,Italy,Europe,Torwart,FC Genua 1893,Serie A (ITA),1,False,11,73,Left,3 Stars
+243,800000,594051,205949,Tomeu Nadal,Bartolomé Nadal Mesquida,1989,30,187,82,Spain,Europe,Torwart,Albacete Balompié,LaLiga2 (ESP),2,False,0,73,Right,3 Stars
+244,650000,1480183,-830183,Francesco Bardi,Francesco Bardi,1992,28,188,80,Italy,Europe,Torwart,Frosinone Calcio,Serie B (ITA),2,False,0,73,Right,1 Star
+245,16000000,8551155,7448845,Unai Simón,Unai Simón Mendibil,1997,22,190,89,Spain,Europe,Torwart,Athletic Bilbao,LaLiga (ESP),1,False,0,73,Right,2 Stars
+247,400000,528547,-128547,Juan Carlos,Juan Carlos Martín Corral,1988,32,187,82,Spain,Europe,Torwart,FC Girona,LaLiga2 (ESP),2,False,0,73,Right,3 Stars
+248,725000,2789790,-2064790,Davy Roef,Davy Roef,1994,25,187,86,Belgium,Europe,Torwart,RSC Anderlecht,Jupiler Pro League (BEL),1,False,0,73,Right,3 Stars
+249,5500000,1545927,3954073,Hendrik Van Crombrugge,Hendrik Van Crombrugge,1993,27,188,88,Belgium,Europe,Torwart,RSC Anderlecht,Jupiler Pro League (BEL),1,True,0,73,Left,2 Stars
+250,475000,777874,-302874,Enrico Alfonso,Enrico Alfonso,1988,32,191,87,Italy,Europe,Torwart,Brescia Calcio,Serie A (ITA),1,False,0,73,Right,2 Stars
+251,650000,777874,-127874,Tim Melia,Tim Melia,1986,33,185,86,United States,North America,Torwart,Sporting Kansas City,Major League Soccer (USA),1,False,0,73,Right,2 Stars
+252,800000,594051,205949,Stefan Frei,Stefan Frei,1986,34,191,88,United States,North America,Torwart,Seattle Sounders FC,Major League Soccer (USA),1,False,0,73,Right,2 Stars
+253,1200000,2834112,-1634112,Antonio Sivera,Antonio Sivera Salvá,1996,23,184,75,Spain,Europe,Torwart,UD Almería,LaLiga2 (ESP),2,False,0,73,Right,3 Stars
+254,450000,885276,-435276,Vincenzo Fiorillo,Vincenzo Fiorillo,1990,30,190,79,Italy,Europe,Torwart,Delfino Pescara 1936,Serie B (ITA),2,False,0,73,Right,2 Stars
+255,1000000,1684296,-684296,Mirko Pigliacelli,Mirko Pigliacelli,1993,26,184,83,Italy,Europe,Torwart,CS U Craiova,Liga 1 (ROU),1,False,0,73,Right,2 Stars
+256,675000,571134,103866,Ales Hruska,Aleš Hruška,1985,34,192,88,Czech Republic,Europe,Torwart,FC Viktoria Pilsen,misc_other_teams (MISC),1,False,0,73,Right,2 Stars
+257,1600000,823748,776252,Alexandre Oukidja,Alexandre Oukidja,1988,31,184,79,Algeria,Africa,Torwart,FC Metz,Ligue 1 (FRA),1,True,2,73,Right,2 Stars
+258,5500000,6026090,-526091,Predrag Rajkovic,Predrag Rajkovic,1995,24,192,89,Serbia,Europe,Torwart,Stade Reims,Ligue 1 (FRA),1,True,13,73,Right,2 Stars
+259,4800000,3039608,1760392,Jonas Omlin,Jonas Omlin,1994,25,189,80,Switzerland,Europe,Torwart,FC Basel 1893,Super League (SUI),1,True,0,73,Right,3 Stars
+260,3200000,1703261,1496739,Brice Samba,Brice Samba,1994,26,186,79,Congo,Africa,Torwart,Nottingham Forest,Championship (ENG),2,False,0,73,Left,3 Stars
+261,2800000,3039608,-239608,David von Ballmoos,David von Ballmoos,1994,25,192,90,Switzerland,Europe,Torwart,BSC Young Boys,Super League (SUI),1,False,0,73,Right,3 Stars
+262,1600000,1603046,-3046,Giedrius Arlauskis,Giedrius Arlauskis,1987,33,192,85,Lithuania,Europe,Torwart,CFR Cluj,Liga 1 (ROU),1,False,23,73,Right,3 Stars
+263,800000,1696344,-896344,Edgar Badia,Edgar Badía Guardiola,1992,27,180,79,Spain,Europe,Torwart,FC Elche,LaLiga2 (ESP),2,False,0,73,Right,3 Stars
+264,1400000,885276,514724,Alfredo Saldívar,Alfredo Saldívar Medina,1990,29,183,78,Mexico,North America,Torwart,UNAM Pumas,Liga MX Clausura (MEX),1,False,0,72,Right,3 Stars
+265,800000,885276,-85276,Kristoffer Nordfeldt,Kristoffer Nordfeldt,1989,30,190,85,Sweden,Europe,Torwart,Genclerbirligi Ankara,Süper Lig (TUR),1,False,11,72,Right,2 Stars
+266,525000,910734,-385734,Julian Pollersbeck,Julian Pollersbeck,1994,25,195,87,Germany,Europe,Torwart,Hamburger SV,2. Bundesliga (GER),2,False,0,72,Right,3 Stars
+267,475000,539510,-64510,Felix Wiedwald,Felix Wiedwald,1990,30,190,82,Germany,Europe,Torwart,Eintracht Frankfurt,1. Bundesliga (GER),1,False,0,72,Right,2 Stars
+268,400000,426756,-26757,Andreas Luthe,Andreas Luthe,1987,32,195,85,Germany,Europe,Torwart,FC Augsburg,1. Bundesliga (GER),1,False,0,72,Right,3 Stars
+269,300000,264206,35794,Michael Rensing,Michael Rensing,1984,35,190,91,Germany,Europe,Torwart,Fortuna Düsseldorf,1. Bundesliga (GER),1,False,0,72,Right,3 Stars
+270,325000,499951,-174951,Raphael Wolf,Raphael Wolf,1988,31,190,86,Germany,Europe,Torwart,Fortuna Düsseldorf,1. Bundesliga (GER),1,False,0,72,Right,2 Stars
+271,1200000,1657852,-457852,Raúl Gudiño,Raúl Gudiño,1996,24,196,92,Mexico,North America,Torwart,Deportivo Guadalajara,Liga MX Clausura (MEX),1,False,5,72,Right,1 Star
+272,800000,861740,-61740,David Jensen,David Jensen,1992,28,195,92,Denmark,Europe,Torwart,New York Red Bulls,Major League Soccer (USA),1,False,0,72,Right,3 Stars
+273,400000,538657,-138657,Carlo Pinsoglio,Carlo Pinsoglio,1990,30,194,85,Italy,Europe,Torwart,Juventus Turin,Serie A (ITA),1,False,0,72,Left,2 Stars
+274,1300000,1820825,-520825,Simone Scuffet,Simone Scuffet,1996,23,190,78,Italy,Europe,Torwart,Spezia Calcio,Serie B (ITA),2,False,0,72,Right,2 Stars
+275,325000,291030,33970,Alex Cordaz,Alex Cordaz,1983,37,188,83,Italy,Europe,Torwart,FC Crotone,Serie B (ITA),2,False,0,72,Right,1 Star
+276,400000,405544,-5544,Sammy Bossut,Sammy Bossut,1985,34,187,80,Belgium,Europe,Torwart,SV Zulte Waregem,Jupiler Pro League (BEL),1,False,1,72,Right,3 Stars
+277,800000,575017,224983,Scott Carson,Scott  Carson,1985,35,190,86,England,Europe,Torwart,Manchester City,Premier League (ENG),1,False,4,72,Right,3 Stars
+278,600000,421504,178496,Lee Grant,Lee Grant,1983,37,193,83,England,Europe,Torwart,Manchester United,Premier League (ENG),1,False,0,72,Right,4 Stars
+280,400000,512957,-112957,Wes Foderingham,Wes Foderingham,1991,29,185,75,England,Europe,Torwart,Glasgow Rangers,Scottish Premiership (SCO),1,False,0,72,Left,3 Stars
+281,200000,277411,-77411,Luciano Pocrnjic,Luciano Darío Pocrnjic,1981,39,192,86,Argentina,South America,Torwart,Club Atlético Aldosivi,Superliga (ARG),1,False,0,72,Right,3 Stars
+282,200000,279829,-79829,Nereo Champagne,Nereo Champagne,1985,35,190,82,Argentina,South America,Torwart,Real Oviedo,LaLiga2 (ESP),2,False,0,72,Right,2 Stars
+284,250000,274974,-24974,Nicolás Navarro,Nicolás Gastón Navarro,1985,35,191,87,Argentina,South America,Torwart,Club Atlético San Lorenzo de Almagro,Superliga (ARG),1,False,0,72,Left,2 Stars
+285,2200000,1587166,612834,Mohammed Al-Owais,Mohammed Khalil Al Owais,1991,28,187,79,Saudi Arabia,Asia,Torwart,Al-Ahli Dschidda,Saudi Professional League (KSA),1,True,7,72,Left,3 Stars
+286,900000,733126,166875,Farouk Ben Mustapha,Farouk Ben Mustapha,1989,31,194,82,Tunisia,Africa,Torwart,Al-Shabab Riad,Saudi Professional League (KSA),1,True,30,72,Right,2 Stars
+287,4000000,1790315,2209685,Gregor Kobel,Gregor Kobel,1997,22,193,90,Switzerland,Europe,Torwart,VfB Stuttgart,2. Bundesliga (GER),2,False,0,72,Right,2 Stars
+288,2400000,1664281,735719,Stole Dimitrievski,Stole Dimitrievski,1993,26,188,81,FYR Macedonia,Europe,Torwart,Rayo Vallecano,LaLiga2 (ESP),2,True,34,72,Right,2 Stars
+289,1600000,797888,802112,Marcus Bettinelli,Marcus Bettinelli,1992,27,194,82,England,Europe,Torwart,FC Fulham,Championship (ENG),2,False,0,72,Right,3 Stars
+290,950000,1684296,-734296,Isak Pettersson,Isak Pettersson,1997,22,180,80,Sweden,Europe,Torwart,IFK Norrköping,Allsvenskan (SWE),1,True,1,72,Left,3 Stars
+291,1000000,1009256,-9256,Joël Drommel,Joël Drommel,1996,23,192,90,Netherlands,Europe,Torwart,FC Twente Enschede,Eredivisie (NED),1,False,0,72,Right,3 Stars
+292,800000,705808,94192,Amir Abedzadeh,Amir Abedzadeh,1993,27,186,80,Iran,Asia,Torwart,CS Marítimo,Liga NOS (POR),1,False,3,72,Right,2 Stars
+293,600000,361860,238140,Antony Silva,Antony Domingo Silva Cano,1984,36,190,92,Paraguay,South America,Torwart,Club Atlético Huracán,Superliga (ARG),1,True,29,72,Right,3 Stars
+294,400000,456960,-56960,Eduardo,Eduardo dos Reis Carvalho,1982,37,188,84,Portugal,Europe,Torwart,SC Braga,Liga NOS (POR),1,False,36,72,Right,3 Stars
+295,1400000,829630,570370,Sean Johnson,Sean  Johnson,1989,30,190,98,United States,North America,Torwart,New York City FC,Major League Soccer (USA),1,True,9,72,Right,2 Stars
+296,650000,885276,-235276,Mitchell Langerak,Mitchell Langerak,1988,31,193,84,Australia,Oceania/Australia,Torwart,Nagoya Grampus,J1 League (JPN),1,False,8,72,Right,3 Stars
+297,800000,861740,-61740,Stefan Ortega Moreno,Stefan Ortega Moreno,1992,27,185,88,Germany,Europe,Torwart,Arminia Bielefeld,2. Bundesliga (GER),2,False,0,72,Right,4 Stars
+298,1200000,836181,363819,Örjan Nyland,Ørjan  Håskjold Nyland,1990,29,192,90,Norway,Europe,Torwart,Aston Villa,Premier League (ENG),1,True,28,72,Right,4 Stars
+299,3200000,768319,2431681,Léo Jardim,Leonardo Cesar Jardim,1995,25,188,74,Brazil,South America,Torwart,LOSC Lille,Ligue 1 (FRA),1,False,0,72,Right,2 Stars
+300,300000,287979,12021,Alberto García,Alberto García Cabrera,1985,34,182,77,Spain,Europe,Torwart,Rayo Vallecano,LaLiga2 (ESP),2,False,0,72,Right,3 Stars
+301,475000,509009,-34009,Brad Guzan,Bradley Guzan,1984,35,193,95,United States,North America,Torwart,Atlanta United FC,Major League Soccer (USA),1,False,64,72,Left,2 Stars
+302,200000,267293,-67293,Angelo da Costa,Angelo Esmael da Costa Júnior,1983,36,186,81,Brazil,South America,Torwart,FC Bologna,Serie A (ITA),1,False,0,72,Right,2 Stars
+303,800000,590699,209301,Craig Gordon,Craig  Gordon,1982,37,193,83,Scotland,Europe,Torwart,Celtic Glasgow,Scottish Premiership (SCO),1,False,54,72,Left,3 Stars
+304,800000,649592,150408,Jhonatan,Jhonatan Luiz da Siqueira,1991,28,189,79,Brazil,South America,Torwart,Vitória Guimarães SC,Liga NOS (POR),1,False,0,72,Right,2 Stars
+305,950000,777874,172126,Shusaku Nishikawa,西川 周作,1986,33,183,81,Japan,Asia,Torwart,Urawa Red Diamonds,J1 League (JPN),1,False,31,72,Left,3 Stars
+306,1400000,942526,457474,Ethan Horvath,Ethan Horvath,1995,24,195,83,United States,North America,Torwart,FC Brügge,Jupiler Pro League (BEL),1,False,4,72,Right,3 Stars
+307,950000,751798,198202,Mark Flekken,Mark Flekken,1993,26,195,87,Netherlands,Europe,Torwart,SC Freiburg,1. Bundesliga (GER),1,False,0,72,Right,4 Stars
+308,2000000,968342,1031658,Álvaro Montero,Álvaro David Montero Perales,1995,25,196,85,Colombia,South America,Torwart,Deportes Tolima,Liga DIMAYOR I (COL),1,False,3,72,Right,3 Stars
+309,2000000,1038420,961580,Jean Butez,Jean Butez,1995,24,191,83,France,Europe,Torwart,Royal Excel Mouscron,Jupiler Pro League (BEL),1,False,0,72,Right,3 Stars
+310,475000,498385,-23385,Ricardo Ferreira,Ricardo Abel Barbosa Ferreira,1989,31,188,82,Portugal,Europe,Torwart,Portimonense SC,Liga NOS (POR),1,False,0,72,Right,3 Stars
+311,650000,715654,-65654,Sun-tae Kwon,권순태 权纯泰,1984,35,184,85,Korea Republic,Asia,Torwart,Kashima Antlers,J1 League (JPN),1,False,6,72,Right,2 Stars
+312,3500000,852289,2647711,Alexander Schlager,Alexander Schlager,1996,24,184,77,Austria,Europe,Torwart,LASK,Bundesliga (AUT),1,True,1,71,Right,3 Stars
+313,4000000,827908,3172092,Rui Silva,Rui Tiago Dantas da Silva,1994,25,191,91,Portugal,Europe,Torwart,FC Granada,LaLiga (ESP),1,False,0,71,Right,3 Stars
+314,4000000,1782352,2217648,Jesse Joronen,Jesse Joronen,1993,27,197,89,Finland,Europe,Torwart,Brescia Calcio,Serie A (ITA),1,True,8,71,Left,3 Stars
+315,475000,852289,-377289,Hyeon-mu Kang,강현무 姜贤茂,1995,25,185,78,Korea Republic,Asia,Torwart,Pohang Steelers,K League 1 (KOR),1,False,0,71,Right,3 Stars
+316,800000,733126,66874,Jörg Siebenhandl,Jörg Siebenhandl,1990,30,183,81,Austria,Europe,Torwart,SK Sturm Graz,Bundesliga (AUT),1,True,2,71,Left,4 Stars
+317,650000,502166,147834,Pavao Pervan,Pavao Pervan,1987,32,194,92,Austria,Europe,Torwart,VfL Wolfsburg,1. Bundesliga (GER),1,True,1,71,Right,4 Stars
+318,250000,319702,-69702,Remko Pasveer,Remko Pasveer,1983,36,188,88,Netherlands,Europe,Torwart,Vitesse Arnheim,Eredivisie (NED),1,False,0,71,Right,4 Stars
+319,400000,365736,34264,Denis,Denis Cesar de Matos,1987,33,188,86,Brazil,South America,Torwart,Gil Vicente FC,Liga NOS (POR),1,False,0,71,Right,2 Stars
+320,600000,733126,-133126,Scott Bain,Scott Bain,1991,28,180,84,Scotland,Europe,Torwart,Celtic Glasgow,Scottish Premiership (SCO),1,False,3,71,Right,3 Stars
+321,400000,366517,33483,David Marshall,David Marshall,1985,35,190,83,Scotland,Europe,Torwart,Wigan Athletic,Championship (ENG),2,True,33,71,Right,3 Stars
+322,400000,768606,-368607,Pietro Terracciano,Pietro Terracciano,1990,29,193,78,Italy,Europe,Torwart,AC Florenz,Serie A (ITA),1,False,0,71,Right,2 Stars
+323,550000,502360,47640,Helton Leite,Helton Brant Aleixo Leite,1990,30,196,92,Brazil,South America,Torwart,Boavista Porto FC,Liga NOS (POR),1,False,0,71,Right,2 Stars
+324,325000,530615,-205615,Dani Jiménez,Daniel Jiménez López,1990,30,179,72,Spain,Europe,Torwart,AD Alcorcón,LaLiga2 (ESP),2,False,0,71,Right,3 Stars
+325,1200000,682010,517990,Warner Hahn,Warner Hahn,1992,27,190,88,Netherlands,Europe,Torwart,SC Heerenveen,Eredivisie (NED),1,False,0,71,Right,2 Stars
+326,950000,537935,412065,Sung-ryong Jung,정성룡 郑俊玄,1985,35,191,90,Korea Republic,Asia,Torwart,Kawasaki Frontale,J1 League (JPN),1,False,67,71,Right,3 Stars
+327,400000,508781,-108781,Raúl Lizoain,Raúl Lizoáin Cruz,1991,29,186,83,Spain,Europe,Torwart,CD Mirandés,LaLiga2 (ESP),2,False,0,71,Left,2 Stars
+328,1000000,1684296,-684296,Karlo Letica,Karlo Letica,1997,22,201,96,Croatia,Europe,Torwart,SPAL,Serie A (ITA),1,False,0,71,Right,3 Stars
+329,1200000,829630,370370,Leopold Zingerle,Leopold Zingerle,1994,25,185,78,Germany,Europe,Torwart,SC Paderborn 07,1. Bundesliga (GER),1,False,0,71,Right,3 Stars
+330,300000,261800,38200,Philipp Pentke,Philipp Pentke,1985,35,191,84,Germany,Europe,Torwart,TSG 1899 Hoffenheim,1. Bundesliga (GER),1,False,0,71,Right,3 Stars
+331,250000,380596,-130596,Adam Federici,Adam Federici,1985,35,188,90,Australia,Oceania/Australia,Torwart,Stoke City,Championship (ENG),2,True,16,71,Right,2 Stars
+332,650000,515321,134679,William Dutoit,William Dutoit,1988,31,181,76,France,Europe,Torwart,KV Oostende,Jupiler Pro League (BEL),1,False,0,71,Right,3 Stars
+333,325000,560271,-235271,Erwin Zelazny,Erwin Zelazny,1991,28,186,80,France,Europe,Torwart,SM Caen,Ligue 2 (FRA),2,False,0,71,Left,2 Stars
+334,800000,543692,256308,Lucas Hoyos,Lucas Adrián Hoyos,1989,31,183,76,Argentina,South America,Torwart,Club Atlético Vélez Sarsfield,Superliga (ARG),1,False,0,71,Right,3 Stars
+335,475000,441196,33804,Robin Himmelmann,Robin Himmelmann,1989,31,187,80,Germany,Europe,Torwart,FC St. Pauli,2. Bundesliga (GER),2,False,0,71,Right,2 Stars
+336,800000,594051,205949,Janis Blaswich,Janis Blaswich,1991,29,193,88,Germany,Europe,Torwart,Heracles Almelo,Eredivisie (NED),1,False,0,71,Right,3 Stars
+337,475000,533123,-58123,Sascha Burchert,Sascha Burchert,1989,30,187,78,Germany,Europe,Torwart,SpVgg Greuther Fürth,2. Bundesliga (GER),2,False,0,71,Right,3 Stars
+338,650000,538605,111395,Kevin Müller,Kevin Müller,1991,29,190,90,Germany,Europe,Torwart,1. FC Heidenheim 1846,2. Bundesliga (GER),2,False,0,71,Right,3 Stars
+339,1000000,530843,469157,Cristian Balgradean,Cristian Bălgrădean,1988,32,187,83,Romania,Europe,Torwart,FCSB,Liga 1 (ROU),1,False,1,71,Right,3 Stars
+340,250000,285049,-35049,Thomas Kessler,Thomas Kessler,1986,34,197,92,Germany,Europe,Torwart,1. FC Köln,1. Bundesliga (GER),1,False,0,71,Right,3 Stars
+341,300000,393912,-93912,Dusan Kuciak,Dušan Kuciak,1985,34,194,87,Slovakia,Europe,Torwart,Lechia Gdansk,PKO Ekstraklasa (POL),1,False,10,71,Right,2 Stars
+342,350000,500293,-150293,Cristopher Toselli,Cristopher Benjamín Toselli Ríos,1988,31,183,75,Chile,South America,Torwart,CD Universidad Católica,Primera División de Chile (CHI),1,False,9,71,Right,3 Stars
+343,250000,435153,-185153,Frank Boeckx,Frank Boeckx,1986,33,181,80,Belgium,Europe,Torwart,RSC Anderlecht,Jupiler Pro League (BEL),1,False,0,71,Right,3 Stars
+344,325000,400145,-75145,Ruud Boffin,Ruud Boffin,1987,32,196,86,Belgium,Europe,Torwart,Antalyaspor,Süper Lig (TUR),1,False,0,71,Right,2 Stars
+345,475000,515321,-40321,Kenny Steppe,Kenny Steppe,1988,31,184,70,Belgium,Europe,Torwart,VV St. Truiden,Jupiler Pro League (BEL),1,False,0,71,Right,3 Stars
+346,650000,414024,235976,Raúl Fernández,Raúl Fernández-Cavada Mateos,1988,32,195,92,Spain,Europe,Torwart,UD Las Palmas,LaLiga2 (ESP),2,False,0,71,Right,2 Stars
+347,950000,560271,389729,Felipe Rodríguez,Carlos Felipe Rodríguez Rangel,1989,31,184,80,Mexico,North America,Torwart,Atlético de San Luis,Liga MX Clausura (MEX),1,False,0,71,Right,3 Stars
+348,1600000,855630,744370,Hugo González,Hugo Alfonso González Durán,1990,30,185,82,Mexico,North America,Torwart,Club Necaxa,Liga MX Clausura (MEX),1,True,3,71,Right,4 Stars
+349,1200000,823748,376252,Gibrán Lajud,Manuel Gibran Lajud Bojalil,1993,26,180,80,Mexico,North America,Torwart,Club Tijuana,Liga MX Clausura (MEX),1,False,1,71,Right,1 Star
+350,400000,560271,-160271,Óscar Jiménez,Oscar Jiménez,1988,31,182,80,Mexico,North America,Torwart,CF América,Liga MX Clausura (MEX),1,False,0,71,Right,3 Stars
+351,4000000,1470796,2529204,David Raya,David Raya Martin,1995,24,183,75,Spain,Europe,Torwart,FC Brentford,Championship (ENG),2,False,0,71,Right,2 Stars
+352,550000,543884,6116,Marcel Schuhen,Marcel Schuhen,1993,27,188,85,Germany,Europe,Torwart,SV Darmstadt 98,2. Bundesliga (GER),2,False,0,71,Right,3 Stars
+353,550000,733126,-183126,Konstantinos Lamprou,Konstantinos Lamprou,1991,28,178,84,Greece,Europe,Torwart,Vitesse Arnheim,Eredivisie (NED),1,False,0,71,Left,3 Stars
+354,1100000,571134,528866,Jeremías Ledesma,Jeremías Ledesma,1993,27,185,83,Argentina,South America,Torwart,Club Atlético Rosario Central,Superliga (ARG),1,False,0,71,Right,2 Stars
+355,475000,733126,-258126,Panagiotis Tsintotas,Panagiotis Tsintotas,1993,27,192,90,Greece,Europe,Torwart,AEK Athen,misc_other_teams (MISC),1,False,0,71,Right,2 Stars
+356,325000,506697,-181697,Javier García,Javier Hernán García,1987,33,182,77,Argentina,South America,Torwart,Racing Club,Superliga (ARG),1,False,1,71,Right,1 Star
+357,300000,301112,-1112,David González,David González,1982,37,192,85,Colombia,South America,Torwart,Deportivo Cali,Liga DIMAYOR I (COL),1,False,2,71,Right,2 Stars
+358,200000,316825,-116825,Esteban Conde,Esteban Néstor Conde Quintana,1983,37,187,85,Uruguay,South America,Torwart,Club Atlético Banfield,Superliga (ARG),1,False,1,71,Right,3 Stars
+359,2400000,777874,1622126,Mamadou Samassa,Mamadou Samassa,1990,30,198,85,Mali,Africa,Torwart,Sivasspor,Süper Lig (TUR),1,False,14,71,Right,1 Star
+360,1200000,733126,466874,Giorgi Makaridze,Giorgi Makaridze,1990,30,190,85,Georgia,Asia,Torwart,Vitória Setúbal FC,Liga NOS (POR),1,True,14,71,Right,2 Stars
+361,200000,246790,-46790,Sebastián Torrico,Sebastián Alberto Torrico,1980,40,183,84,Argentina,South America,Torwart,Club Atlético San Lorenzo de Almagro,Superliga (ARG),1,False,0,71,Right,2 Stars
+362,475000,499951,-24951,Mauro Goicoechea,Mauro Daniel Goicoechea Furia,1988,32,186,82,Uruguay,South America,Torwart,FC Toulouse,Ligue 1 (FRA),1,False,0,71,Right,2 Stars
+363,300000,499951,-199951,Diego Rodríguez,Diego Rodríguez,1989,30,184,80,Argentina,South America,Torwart,Club Atlético Central Córdoba (SdE),Superliga (ARG),1,False,0,70,Left,2 Stars
+364,400000,691438,-291438,Axel Werner,Axel Werner,1996,24,191,85,Argentina,South America,Torwart,Atlético de San Luis,Liga MX Clausura (MEX),1,False,0,70,Right,2 Stars
+365,600000,575017,24983,Rob Elliot,Rob Elliot,1986,34,190,94,Republic of Ireland,Europe,Torwart,Newcastle United,Premier League (ENG),1,False,4,70,Left,2 Stars
+367,650000,458054,191946,Simone Colombi,Simone Colombi,1991,29,188,83,Italy,Europe,Torwart,Parma Calcio 1913,Serie A (ITA),1,False,0,70,Right,2 Stars
+368,300000,506697,-206697,Andrea Seculin,Andrea Seculin,1990,29,190,80,Italy,Europe,Torwart,Sampdoria Genua,Serie A (ITA),1,False,0,70,Right,3 Stars
+369,350000,527257,-177257,Ivan Provedel,Ivan Provedel,1994,26,192,84,Italy,Europe,Torwart,SS Juve Stabia,Serie B (ITA),2,False,0,70,Right,2 Stars
+370,650000,527257,122743,Alessandro Micai,Alessandro Micai,1993,26,186,77,Italy,Europe,Torwart,US Salernitana 1919,Serie B (ITA),2,False,0,70,Right,2 Stars
+371,950000,570206,379794,Augusto Batalla,Augusto Martín Batalla Barga,1996,24,185,87,Argentina,South America,Torwart,CD O'Higgins,Primera División de Chile (CHI),1,False,0,70,Right,3 Stars
+372,1200000,777874,422126,Jed Steer,Jed Steer,1992,27,188,80,England,Europe,Torwart,Aston Villa,Premier League (ENG),1,False,0,70,Left,2 Stars
+373,400000,333315,66685,Matías Ibáñez,Matías Ibáñez,1986,33,190,88,Argentina,South America,Torwart,Club Atlético Patronato,Superliga (ARG),1,False,0,70,Right,2 Stars
+374,2000000,733126,1266874,John Ruddy,John Ruddy,1986,33,193,97,England,Europe,Torwart,Wolverhampton Wanderers,Premier League (ENG),1,False,1,70,Right,3 Stars
+375,325000,643229,-318229,Carlos Acevedo,Carlos Acevedo López,1996,24,184,74,Mexico,North America,Torwart,Santos Laguna,Liga MX Clausura (MEX),1,False,0,70,Right,3 Stars
+376,400000,691438,-291438,Luis García,Luis Manuel García Palomera,1992,27,183,90,Mexico,North America,Torwart,Deportivo Toluca,Liga MX Clausura (MEX),1,False,0,70,Right,3 Stars
+377,400000,497278,-97278,Andreas Linde,Andreas Linde,1993,26,196,93,Sweden,Europe,Torwart,Molde FK,Eliteserien (NOR),1,False,1,70,Right,2 Stars
+378,800000,547582,252418,Johan Dahlin,Johan Dahlin,1986,33,191,90,Sweden,Europe,Torwart,Malmö FF,Allsvenskan (SWE),1,False,4,70,Right,3 Stars
+379,600000,547582,52418,Oscar Linnér,Oscar Linnér,1997,23,198,82,Sweden,Europe,Torwart,Arminia Bielefeld,2. Bundesliga (GER),2,False,1,70,Right,3 Stars
+380,300000,370656,-70657,Ramazan Köse,Ramazan Köse,1988,31,193,89,Turkey,Asia,Torwart,Kasimpasa,Süper Lig (TUR),1,False,0,70,Right,3 Stars
+382,200000,360622,-160622,Tolgahan Acar,Tolgahan Acar,1986,34,187,78,Turkey,Asia,Torwart,Denizlispor,Süper Lig (TUR),1,False,0,70,Right,1 Star
+383,350000,512957,-162957,Abdoulaye Diallo,Abdoulaye Diallo,1992,28,191,82,Senegal,Africa,Torwart,Genclerbirligi Ankara,Süper Lig (TUR),1,True,17,70,Right,2 Stars
+384,450000,575017,-125017,Maksym Koval,Maksym Koval,1992,27,189,84,Ukraine,Europe,Torwart,Al-Fateh,Saudi Professional League (KSA),1,False,2,70,Right,2 Stars
+385,950000,575017,374983,Oleksiy Shevchenko,Oleksiy Shevchenko,1992,28,188,81,Ukraine,Europe,Torwart,Shakhtar Donetsk,misc_other_teams (MISC),1,False,0,70,Right,3 Stars
+386,900000,615246,284754,Alberto Paleari,Alberto Paleari,1992,27,193,88,Italy,Europe,Torwart,AS Cittadella,Serie B (ITA),2,False,0,70,Right,3 Stars
+387,325000,314252,10748,Kenneth Kronholm,Kenneth Kronholm,1985,34,188,83,United States,North America,Torwart,Chicago Fire FC,Major League Soccer (USA),1,False,0,70,Right,3 Stars
+388,300000,523320,-223320,Jakob Busk,Jakob Busk,1993,26,189,88,Denmark,Europe,Torwart,1. FC Union Berlin,1. Bundesliga (GER),1,False,0,70,Right,2 Stars
+389,1800000,1657852,142148,Markus Schubert,Markus Schubert,1998,21,186,83,Germany,Europe,Torwart,FC Schalke 04,1. Bundesliga (GER),1,False,0,70,Right,3 Stars
+390,300000,499951,-199951,Fabian Giefer,Fabian Giefer,1990,29,196,93,Germany,Europe,Torwart,FC Augsburg,1. Bundesliga (GER),1,False,0,70,Right,1 Star
+391,475000,432609,42391,Manuel Riemann,Manuel Riemann,1988,31,186,83,Germany,Europe,Torwart,VfL Bochum,2. Bundesliga (GER),2,False,0,70,Right,5 Stars
+392,325000,738955,-413955,Per Kristian Bratveit,Per Kristian Worre Bråtveit,1996,24,184,72,Norway,Europe,Torwart,Djurgardens IF,Allsvenskan (SWE),1,False,0,70,Right,3 Stars
+393,475000,421985,53015,Martin Männel,Martin Männel,1988,32,183,80,Germany,Europe,Torwart,FC Erzgebirge Aue,2. Bundesliga (GER),2,False,0,70,Right,3 Stars
+394,1200000,1657852,-457852,Ivan Zlobin,Ivan Zlobin,1997,22,191,84,Russia,Asia,Torwart,Benfica Lissabon,Liga NOS (POR),1,False,0,70,Right,2 Stars
+395,8000000,1758237,6241763,Aleksandr Maksimenko,Alexandr Maksimenko,1998,22,187,81,Russia,Asia,Torwart,Spartak Moskau,misc_other_teams (MISC),1,False,0,70,Left,3 Stars
+396,1600000,630311,969689,Marius Müller,Marius Müller,1993,26,192,92,Germany,Europe,Torwart,FC Luzern,Super League (SUI),1,False,0,70,Right,2 Stars
+397,400000,584445,-184445,Sean McDermott,Sean McDermott,1993,26,185,83,Republic of Ireland,Europe,Torwart,Kristiansund BK,Eliteserien (NOR),1,False,0,70,Right,2 Stars
+398,400000,562716,-162716,Frantisek Plach,František Plach,1992,27,192,80,Slovakia,Europe,Torwart,Piast Gliwice,PKO Ekstraklasa (POL),1,False,0,70,Left,2 Stars
+399,4000000,855630,3144370,Marek Rodak,Marek Rodák,1996,23,195,85,Slovakia,Europe,Torwart,FC Fulham,Championship (ENG),2,True,0,70,Right,3 Stars
+400,600000,571134,28866,Dalei Wang,王大雷,1989,30,187,91,China PR,Asia,Torwart,Shandong Luneng Taishan,Chinese Super League (CHN),1,False,27,70,Right,3 Stars
+401,725000,393912,331088,José Cuadrado,José Fernando Cuadrado Romero,1985,35,181,76,Colombia,South America,Torwart,Atlético Nacional,Liga DIMAYOR I (COL),1,False,1,70,Right,3 Stars
+402,475000,738955,-263955,Geovanni Banguera,Geovanni Banguera,1995,24,187,80,Colombia,South America,Torwart,CD Atlético Huila,Liga DIMAYOR I (COL),1,False,0,70,Right,2 Stars
+403,725000,547582,177418,Giannis Anestis,Giannis Anestis,1991,28,198,93,Greece,Europe,Torwart,IFK Göteborg,Allsvenskan (SWE),1,False,0,70,Right,2 Stars
+404,800000,575017,224983,Lawrence Thomas,Lawrence  Thomas,1992,27,191,91,Australia,Oceania/Australia,Torwart,Melbourne Victory,A-League (AUS),1,False,0,70,Right,2 Stars
+405,400000,575017,-175017,Georgios Athanasiadis,Giorgos Athanasiadis,1993,26,191,84,Greece,Europe,Torwart,AEK Athen,misc_other_teams (MISC),1,False,0,70,Right,2 Stars
+406,800000,885276,-85276,Michael Verrips,Michael Verrips,1996,24,195,90,Netherlands,Europe,Torwart,Sheffield United,Premier League (ENG),1,False,0,70,Right,3 Stars
+407,800000,505092,294908,Zivko Zivkovic,Zivko Zivkovic,1989,31,194,87,Serbia,Europe,Torwart,PAOK Thessaloniki,misc_other_teams (MISC),1,False,0,70,Right,2 Stars
+408,725000,691438,33562,Vanja Milinković-Savić,Vanja Milinković-Savić,1997,23,202,92,Serbia,Europe,Torwart,Standard Lüttich,Jupiler Pro League (BEL),1,False,0,70,Right,3 Stars
+409,300000,752905,-452905,Filip Manojlovic,Filip Manojlović,1996,24,197,82,Serbia,Europe,Torwart,FC Getafe,LaLiga (ESP),1,False,1,70,Right,3 Stars
+410,325000,435153,-110153,Raïs M'Bolhi,Raïs M'Bolhi Ouhab,1986,34,189,80,Algeria,Africa,Torwart,Al-Ettifaq,Saudi Professional League (KSA),1,True,72,70,Right,3 Stars
+411,350000,562716,-212716,Malik Asselah,Malik Asselah,1986,33,193,90,Algeria,Africa,Torwart,Al-Hazm,Saudi Professional League (KSA),1,False,3,70,Right,3 Stars
+412,1100000,543884,556116,Nicola Leali,Nicola Leali,1993,27,193,82,Italy,Europe,Torwart,Ascoli Calcio,Serie B (ITA),2,False,0,70,Right,2 Stars
+413,325000,643229,-318229,Adam Davies,Adam Davies,1992,27,185,80,Wales,Europe,Torwart,Stoke City,Championship (ENG),2,True,1,70,Right,3 Stars
+414,400000,314252,85748,Steve Clark,Steve Clark,1986,34,188,86,United States,North America,Torwart,Portland Timbers,Major League Soccer (USA),1,False,0,70,Right,3 Stars
+416,800000,507539,292461,Akihiro Hayashi,林 昭大,1987,32,195,91,Japan,Asia,Torwart,FC Tokyo,J1 League (JPN),1,False,0,70,Right,3 Stars
+417,325000,499951,-174951,Rémy Riou,Rémy Riou,1987,32,189,81,France,Europe,Torwart,SM Caen,Ligue 2 (FRA),2,False,0,70,Right,1 Star
+418,4500000,1758237,2741763,Diogo Costa,Diogo Meireles Costa,1999,20,187,81,Portugal,Europe,Torwart,FC Porto,Liga NOS (POR),1,False,0,70,Right,3 Stars
+419,325000,497276,-172276,Ofir Marciano,Ofir Marciano,1989,30,193,87,Israel,Asia,Torwart,Hibernian FC,Scottish Premiership (SCO),1,True,16,70,Right,3 Stars
+420,1200000,733126,466874,Rúnar Alex Rúnarsson,Rúnar Alex Rúnarsson,1995,25,186,76,Iceland,Europe,Torwart,FCO Dijon,Ligue 1 (FRA),1,False,5,70,Right,2 Stars
+421,250000,340853,-90853,Pavels Steinbors,Pāvels Šteinbors,1985,34,191,81,Latvia,Europe,Torwart,Arka Gdynia,PKO Ekstraklasa (POL),1,True,12,70,Right,2 Stars
+422,325000,272736,52264,Pawel Kieszek,Paweł Kieszek,1984,36,187,82,Poland,Europe,Torwart,Rio Ave FC,Liga NOS (POR),1,False,0,70,Right,2 Stars
+423,650000,547582,102418,Filip Kurto,Filip Kurto,1991,28,191,92,Poland,Europe,Torwart,Western United FC,A-League (AUS),1,False,0,70,Right,2 Stars
+424,600000,547582,52418,Bartosz Bialkowski,Bartosz Białkowski,1987,32,193,86,Poland,Europe,Torwart,FC Millwall,Championship (ENG),2,False,1,70,Right,3 Stars
+425,1200000,733126,466874,Marc-Aurèle Caillard,Marc-Aurèle Caillard,1994,25,191,87,France,Europe,Torwart,EA Guingamp,Ligue 2 (FRA),2,False,0,70,Right,3 Stars
+427,2700000,1684296,1015704,Luís Maximiano,Luís Manuel Arantes Maximiano,1999,21,190,82,Portugal,Europe,Torwart,Sporting Lissabon,Liga NOS (POR),1,False,0,70,Right,2 Stars
+428,475000,768606,-293607,Joel Pereira,Joel Castro Pereira,1996,23,188,70,Portugal,Europe,Torwart,Heart of Midlothian FC,Scottish Premiership (SCO),1,False,0,70,Right,2 Stars
+429,600000,540673,59327,Alexander Domínguez,Alexander Domínguez Carabalí,1987,33,195,84,Ecuador,South America,Torwart,Club Atlético Vélez Sarsfield,Superliga (ARG),1,False,52,70,Right,3 Stars
+430,200000,432609,-232609,Pedro Trigueira,Pedro José  da Silva Trigueira,1988,32,192,78,Portugal,Europe,Torwart,Moreirense FC,Liga NOS (POR),1,False,0,70,Right,3 Stars
+431,800000,666444,133556,Maxime Dupé,Maxime Dupé,1993,27,188,88,France,Europe,Torwart,Clermont Foot Auvergne 63,Ligue 2 (FRA),2,False,0,70,Right,2 Stars
+432,400000,497276,-97276,Zacharie Boucher,Zacharie Boucher,1992,27,180,76,France,Europe,Torwart,AJ Auxerre,Ligue 2 (FRA),2,False,0,70,Right,3 Stars
+433,600000,575017,24983,Han-been Yang,양한빈 梁韩彬,1991,28,195,90,Korea Republic,Asia,Torwart,FC Seoul,K League 1 (KOR),1,False,0,70,Right,3 Stars
+434,550000,292986,257014,Rubén Martínez,Rubén Iván Martínez Andrade,1984,35,188,79,Spain,Europe,Torwart,CA Osasuna,LaLiga (ESP),1,False,0,70,Right,2 Stars
+435,300000,312539,-12539,Manolo Reina,Manuel Reina Rodríguez,1985,35,186,81,Spain,Europe,Torwart,RCD Mallorca,LaLiga (ESP),1,False,0,70,Right,3 Stars
+436,475000,476434,-1434,Adrián Ortolá,Adrián Ortolá Vañó,1993,26,187,72,Spain,Europe,Torwart,CD Teneriffa,LaLiga2 (ESP),2,False,0,70,Left,5 Stars
+437,300000,522803,-222803,Alfonso Herrero,Alfonso Herrero Peinador,1994,26,183,83,Spain,Europe,Torwart,Real Oviedo,LaLiga2 (ESP),2,False,0,70,Right,3 Stars
+438,1600000,753149,846851,Alexei Coselev,Alexei Koșelev,1993,26,200,90,Moldova,Europe,Torwart,Fortuna Sittard,Eredivisie (NED),1,True,21,70,Right,2 Stars
+439,400000,493642,-93642,Thorsten Kirschbaum,Thorsten Kirschbaum,1987,33,195,88,Germany,Europe,Torwart,VVV-Venlo,Eredivisie (NED),1,False,0,69,Left,1 Star
+440,475000,499951,-24951,Benjamin Uphoff,Benjamin Uphoff,1993,26,192,84,Germany,Europe,Torwart,Karlsruher SC,2. Bundesliga (GER),2,False,0,69,Right,2 Stars
+441,400000,534814,-134814,Fabian Bredlow,Fabian Bredlow,1995,25,190,90,Germany,Europe,Torwart,VfB Stuttgart,2. Bundesliga (GER),2,False,0,69,Left,4 Stars
+442,475000,498385,-23385,Nils Körber,Nils Körber,1996,23,186,84,Germany,Europe,Torwart,VfL Osnabrück,2. Bundesliga (GER),2,False,0,69,Right,3 Stars
+443,300000,499951,-199951,Marius Gersbeck,Marius Gersbeck,1995,24,187,80,Germany,Europe,Torwart,Karlsruher SC,2. Bundesliga (GER),2,False,0,69,Left,3 Stars
+444,1000000,733126,266874,Timon Wellenreuther,Timon Wellenreuther,1995,25,186,80,Germany,Europe,Torwart,Willem II Tilburg,Eredivisie (NED),1,False,0,69,Right,4 Stars
+445,400000,394275,5725,Guillermo Sara,Guillermo Sara,1987,32,184,82,Argentina,South America,Torwart,Club Atlético Lanús,Superliga (ARG),1,False,0,69,Right,3 Stars
+446,200000,300779,-100779,Fernando Pellegrino,Fernando Pellegrino,1986,34,197,90,Argentina,South America,Torwart,Club Atlético Huracán,Superliga (ARG),1,False,0,69,Right,2 Stars
+447,400000,450758,-50758,Frank Fielding,Frank Fielding,1988,32,185,76,England,Europe,Torwart,FC Millwall,Championship (ENG),2,False,0,69,Right,3 Stars
+448,2400000,571134,1828866,Lucas Chaves,Lucas Cháves,1995,24,179,75,Argentina,South America,Torwart,Argentinos Juniors,Superliga (ARG),1,False,0,69,Right,2 Stars
+450,550000,704843,-154843,Fabrice Ondoa,Fabrice Ondoa,1995,24,185,87,Cameroon,Africa,Torwart,KV Oostende,Jupiler Pro League (BEL),1,True,41,69,Right,2 Stars
+451,350000,316825,33175,Jamie Young,Jamie Young,1985,34,180,83,England,Europe,Torwart,Brisbane Roar,A-League (AUS),1,False,0,69,Left,2 Stars
+452,1200000,598090,601910,Declan Rudd,Declan Rudd,1991,29,191,85,England,Europe,Torwart,Preston North End,Championship (ENG),2,False,0,69,Right,3 Stars
+453,600000,547582,52418,Jannik Huth,Jannik Huth,1994,26,185,80,Germany,Europe,Torwart,SC Paderborn 07,1. Bundesliga (GER),1,False,0,69,Right,4 Stars
+454,400000,691438,-291438,Daniel Bachmann,Daniel Bachmann,1994,25,191,81,Austria,Europe,Torwart,FC Watford,Premier League (ENG),1,False,0,69,Right,3 Stars
+455,600000,548351,51649,Christoph Riegler,Christoph Riegler,1992,28,185,83,Austria,Europe,Torwart,SKN St. Pölten,Bundesliga (AUT),1,False,0,69,Right,2 Stars
+456,325000,307125,17875,David Ousted,David Ousted,1985,35,192,88,Denmark,Europe,Torwart,Hammarby IF,Allsvenskan (SWE),1,False,0,69,Right,3 Stars
+457,475000,523320,-48320,Przemyslaw Tyton,Przemysław Tytoń,1987,33,195,83,Poland,Europe,Torwart,FC Cincinnati,Major League Soccer (USA),1,False,14,69,Right,2 Stars
+458,475000,562716,-87716,Mickey van der Hart,Mickey van der Hart,1994,25,188,87,Netherlands,Europe,Torwart,Lech Posen,PKO Ekstraklasa (POL),1,False,0,69,Left,3 Stars
+459,300000,518229,-218229,Zander Clark,Zander Clark,1992,27,191,85,Scotland,Europe,Torwart,St. Johnstone FC,Scottish Premiership (SCO),1,False,0,69,Right,2 Stars
+460,475000,502166,-27166,Sondre Rossbach,Sondre Løvseth Rossbach,1996,23,189,80,Norway,Europe,Torwart,Odds BK,Eliteserien (NOR),1,False,0,69,Right,3 Stars
+461,475000,571134,-96134,Saturnin Allagbé,Owalabi Saturnin Allagbé Kassifa,1993,26,187,71,Benin,Africa,Torwart,FC Chamois Niort,Ligue 2 (FRA),2,False,12,69,Right,2 Stars
+462,475000,534869,-59869,Kevin Broll,Kevin Broll,1995,24,184,85,Germany,Europe,Torwart,SG Dynamo Dresden,2. Bundesliga (GER),2,False,0,69,Right,2 Stars
+463,325000,400145,-75145,Trevor Carson,Trevor Carson,1988,32,185,85,Northern Ireland,Europe,Torwart,Motherwell FC,Scottish Premiership (SCO),1,True,5,69,Right,2 Stars
+464,550000,509865,40135,Eder Chaux,Eder Aleixo Chaux Ospina,1991,28,189,79,Colombia,South America,Torwart,CD América de Cali,Liga DIMAYOR I (COL),1,True,0,69,Right,3 Stars
+465,725000,538657,186343,Ortwin De Wolf,Ortwin De Wolf,1997,23,190,83,Belgium,Europe,Torwart,KAS Eupen,Jupiler Pro League (BEL),1,False,0,69,Left,3 Stars
+466,475000,347049,127951,José Antonio Caro,José Antonio Caro Díaz,1994,26,186,79,Spain,Europe,Torwart,Real Valladolid,LaLiga (ESP),1,False,0,69,Right,3 Stars
+467,1600000,1507422,92578,Juan Soriano,Juan Soriano Oropesa,1997,22,185,83,Spain,Europe,Torwart,CD Leganés,LaLiga (ESP),1,False,0,69,Left,2 Stars
+468,2700000,1684296,1015704,Dani Martín,Daniel Martín Fernández,1998,21,187,77,Spain,Europe,Torwart,Real Betis Sevilla,LaLiga (ESP),1,False,0,69,Right,3 Stars
+469,300000,423840,-123840,Ali Sasal Vural,Ali Şaşal Vural,1990,29,187,80,Turkey,Asia,Torwart,Sivasspor,Süper Lig (TUR),1,False,0,69,Right,2 Stars
+470,250000,335266,-85266,Muammer Yildirim,Muammer Yıldırım,1990,29,190,81,Turkey,Asia,Torwart,Sivasspor,Süper Lig (TUR),1,False,0,69,Left,2 Stars
+471,5400000,1684296,3715704,Altay Bayindir,Altay Bayındır,1998,22,198,73,Turkey,Asia,Torwart,Fenerbahce Istanbul,Süper Lig (TUR),1,True,0,69,Right,2 Stars
+473,650000,546215,103785,Peter Abrahamsson,Peter Abrahamsson,1988,31,190,85,Sweden,Europe,Torwart,BK Häcken,Allsvenskan (SWE),1,True,2,69,Right,3 Stars
+474,800000,523320,276680,Alfonso Blanco,Alfonso Blanco Antúnez,1987,32,182,88,Mexico,North America,Torwart,CF Pachuca,Liga MX Clausura (MEX),1,False,0,69,Left,3 Stars
+477,525000,509865,15135,Yannick Thoelen,Yannick Thoelen,1990,29,188,89,Belgium,Europe,Torwart,KV Mechelen,Jupiler Pro League (BEL),1,False,0,69,Right,2 Stars
+478,650000,560271,89729,Colin Coosemans,Colin Coosemans,1992,28,186,84,Belgium,Europe,Torwart,KAA Gent,Jupiler Pro League (BEL),1,False,0,69,Right,4 Stars
+479,325000,509865,-184865,José Chunga,José Luis Chunga Vega,1991,28,180,80,Colombia,South America,Torwart,Junior FC,Liga DIMAYOR I (COL),1,False,0,69,Right,3 Stars
+480,300000,326601,-26601,Diego Sánchez,Diego Sánchez Carvajal,1987,32,184,86,Chile,South America,Torwart,Unión Española,Primera División de Chile (CHI),1,False,0,69,Right,3 Stars
+481,300000,286584,13416,Johnny Herrera,Jhonny Cristián Herrera Muñoz,1981,38,184,87,Chile,South America,Torwart,CD Everton,Primera División de Chile (CHI),1,False,24,69,Right,3 Stars
+482,400000,530843,-130843,Matt Turner,Matt Turner,1994,25,191,79,United States,North America,Torwart,New England Revolution,Major League Soccer (USA),1,True,0,69,Right,2 Stars
+483,400000,654948,-254948,Valentin Cojocaru,Valentin Cojocaru,1995,25,196,89,Romania,Europe,Torwart,FC Voluntari,Liga 1 (ROU),1,False,0,69,Right,2 Stars
+484,550000,486898,63102,Aleksandar Jovanovic,Aleksandar Jovanović,1992,27,192,85,Serbia,Europe,Torwart,Deportivo La Coruna,LaLiga2 (ESP),2,False,1,69,Right,1 Star
+485,250000,393912,-143912,Denis Petric,Denis Petrić,1988,31,187,80,Serbia,Europe,Torwart,FC Nantes,Ligue 1 (FRA),1,False,0,69,Right,2 Stars
+486,1200000,855630,344370,Bailey Peacock-Farrell,Bailey Peacock-Farrell,1996,23,192,73,Northern Ireland,Europe,Torwart,FC Burnley,Premier League (ENG),1,True,9,69,Left,2 Stars
+487,400000,634647,-234647,Maxime Crépeau,Maxime Crépeau,1994,25,183,88,Canada,North America,Torwart,Vancouver Whitecaps FC,Major League Soccer (USA),1,True,5,69,Right,2 Stars
+488,800000,512957,287043,Gauthier Gallon,Gauthier Gallon,1993,27,186,79,France,Europe,Torwart,ES Troyes AC,Ligue 2 (FRA),2,False,0,69,Right,2 Stars
+489,650000,539510,110490,Mathieu Michel,Mathieu Michel,1991,29,189,84,France,Europe,Torwart,AJ Auxerre,Ligue 2 (FRA),2,False,0,69,Right,2 Stars
+490,725000,538605,186395,Benjamin Leroy,Benjamin Leroy,1989,30,184,74,France,Europe,Torwart,AC Ajaccio,Ligue 2 (FRA),2,False,0,69,Right,3 Stars
+491,450000,1038420,-588420,Eike Bansen,Eike Bansen,1998,22,195,91,Germany,Europe,Torwart,SV Zulte Waregem,Jupiler Pro League (BEL),1,False,0,69,Right,3 Stars
+492,325000,531822,-206822,Rafael Romo,Rafael Romo,1990,30,197,85,Venezuela,South America,Torwart,Silkeborg IF,Superligaen (DEN),1,True,14,69,Right,2 Stars
+493,250000,360290,-110290,Niki Mäenpää,Niki Mäenpää,1985,35,190,86,Finland,Europe,Torwart,Bristol City,Championship (ENG),2,False,26,69,Right,3 Stars
+494,1700000,733126,966874,Lorenzo Montipò,Lorenzo Montipò,1996,24,191,82,Italy,Europe,Torwart,Benevento Calcio,Serie B (ITA),2,False,0,69,Right,1 Star
+495,550000,584686,-34687,Mateus Pasinato,Mateus Pasinato,1992,27,192,86,Brazil,South America,Torwart,Moreirense FC,Liga NOS (POR),1,False,0,69,Right,3 Stars
+496,200000,294908,-94908,Antonio Rosati,Antonio Rosati,1983,36,195,88,Italy,Europe,Torwart,FC Turin,Serie A (ITA),1,False,0,69,Right,1 Star
+497,1200000,355154,844846,Vito Mannone,Vito Mannone,1988,32,188,80,Italy,Europe,Torwart,Esbjerg fB,Superligaen (DEN),1,False,0,69,Right,3 Stars
+498,650000,523320,126680,Mauro Vigorito,Mauro Vigorito,1990,29,187,79,Italy,Europe,Torwart,US Lecce,Serie A (ITA),1,False,0,69,Right,2 Stars
+499,300000,303578,-3578,Carlos Bejarano,Carlos Andrés Bejarano Palacios,1985,35,184,83,Equatorial Guinea,Africa,Torwart,Rionegro Águilas,Liga DIMAYOR I (COL),1,False,3,69,Right,2 Stars
+500,450000,423431,26569,Ricardo Ribeiro,Ricardo Abreu Ribeiro,1990,30,182,74,Portugal,Europe,Torwart,FC Paços de Ferreira,Liga NOS (POR),1,False,0,69,Right,2 Stars
+501,800000,704843,95157,Hervé Koffi,Hervé Koffi,1996,23,186,81,Burkina Faso,Africa,Torwart,Belenenses SAD,Liga NOS (POR),1,False,22,69,Right,3 Stars
+502,400000,410817,-10817,Nícolas,David Nicolas Andrade,1988,31,190,85,Brazil,South America,Torwart,Udinese Calcio,Serie A (ITA),1,False,0,69,Right,5 Stars
+503,300000,304436,-4436,Michael Agazzi,Michael Agazzi,1984,36,189,80,Italy,Europe,Torwart,US Cremonese,Serie B (ITA),2,False,0,69,Right,2 Stars
+504,800000,499951,300049,William Yarbrough,William Paul Yarbrough Story,1989,31,188,75,United States,North America,Torwart,Colorado Rapids,Major League Soccer (USA),1,False,3,68,Right,3 Stars
+505,525000,551584,-26584,Markus Kuster,Markus Kuster,1994,26,194,82,Austria,Europe,Torwart,SV Mattersburg,Bundesliga (AUT),1,False,0,68,Right,3 Stars
+506,200000,300291,-100291,Miguel Pinto,Miguel Ángel Pinto Jérez,1983,37,183,79,Chile,South America,Torwart,CSD Colo Colo,Primera División de Chile (CHI),1,False,21,68,Right,2 Stars
+507,325000,420511,-95511,Gabriel Castellón,Gabriel Castellón,1993,26,190,78,Chile,South America,Torwart,Huachipato FC,Primera División de Chile (CHI),1,False,0,68,Right,2 Stars
+509,400000,423042,-23042,Fernando de Paul,Fernando Carlos De Paul Lanciotti,1991,29,183,84,Chile,South America,Torwart,Club Universidad de Chile,Primera División de Chile (CHI),1,False,1,68,Right,3 Stars
+510,600000,733126,-133126,Joe Lumley,Joe Lumley,1995,25,190,73,England,Europe,Torwart,Queens Park Rangers,Championship (ENG),2,False,0,68,Right,3 Stars
+511,250000,624331,-374331,Connor Ripley,Connor Ripley,1993,27,191,96,England,Europe,Torwart,Preston North End,Championship (ENG),2,False,0,68,Right,3 Stars
+512,400000,278817,121183,Anders Lindegaard,Anders Lindegaard,1984,36,193,85,Denmark,Europe,Torwart,Helsingborgs IF,Allsvenskan (SWE),1,False,5,68,Right,3 Stars
+513,400000,575017,-175017,Lucas Pirard,Lucas Pirard,1995,24,191,91,Belgium,Europe,Torwart,Waasland-Beveren,Jupiler Pro League (BEL),1,False,0,68,Right,2 Stars
+514,1000000,498492,501508,Tyler Miller,Tyler Miller,1993,26,193,93,United States,North America,Torwart,Minnesota United FC,Major League Soccer (USA),1,False,0,68,Right,2 Stars
+515,400000,435153,-35153,Sébastien Bruzzese,Sébastien Bruzzese,1989,31,185,80,Belgium,Europe,Torwart,KV Kortrijk,Jupiler Pro League (BEL),1,False,0,68,Left,4 Stars
+516,300000,310089,-10089,Razvan Plesca,Răzvan Pleșca,1982,37,188,84,Romania,Europe,Torwart,Gaz Metan Medias,Liga 1 (ROU),1,False,0,68,Left,2 Stars
+517,1300000,1626684,-326684,Mile Svilar,Mile Svilar,1999,20,189,81,Belgium,Europe,Torwart,Benfica Lissabon,Liga NOS (POR),1,False,0,68,Right,3 Stars
+519,325000,303727,21273,Leandro Castellanos,Andrés Leandro Castellanos Serrano,1984,35,183,78,Colombia,South America,Torwart,Independiente Santa Fe,Liga DIMAYOR I (COL),1,False,1,68,Right,3 Stars
+520,300000,559322,-259322,Samuel Sahin-Radlinger,Samuel Şahin-Radlinger,1992,27,196,83,Austria,Europe,Torwart,FC Barnsley,Championship (ENG),2,False,0,68,Right,2 Stars
+521,800000,733126,66874,Patrick Pentz,Patrick Pentz,1997,23,182,81,Austria,Europe,Torwart,FK Austria Wien,Bundesliga (AUT),1,False,0,68,Left,4 Stars
+522,300000,301112,-1112,Ignacio González,José Ignacio González Catalán,1989,31,187,87,Chile,South America,Torwart,Club de Deportes Antofagasta,Primera División de Chile (CHI),1,False,0,68,Right,3 Stars
+523,325000,512957,-187957,Andrea Fulignati,Andrea Fulignati,1994,25,188,88,Italy,Europe,Torwart,AC Perugia Calcio,Serie B (ITA),2,False,0,68,Right,3 Stars
+524,2800000,733126,2066874,Daniel Bentley,Daniel Bentley,1993,26,188,72,England,Europe,Torwart,Bristol City,Championship (ENG),2,False,0,68,Right,3 Stars
+525,525000,543692,-18692,Diego Novoa,Diego Alejandro Novoa Urrego,1989,30,186,88,Colombia,South America,Torwart,CD La Equidad Seguros SA,Liga DIMAYOR I (COL),1,False,0,68,Right,3 Stars
+527,300000,538657,-238657,Konstantinos Kotsaris,Konstantinos Kotsaris,1996,23,185,75,Greece,Europe,Torwart,Panathinaikos Athen,misc_other_teams (MISC),1,False,0,68,Right,3 Stars
+528,475000,499993,-24993,Ariel Harush,Ariel Harush,1988,31,191,89,Israel,Asia,Torwart,Sparta Rotterdam,Eredivisie (NED),1,True,20,68,Right,3 Stars
+529,475000,485270,-10270,David Bingham,David Bingham,1989,30,188,86,United States,North America,Torwart,Los Angeles Galaxy,Major League Soccer (USA),1,False,3,68,Right,2 Stars
+530,12500000,1684296,10815704,Aaron Ramsdale,Aaron Ramsdale,1998,21,188,77,England,Europe,Torwart,AFC Bournemouth,Premier League (ENG),1,False,0,68,Right,2 Stars
+531,300000,306508,-6508,Robert Zwinkels,Robert Zwinkels,1983,37,186,80,Netherlands,Europe,Torwart,ADO Den Haag,Eredivisie (NED),1,False,0,68,Right,2 Stars
+532,800000,560271,239729,Kelle Roos,Kelle Roos,1992,27,196,90,Netherlands,Europe,Torwart,Derby County,Championship (ENG),2,False,0,68,Right,4 Stars
+533,725000,525450,199550,Cristian Bonilla,Cristian Harson Bonilla Garzón,1993,27,189,80,Colombia,South America,Torwart,CD La Equidad Seguros SA,Liga DIMAYOR I (COL),1,False,4,68,Right,2 Stars
+534,475000,316825,158175,Quentin Westberg,Quentin Westberg,1986,34,185,78,United States,North America,Torwart,Toronto FC,Major League Soccer (USA),1,False,0,68,Right,3 Stars
+535,600000,530843,69157,Jason Steele,Jason Steele,1990,29,188,79,England,Europe,Torwart,Brighton & Hove Albion,Premier League (ENG),1,False,0,68,Right,3 Stars
+536,175000,306381,-131381,Wayne Sandilands,Wayne Sandilands,1983,36,180,81,South Africa,Africa,Torwart,Orlando Pirates,misc_other_teams (MISC),1,False,8,68,Right,3 Stars
+537,1200000,506697,693303,David Button,David Button,1989,31,191,87,England,Europe,Torwart,Brighton & Hove Albion,Premier League (ENG),1,False,0,68,Right,3 Stars
+538,400000,476434,-76434,Denis Rusu,Denis Rusu,1990,30,180,75,Moldova,Europe,Torwart,FC Politehnica Iasi,Liga 1 (ROU),1,True,1,68,Right,3 Stars
+539,250000,523320,-273320,Ben Amos,Ben  Amos,1990,29,193,76,England,Europe,Torwart,Charlton Athletic,Championship (ENG),2,False,0,68,Right,2 Stars
+540,600000,682010,-82010,Dillon Phillips,Dillon Phillips,1995,24,188,76,England,Europe,Torwart,Charlton Athletic,Championship (ENG),2,False,0,68,Right,3 Stars
+542,475000,562716,-87716,Jeppe Höjbjerg,Jeppe Højbjerg,1995,25,194,97,Denmark,Europe,Torwart,Esbjerg fB,Superligaen (DEN),1,False,0,68,Left,2 Stars
+543,350000,307125,42875,Fabien Farnolle,Fabien Farnolle,1985,35,196,104,Benin,Africa,Torwart,Yeni Malatyaspor,Süper Lig (TUR),1,True,16,68,Right,2 Stars
+544,325000,432609,-107609,Adam Kwarasey,Adam Larsen Kwarasey,1987,32,190,76,Ghana,Africa,Torwart,Vålerenga Fotball,Eliteserien (NOR),1,False,27,68,Right,3 Stars
+545,600000,499951,100049,Eldin Jakupovic,Eldin Jakupović,1984,36,191,85,Switzerland,Europe,Torwart,Leicester City,Premier League (ENG),1,False,1,68,Right,2 Stars
+546,900000,1383584,-483584,Pontus Dahlberg,Pontus Dahlberg,1999,21,195,90,Sweden,Europe,Torwart,FC Emmen,Eredivisie (NED),1,True,2,68,Right,3 Stars
+547,800000,514013,285987,Mathieu Gorgelin,Mathieu Gorgelin,1990,30,187,83,France,Europe,Torwart,AC Le Havre,Ligue 2 (FRA),2,False,0,68,Left,2 Stars
+548,250000,304928,-54928,Jens Grahl,Jens Grahl,1988,31,192,89,Germany,Europe,Torwart,VfB Stuttgart,2. Bundesliga (GER),2,False,0,68,Right,2 Stars
+549,325000,400145,-75145,Shuichi Gonda,権田 修一,1989,31,187,83,Japan,Asia,Torwart,Portimonense SC,Liga NOS (POR),1,False,16,68,Right,2 Stars
+550,250000,269162,-19162,Jan Zimmermann,Jan Zimmermann,1985,35,190,86,Germany,Europe,Torwart,Eintracht Frankfurt,1. Bundesliga (GER),1,False,0,68,Left,3 Stars
+551,250000,584686,-334687,Niklas Lomb,Niklas Lomb,1993,26,187,84,Germany,Europe,Torwart,Bayer 04 Leverkusen,1. Bundesliga (GER),1,False,0,68,Right,3 Stars
+553,250000,316825,-66825,Jessy Moulin,Jessy Moulin,1986,34,185,88,France,Europe,Torwart,AS Saint-Étienne,Ligue 1 (FRA),1,False,0,68,Right,2 Stars
+555,250000,476434,-226434,Filip Bednarek,Filip Bednarek,1992,27,188,81,Poland,Europe,Torwart,SC Heerenveen,Eredivisie (NED),1,False,0,68,Right,2 Stars
+556,475000,333622,141378,Danijel Zagorac,Danijel Zagorac,1987,32,186,80,Croatia,Europe,Torwart,GNK Dinamo Zagreb,misc_other_teams (MISC),1,False,0,68,Right,3 Stars
+557,900000,1674407,-774407,Adrian Semper,Adrian Šemper,1998,21,194,91,Croatia,Europe,Torwart,Chievo Verona,Serie B (ITA),2,False,0,68,Right,2 Stars
+558,300000,499951,-199951,Michael McGovern,Michael McGovern,1984,35,191,89,Northern Ireland,Europe,Torwart,Norwich City,Premier League (ENG),1,True,28,68,Right,3 Stars
+559,300000,328961,-28961,Mikkel Andersen,Mikkel Andersen,1988,31,196,91,Denmark,Europe,Torwart,FC Midtjylland,Superligaen (DEN),1,False,0,68,Right,3 Stars
+560,325000,340853,-15853,Martin Hansen,Martin Hansen,1990,29,189,85,Denmark,Europe,Torwart,Hannover 96,2. Bundesliga (GER),2,False,0,68,Right,3 Stars
+562,2300000,1383584,916416,Josep Martínez,Josep Martínez Riera,1998,21,191,80,Spain,Europe,Torwart,UD Las Palmas,LaLiga2 (ESP),2,False,0,68,Right,3 Stars
+563,1400000,530843,869157,Georgiy Bushchan,Georgiy Bushchan,1994,25,196,84,Ukraine,Europe,Torwart,Dynamo Kiew,misc_other_teams (MISC),1,False,0,68,Right,3 Stars
+564,475000,557226,-82226,Oscar Jansson,Oscar Jansson,1990,29,187,82,Sweden,Europe,Torwart,Örebro SK,Allsvenskan (SWE),1,False,1,68,Right,2 Stars
+565,475000,598090,-123090,Boris Radunović,Boris Radunović,1996,23,194,84,Serbia,Europe,Torwart,Hellas Verona,Serie A (ITA),1,False,0,68,Right,2 Stars
+566,300000,296854,3146,Fatih Öztürk,Fatih Öztürk,1986,33,191,86,Turkey,Asia,Torwart,Kasimpasa,Süper Lig (TUR),1,False,0,68,Right,2 Stars
+568,800000,910734,-110734,Maxence Prévot,Maxence Andre  Prévôt,1997,22,187,81,France,Europe,Torwart,FC Sochaux-Montbéliard,Ligue 2 (FRA),2,False,0,68,Right,3 Stars
+569,950000,499137,450863,Jin-hyeon Kim,김진현 金镇铉,1987,32,193,78,Korea Republic,Asia,Torwart,Cerezo Osaka,J1 League (JPN),1,False,16,68,Right,3 Stars
+570,400000,507539,-107539,Alexandre Letellier,Alexandre Letellier,1990,29,193,93,France,Europe,Torwart,US Orléans,Ligue 2 (FRA),2,False,0,68,Right,2 Stars
+571,400000,499951,-99951,Joris Delle,Joris Delle,1990,30,189,84,France,Europe,Torwart,Orlando Pirates,misc_other_teams (MISC),1,False,0,68,Left,2 Stars
+572,300000,281757,18243,Dani Hernández,Daniel Hernández Santos,1985,34,196,89,Venezuela,South America,Torwart,CD Teneriffa,LaLiga2 (ESP),2,False,33,68,Right,1 Star
+574,450000,394275,55725,Gerardo Ortiz,Gerardo Ortiz,1989,31,187,84,Paraguay,South America,Torwart,Once Caldas,Liga DIMAYOR I (COL),1,False,0,68,Left,2 Stars
+575,600000,541926,58074,Roberto Ramírez,Roberto Ramírez,1996,23,188,73,Argentina,South America,Torwart,Club Deportivo Godoy Cruz Antonio Tomba,Superliga (ARG),1,False,0,68,Right,2 Stars
+577,650000,497278,152722,Bobby Allain,Bobby Allain,1991,28,185,77,France,Europe,Torwart,Olympiakos Piräus,misc_other_teams (MISC),1,False,0,68,Right,2 Stars
+578,550000,393912,156088,Anton Kochenkov,Anton Kochenkov,1987,33,195,83,Russia,Asia,Torwart,Lokomotiv Moskau,misc_other_teams (MISC),1,False,0,68,Right,3 Stars
+580,650000,497276,152724,Marvin Schwäbe,Marvin  Schwäbe,1995,25,188,90,Germany,Europe,Torwart,Bröndby IF,Superligaen (DEN),1,False,0,68,Right,4 Stars
+581,325000,297335,27665,Simon Pontdemé,Simon Pontdemé,1988,32,186,81,France,Europe,Torwart,FC Chambly,Ligue 2 (FRA),2,False,0,67,Right,2 Stars
+582,950000,547582,402418,Yannis Clementia,Yannis Clementia,1997,23,188,80,France,Europe,Torwart,OGC Nizza,Ligue 1 (FRA),1,False,0,67,Right,2 Stars
+583,475000,503828,-28828,Rémi Pillot,Rémi Pillot,1990,29,187,82,France,Europe,Torwart,LB Châteauroux,Ligue 2 (FRA),2,False,0,67,Right,2 Stars
+584,325000,316825,8175,Matthieu Dreyer,Matthieu Dreyer,1989,31,188,81,France,Europe,Torwart,SC Amiens,Ligue 1 (FRA),1,False,0,67,Right,3 Stars
+585,550000,547582,2418,Andreas Leitner,Andreas Leitner,1994,26,184,72,Austria,Europe,Torwart,FC Admira Wacker Mödling,Bundesliga (AUT),1,False,0,67,Right,4 Stars
+586,475000,338589,136411,Nicolai Larsen,Nicolai Larsen,1991,28,190,83,Denmark,Europe,Torwart,FC Nordsjaelland,Superligaen (DEN),1,False,0,67,Right,3 Stars
+587,1800000,630311,1169689,Anton Mitryushkin,Anton Mitryushkin,1996,23,189,82,Russia,Asia,Torwart,FC Sion,Super League (SUI),1,False,0,67,Right,3 Stars
+588,400000,502166,-102166,Arthur Desmas,Arthur Desmas,1994,25,197,87,France,Europe,Torwart,Rodez AF,Ligue 2 (FRA),2,False,0,67,Right,2 Stars
+589,300000,428375,-128375,Abdullah Al-Muaiouf,Abdullah Al Mayoof,1987,33,189,96,Saudi Arabia,Asia,Torwart,Al-Hilal Riad,Saudi Professional League (KSA),1,False,9,67,Right,3 Stars
+590,650000,498492,151508,Rémy Descamps,Rémy Descamps,1996,23,194,79,France,Europe,Torwart,RSC Charleroi,Jupiler Pro League (BEL),1,False,0,67,Left,3 Stars
+591,175000,355154,-180154,Ryan Meara,Ryan Meara,1990,29,193,84,Republic of Ireland,Europe,Torwart,New York Red Bulls,Major League Soccer (USA),1,False,0,67,Right,3 Stars
+593,300000,329800,-29800,Philipp Klewin,Philipp Mickel Klewin,1993,26,192,86,Germany,Europe,Torwart,Arminia Bielefeld,2. Bundesliga (GER),2,False,0,67,Right,2 Stars
+594,250000,311362,-61362,Vitus Eicher,Vitus Eicher,1990,29,191,85,Germany,Europe,Torwart,1. FC Heidenheim 1846,2. Bundesliga (GER),2,False,0,67,Left,2 Stars
+595,325000,499951,-174951,Sebastian Mielitz,Sebastian Mielitz,1989,30,188,83,Germany,Europe,Torwart,SönderjyskE,Superligaen (DEN),1,False,0,67,Right,4 Stars
+596,300000,340540,-40540,Matej Delac,Matej Delač,1992,27,190,80,Croatia,Europe,Torwart,AC Horsens,Superligaen (DEN),1,False,0,67,Right,2 Stars
+597,650000,538657,111343,Michael Zetterer,Michael Zetterer,1995,24,187,79,Germany,Europe,Torwart,PEC Zwolle,Eredivisie (NED),1,False,0,67,Right,4 Stars
+598,350000,303578,46422,Yasser Al-Mosailem,Yasser Abdullah Al Mosailem,1984,36,184,84,Saudi Arabia,Asia,Torwart,Al-Ahli Dschidda,Saudi Professional League (KSA),1,False,33,67,Right,2 Stars
+599,675000,511110,163890,Fawaz Al Qarni,Fawaz Al Qarni,1992,28,184,88,Saudi Arabia,Asia,Torwart,Al-Ittihad Dschidda,Saudi Professional League (KSA),1,True,9,67,Right,3 Stars
+600,675000,575017,99983,Moustapha Zeghba,Moustapha Zeghba,1990,29,190,90,Algeria,Africa,Torwart,Damac FC,Saudi Professional League (KSA),1,False,1,67,Left,4 Stars
+601,450000,381857,68143,Azzedine Doukha,Azzeddine Doukha,1986,34,186,85,Algeria,Africa,Torwart,Al-Raed,Saudi Professional League (KSA),1,True,14,67,Right,2 Stars
+602,325000,267293,57707,Daniel Vega,Mario Daniel Vega,1984,36,188,91,Argentina,South America,Torwart,San Jose Earthquakes,Major League Soccer (USA),1,False,0,67,Left,2 Stars
+605,325000,315779,9221,Sebastián Moyano,Sebastián Moyano,1990,29,188,78,Argentina,South America,Torwart,Club Atlético Unión,Superliga (ARG),1,False,0,67,Right,2 Stars
+607,400000,381323,18677,Simon Moore,Simon Moore,1990,29,191,83,England,Europe,Torwart,Sheffield United,Premier League (ENG),1,False,0,67,Right,3 Stars
+608,600000,543884,56116,George Long,George Long,1993,26,193,94,England,Europe,Torwart,Hull City,Championship (ENG),2,False,0,67,Left,3 Stars
+609,250000,313400,-63400,Luke Daniels,Luke Daniels,1988,32,195,90,England,Europe,Torwart,FC Brentford,Championship (ENG),2,False,0,67,Right,3 Stars
+610,200000,330118,-130118,Jamie Jones,Jamie Jones,1989,31,191,91,England,Europe,Torwart,Wigan Athletic,Championship (ENG),2,False,0,67,Right,2 Stars
+611,200000,291030,-91030,Paulo Vítor,Paulo Vítor Fagundes dos Anjos,1988,31,195,89,Brazil,South America,Torwart,Rio Ave FC,Liga NOS (POR),1,False,0,67,Right,3 Stars
+612,550000,435153,114847,Jefferson Martínez,Jefersson Justino Martínez Valverde,1993,26,183,79,Colombia,South America,Torwart,Millonarios FC,Liga DIMAYOR I (COL),1,False,0,67,Right,3 Stars
+613,400000,345928,54072,Mark Gillespie,Mark Gillespie,1992,28,192,88,England,Europe,Torwart,Motherwell FC,Scottish Premiership (SCO),1,False,0,67,Right,3 Stars
+614,725000,526191,198809,Alex Bono,Alexander Bono,1994,26,191,88,United States,North America,Torwart,Toronto FC,Major League Soccer (USA),1,False,1,67,Right,2 Stars
+615,300000,307125,-7125,Lee Camp,Lee Camp,1984,35,183,74,Northern Ireland,Europe,Torwart,Birmingham City,Championship (ENG),2,False,8,67,Right,3 Stars
+616,800000,594051,205949,Daniel Schmidt,シュミット・ダニエル,1992,28,196,90,Japan,Asia,Torwart,VV St. Truiden,Jupiler Pro League (BEL),1,False,5,67,Right,4 Stars
+617,400000,336242,63758,Vaclav Hladky,Václav Hladký,1990,29,189,80,Czech Republic,Europe,Torwart,St. Mirren FC,Scottish Premiership (SCO),1,False,0,67,Right,3 Stars
+618,1800000,1790315,9685,Arijanet Muric,Arijanet Muric,1998,21,197,81,Kosovo,Europe,Torwart,Nottingham Forest,Championship (ENG),2,True,8,67,Right,2 Stars
+619,175000,316825,-141825,Korcan Celikay,Korcan Çelikay,1987,32,194,86,Turkey,Asia,Torwart,MKE Ankaragücü,Süper Lig (TUR),1,False,0,67,Right,2 Stars
+620,250000,543692,-293692,Tim Coremans,Tim Coremans,1991,28,186,75,Netherlands,Europe,Torwart,Sparta Rotterdam,Eredivisie (NED),1,False,0,67,Right,2 Stars
+621,525000,584686,-59687,Nick Marsman,Nick Marsman,1990,30,188,88,Netherlands,Europe,Torwart,Feyenoord Rotterdam,Eredivisie (NED),1,False,0,67,Right,3 Stars
+622,600000,705808,-105808,Rody de Boer,Rody de Boer,1997,22,188,87,Netherlands,Europe,Torwart,AZ Alkmaar,Eredivisie (NED),1,False,0,67,Right,3 Stars
+623,1300000,1657852,-357852,Kjell Scherpen,Kjell Scherpen,2000,20,202,85,Netherlands,Europe,Torwart,Ajax Amsterdam,Eredivisie (NED),1,False,0,67,Right,5 Stars
+624,550000,481532,68468,Xavier Mous,Xavier Mous,1995,25,188,80,Netherlands,Europe,Torwart,PEC Zwolle,Eredivisie (NED),1,False,0,67,Right,2 Stars
+625,325000,379042,-54042,Alessandro Iacobucci,Alessandro Iacobucci,1991,29,187,82,Italy,Europe,Torwart,Frosinone Calcio,Serie B (ITA),2,False,0,67,Right,1 Star
+627,950000,594051,355949,Guglielmo Vicario,Guglielmo Vicario,1996,23,188,76,Italy,Europe,Torwart,AC Perugia Calcio,Serie B (ITA),2,False,0,67,Right,1 Star
+628,325000,441003,-116003,Yerko Urra,Yerko Urra,1996,23,190,88,Chile,South America,Torwart,Huachipato FC,Primera División de Chile (CHI),1,False,0,67,Right,3 Stars
+629,800000,852289,-52289,Nordin Jackers,Nordin Jackers,1997,22,187,80,Belgium,Europe,Torwart,Waasland-Beveren,Jupiler Pro League (BEL),1,False,0,67,Right,2 Stars
+630,325000,393912,-68912,Louis Bostyn,Louis Bostyn,1993,27,196,86,Belgium,Europe,Torwart,SV Zulte Waregem,Jupiler Pro League (BEL),1,False,0,67,Right,3 Stars
+631,600000,594051,5949,Liam Kelly,Liam Kelly,1996,24,189,83,Scotland,Europe,Torwart,Queens Park Rangers,Championship (ENG),2,False,0,67,Right,3 Stars
+632,400000,512957,-112957,Luis Cárdenas,Luis Cárdenas,1993,26,183,84,Mexico,North America,Torwart,CF Monterrey,Liga MX Clausura (MEX),1,False,0,67,Right,3 Stars
+633,2800000,1552715,1247285,Sebastián Jurado,Sebastián Jurado Roca,1997,22,185,80,Mexico,North America,Torwart,CD Cruz Azul,Liga MX Clausura (MEX),1,False,0,67,Right,2 Stars
+635,325000,497278,-172278,Lukas Zima,Lukáš Zima,1994,25,197,80,Czech Republic,Europe,Torwart,AS Livorno,Serie B (ITA),2,False,0,67,Right,2 Stars
+636,300000,311177,-11177,Takuto Hayashi,林 卓人,1982,37,188,87,Japan,Asia,Torwart,Sanfrecce Hiroshima,J1 League (JPN),1,False,0,67,Right,2 Stars
+637,300000,418848,-118848,Miquel Parera,Miquel Parera Pizá,1996,23,179,73,Spain,Europe,Torwart,RCD Mallorca,LaLiga (ESP),1,False,0,67,Right,3 Stars
+638,650000,508781,141219,Spencer Richey,Spencer Richey,1992,27,188,88,United States,North America,Torwart,FC Cincinnati,Major League Soccer (USA),1,False,0,67,Right,2 Stars
+639,350000,393912,-43912,Cristiano Figueiredo,Cristiano Pereira Figueiredo,1990,29,191,80,Portugal,Europe,Torwart,FC Hermannstadt,Liga 1 (ROU),1,False,0,67,Right,2 Stars
+640,475000,394275,80725,Evan Bush,Evan Bush,1986,33,186,83,United States,North America,Torwart,Montreal Impact,Major League Soccer (USA),1,False,0,67,Right,2 Stars
+641,300000,861740,-561740,Iván Villar,Iván Villar Martínez,1997,22,189,79,Spain,Europe,Torwart,Celta Vigo,LaLiga (ESP),1,False,0,67,Right,2 Stars
+642,525000,394275,130725,Jeff Attinella,Jeff Attinella,1988,31,188,86,United States,North America,Torwart,Portland Timbers,Major League Soccer (USA),1,False,0,67,Right,2 Stars
+643,200000,349119,-149119,Andrés Prieto,Andrés Tomás Prieto Albert,1993,26,194,93,Spain,Europe,Torwart,Espanyol Barcelona,LaLiga (ESP),1,False,0,67,Right,2 Stars
+644,300000,340853,-40853,Bobby Shuttleworth,Bobby Shuttleworth,1987,32,188,93,United States,North America,Torwart,Chicago Fire FC,Major League Soccer (USA),1,False,0,67,Right,2 Stars
+645,300000,321982,-21982,José Aurelio Suárez,José Aurelio Suárez García,1995,24,187,80,Spain,Europe,Torwart,FC Girona,LaLiga2 (ESP),2,False,0,67,Right,3 Stars
+646,400000,502599,-102599,Paul Izzo,Paul Izzo,1995,24,184,81,Australia,Oceania/Australia,Torwart,Adelaide United,A-League (AUS),1,False,0,67,Right,3 Stars
+647,550000,355154,194846,Krzysztof Kaminski,Krzysztof Kamiński,1990,29,191,82,Poland,Europe,Torwart,Wisla Plock,PKO Ekstraklasa (POL),1,False,0,67,Right,3 Stars
+649,300000,314252,-14252,Rubén Yáñez,Rubén Yáñez Alabart,1993,26,190,85,Spain,Europe,Torwart,SD Huesca,LaLiga2 (ESP),2,False,0,67,Right,3 Stars
+650,200000,307125,-107125,Milton Álvarez,Milton Álvarez,1989,31,186,84,Argentina,South America,Torwart,Club Atlético Independiente,Superliga (ARG),1,False,0,66,Left,3 Stars
+651,250000,307125,-57125,Patrick Drewes,Patrick Drewes,1993,27,193,87,Germany,Europe,Torwart,VfL Bochum,2. Bundesliga (GER),2,False,0,66,Right,2 Stars
+652,250000,400145,-150145,Gastón Gómez,Gastón Gómez,1996,24,190,99,Argentina,South America,Torwart,Racing Club,Superliga (ARG),1,False,0,66,Right,2 Stars
+653,300000,303578,-3578,Alejandro Sánchez,Alejandro Sánchez,1986,33,189,88,Argentina,South America,Torwart,Club Atlético Tucumán,Superliga (ARG),1,False,0,66,Left,2 Stars
+654,300000,505092,-205092,Daniel Sappa,Daniel Sappa,1995,24,193,90,Argentina,South America,Torwart,Arsenal Fútbol Club,Superliga (ARG),1,False,0,66,Right,3 Stars
+655,300000,316825,-16825,Manu García,Manuel García Humanes,1991,28,192,88,Spain,Europe,Torwart,SD Ponferradina,LaLiga2 (ESP),2,False,0,66,Right,2 Stars
+656,650000,494658,155342,William Eskelinen,William Eskelinen,1996,24,191,84,Sweden,Europe,Torwart,Aarhus GF,Superligaen (DEN),1,False,0,66,Right,2 Stars
+659,400000,360773,39227,André Moreira,André  Campos Moreira,1995,25,194,87,Portugal,Europe,Torwart,Belenenses SAD,Liga NOS (POR),1,False,0,66,Right,2 Stars
+660,200000,297581,-97581,Luis Michel,Luis Ernesto Michel Vergara,1979,40,182,74,Mexico,North America,Torwart,Club Tijuana,Liga MX Clausura (MEX),1,False,8,66,Right,3 Stars
+662,325000,267293,57707,Juan Carlos,Juan Carlos Sánchez Martínez,1987,32,182,76,Spain,Europe,Torwart,CD Numancia,LaLiga2 (ESP),2,False,0,66,Right,2 Stars
+663,200000,307125,-107125,Alberto Varo,Alberto Varó Lara,1993,27,191,84,Spain,Europe,Torwart,CD Lugo,LaLiga2 (ESP),2,False,0,66,Right,3 Stars
+664,800000,500653,299347,Yanick Brecher,Yanick Brecher,1993,26,196,88,Switzerland,Europe,Torwart,FC Zürich,Super League (SUI),1,False,0,66,Right,2 Stars
+665,650000,499951,150049,Patrik Carlgren,Patrik Ulf Anders Carlgren,1992,27,188,84,Sweden,Europe,Torwart,Randers FC,Superligaen (DEN),1,False,1,66,Right,2 Stars
+666,325000,304928,20072,Fernando Martínez,Fernando Martínez Rubio,1990,29,185,85,Spain,Europe,Torwart,UD Almería,LaLiga2 (ESP),2,False,0,66,Right,3 Stars
+667,400000,331267,68733,Marcus Sandberg,Robert Marcus Sandberg,1990,29,191,80,Sweden,Europe,Torwart,Stabæk Fotball,Eliteserien (NOR),1,False,0,66,Right,2 Stars
+668,725000,497276,227724,Dejan Stojanovic,Dejan Stojanović,1993,26,196,89,FYR Macedonia,Europe,Torwart,FC Middlesbrough,Championship (ENG),2,False,0,66,Left,2 Stars
+669,1400000,547582,852418,Gil Alcalá,Gil Esaul Alcalá Barba,1992,27,179,74,Mexico,North America,Torwart,Querétaro FC,Liga MX Clausura (MEX),1,False,0,66,Right,2 Stars
+670,300000,385403,-85403,Guillaume Hubert,Guillaume Hubert,1994,25,198,88,Belgium,Europe,Torwart,Cercle Brügge,Jupiler Pro League (BEL),1,False,0,66,Right,2 Stars
+672,1300000,512957,787043,Stefano Gori,Stefano Gori,1996,23,185,73,Italy,Europe,Torwart,AC Pisa 1909,Serie B (ITA),2,False,0,66,Right,3 Stars
+673,325000,323114,1886,James Aguirre,James Aguirre,1992,27,180,70,Colombia,South America,Torwart,Atlético Bucaramanga,Liga DIMAYOR I (COL),1,False,0,66,Right,2 Stars
+674,725000,394275,330725,Christian Vargas,Christian Vargas Cortés,1989,30,185,87,Colombia,South America,Torwart,Atlético Bucaramanga,Liga DIMAYOR I (COL),1,False,0,66,Right,2 Stars
+675,4500000,1643584,2856416,Illan Meslier,Illan Meslier,2000,20,196,74,France,Europe,Torwart,Leeds United,Championship (ENG),2,False,0,66,Left,2 Stars
+676,400000,353553,46447,Stephen Henderson,Stephen Henderson,1988,32,188,87,Republic of Ireland,Europe,Torwart,Crystal Palace,Premier League (ENG),1,False,0,66,Right,3 Stars
+678,650000,497278,152722,Luca Lezzerini,Luca Lezzerini,1995,25,195,86,Italy,Europe,Torwart,Venezia FC,Serie B (ITA),2,False,0,66,Right,2 Stars
+679,300000,310279,-10279,Nicola Ravaglia,Nicola Ravaglia,1988,31,184,84,Italy,Europe,Torwart,US Cremonese,Serie B (ITA),2,False,0,66,Right,1 Star
+680,400000,502166,-102166,Pablo Sisniega,Pablo Eduardo Sisniega Fink,1995,24,192,79,Mexico,North America,Torwart,Los Angeles FC,Major League Soccer (USA),1,False,0,66,Right,2 Stars
+681,200000,300779,-100779,Giacomo Bindi,Giacomo Bindi,1987,33,189,84,Italy,Europe,Torwart,Pordenone Calcio,Serie B (ITA),2,False,0,66,Right,2 Stars
+682,200000,287466,-87467,Nicolò Manfredini,Niccolò Manfredini,1988,32,190,80,Italy,Europe,Torwart,Benevento Calcio,Serie B (ITA),2,False,0,66,Right,2 Stars
+683,250000,329800,-79800,Tim Boss,Tim Boss,1993,26,186,80,Germany,Europe,Torwart,SG Dynamo Dresden,2. Bundesliga (GER),2,False,0,66,Right,3 Stars
+684,300000,309734,-9734,Brad Knighton,Brad Knighton,1985,34,187,82,United States,North America,Torwart,New England Revolution,Major League Soccer (USA),1,False,0,66,Right,2 Stars
+685,200000,303578,-103578,Chris Seitz,Chris Seitz,1987,32,191,107,United States,North America,Torwart,D.C. United,Major League Soccer (USA),1,False,0,66,Right,3 Stars
+686,600000,400145,199855,Andrew Redmayne,Andrew Redmayne,1989,31,194,83,Australia,Oceania/Australia,Torwart,Sydney FC,A-League (AUS),1,True,1,66,Right,2 Stars
+687,350000,346422,3578,Juan Camilo Chaverra,Juan Camilo Chaverra Martínez,1992,27,185,75,Colombia,South America,Torwart,Cúcuta Deportivo,Liga DIMAYOR I (COL),1,False,0,66,Right,3 Stars
+688,325000,410817,-85817,César Giraldo,Cesar Augusto Giraldo Peláez,1989,30,179,75,Colombia,South America,Torwart,AD Union Magdalena,Liga DIMAYOR I (COL),1,False,0,66,Left,2 Stars
+689,400000,393912,6088,Antonio Donnarumma,Antonio Donnarumma,1990,29,192,96,Italy,Europe,Torwart,AC Mailand,Serie A (ITA),1,False,0,66,Right,2 Stars
+690,300000,400145,-100145,Filippo Perucchini,Filippo Perucchini,1991,28,191,89,Italy,Europe,Torwart,FC Empoli,Serie B (ITA),2,False,0,66,Left,2 Stars
+691,450000,476434,-26434,Roland Niczuly,Roland Niczuly,1995,24,181,76,Romania,Europe,Torwart,Sepsi Sf. Gheorghe,Liga 1 (ROU),1,False,0,66,Right,2 Stars
+692,525000,381654,143346,David Lazar,David Lazăr,1991,28,184,82,Romania,Europe,Torwart,Astra Giurgiu,Liga 1 (ROU),1,False,0,66,Right,3 Stars
+693,725000,514877,210123,Jérôme Prior,Jérôme Prior,1995,24,187,86,France,Europe,Torwart,FC Valenciennes,Ligue 2 (FRA),2,False,0,66,Right,2 Stars
+694,900000,1507422,-607422,Gaëtan Poussin,Gaëtan Poussin,1999,21,184,82,France,Europe,Torwart,FC Girondins Bordeaux,Ligue 1 (FRA),1,False,0,66,Right,2 Stars
+695,400000,476434,-76434,Alexandre Olliero,Alexandre Olliero,1996,24,193,85,France,Europe,Torwart,FC Nantes,Ligue 1 (FRA),1,False,0,66,Right,2 Stars
+696,800000,493312,306688,Baptiste Valette,Baptiste Valette,1992,28,185,78,France,Europe,Torwart,AS Nancy-Lorraine,Ligue 2 (FRA),2,False,0,66,Right,3 Stars
+697,400000,360773,39227,Yohann Thuram,Yohann Thuram-Ulien,1988,31,187,85,France,Europe,Torwart,FC Le Mans,Ligue 2 (FRA),2,False,4,66,Right,2 Stars
+698,475000,314252,160748,Brice Maubleu,Brice Maubleu,1989,31,192,83,France,Europe,Torwart,Grenoble Foot 38,Ligue 2 (FRA),2,False,0,66,Right,3 Stars
+699,300000,309080,-9080,Álvaro Villete,Álvaro Villete Melgar,1991,29,188,79,Uruguay,South America,Torwart,Boyacá Patriotas,Liga DIMAYOR I (COL),1,False,0,66,Right,2 Stars
+700,175000,259624,-84624,Siyabonga Mpontshane,Siyabonga Mpontshane,1986,34,183,79,South Africa,Africa,Torwart,Orlando Pirates,misc_other_teams (MISC),1,False,0,66,Left,3 Stars
+701,450000,733126,-283126,Jens Teunckens,Jens Teunckens,1998,22,189,85,Belgium,Europe,Torwart,Royal Antwerpen FC,Jupiler Pro League (BEL),1,False,0,66,Right,3 Stars
+702,3600000,1703261,1896739,Arnaud Bodart,Arnaud Bodart,1998,21,184,75,Belgium,Europe,Torwart,Standard Lüttich,Jupiler Pro League (BEL),1,False,0,66,Right,2 Stars
+703,200000,290358,-90358,Álvaro Salazar,Álvaro Luis Salazar Bravo,1993,27,185,79,Chile,South America,Torwart,Unión Española,Primera División de Chile (CHI),1,False,0,66,Right,2 Stars
+704,300000,526364,-226364,Dominik Reimann,Dominik Reimann,1997,22,186,82,Germany,Europe,Torwart,Holstein Kiel,2. Bundesliga (GER),2,False,0,66,Right,3 Stars
+705,300000,377757,-77757,Kevin Fickentscher,Kevin Fickentscher,1988,31,181,78,Switzerland,Europe,Torwart,FC Sion,Super League (SUI),1,False,0,66,Right,3 Stars
+706,4500000,1383584,3116416,Radoslaw Majecki,Radosław Majecki,1999,20,191,78,Poland,Europe,Torwart,Legia Warschau,PKO Ekstraklasa (POL),1,True,0,66,Right,3 Stars
+707,400000,393912,6088,Aly Keita,Aly Keita,1986,33,185,75,Guinea,Africa,Torwart,Östersunds FK,Allsvenskan (SWE),1,True,7,66,Right,2 Stars
+708,200000,321422,-121422,Simão Bertelli,Simão Verza Bertelli,1993,27,187,84,Brazil,South America,Torwart,FC Paços de Ferreira,Liga NOS (POR),1,False,0,66,Right,2 Stars
+709,400000,314252,85748,Hiroki Iikura,饭仓 大樹,1986,34,181,75,Japan,Asia,Torwart,Vissel Kobe,J1 League (JPN),1,False,0,66,Right,2 Stars
+711,900000,1516537,-616537,Keisuke Osako,大迫 圭介,1999,20,186,86,Japan,Asia,Torwart,Sanfrecce Hiroshima,J1 League (JPN),1,True,2,66,Right,2 Stars
+713,225000,371732,-146732,Jeong-hyeon Son,손정현 Jeong Hyeon Son,1991,28,191,85,Korea Republic,Asia,Torwart,Gyeongnam FC,K League 1 (KOR),1,False,0,66,Left,3 Stars
+714,1200000,432609,767391,Robbin Ruiter,Robbin Ruiter,1987,33,196,78,Netherlands,Europe,Torwart,PSV Eindhoven,Eredivisie (NED),1,False,0,66,Right,2 Stars
+716,325000,316825,8175,Martin Kobras,Martin Kobras,1986,33,182,80,Austria,Europe,Torwart,SC Rheindorf Altach,Bundesliga (AUT),1,False,0,66,Right,3 Stars
+717,800000,497278,302722,Ivan Lucic,Ivan Lučić,1995,25,194,98,Austria,Europe,Torwart,FK Austria Wien,Bundesliga (AUT),1,False,0,66,Right,3 Stars
+718,400000,563189,-163189,Jakub Slowik,Jakub Słowik,1991,28,190,82,Poland,Europe,Torwart,Vegalta Sendai,J1 League (JPN),1,False,1,66,Right,2 Stars
+719,400000,560271,-160271,Cameron Dawson,Cameron Dawson,1995,24,193,69,England,Europe,Torwart,Sheffield Wednesday,Championship (ENG),2,False,0,66,Right,3 Stars
+720,450000,393912,56088,Dong-geon No,노동건 卢东件,1991,29,192,88,Korea Republic,Asia,Torwart,Suwon Samsung Bluewings,K League 1 (KOR),1,False,0,66,Right,3 Stars
+721,400000,340540,59460,Rene Swete,Rene Swete,1990,30,186,79,Austria,Europe,Torwart,TSV Hartberg,Bundesliga (AUT),1,False,0,66,Left,3 Stars
+722,300000,331267,-31267,Arild Östbö,Arild Østbø,1991,29,183,75,Norway,Europe,Torwart,Viking Stavanger,Eliteserien (NOR),1,False,0,66,Right,2 Stars
+723,300000,303578,-3578,Jesper Rask,Jesper Rask,1988,31,196,88,Denmark,Europe,Torwart,Hobro IK,Superligaen (DEN),1,False,0,66,Right,3 Stars
+724,250000,418848,-168848,Matt Macey,Matt Macey,1994,25,198,81,England,Europe,Torwart,FC Arsenal,Premier League (ENG),1,False,0,66,Right,2 Stars
+725,250000,309818,-59818,David Martin,David Edward Martin,1986,34,188,86,England,Europe,Torwart,West Ham United,Premier League (ENG),1,False,0,66,Right,3 Stars
+726,1000000,575017,424983,Abdelali Mhamdi,Abdelali M'hamdi,1991,28,192,85,Morocco,Africa,Torwart,Abha Club,Saudi Professional League (KSA),1,False,0,66,Right,4 Stars
+727,325000,316825,8175,Alexander Kofler,Alexander Kofler,1986,33,194,87,Austria,Europe,Torwart,Wolfsberger AC,Bundesliga (AUT),1,False,0,66,Right,3 Stars
+728,325000,329800,-4800,Even Barli,Even Barli,1991,28,187,81,Norway,Europe,Torwart,Ranheim IL,Eliteserien (NOR),1,False,0,66,Right,2 Stars
+729,400000,313400,86600,Ben Hamer,Ben Hamer,1987,32,193,91,England,Europe,Torwart,Derby County,Championship (ENG),2,False,0,66,Right,3 Stars
+731,400000,557226,-157226,Daniel Fuzato,Daniel Cerântula Fuzato,1997,23,190,88,Brazil,South America,Torwart,AS Rom,Serie A (ITA),1,False,0,66,Right,3 Stars
+732,525000,514877,10123,Georgi Kitanov,Georgi Kitanov,1995,24,188,82,Bulgaria,Europe,Torwart,Astra Giurgiu,Liga 1 (ROU),1,False,0,66,Right,1 Star
+733,950000,545611,404389,Simon Sluga,Simon Sluga,1993,27,191,81,Croatia,Europe,Torwart,Luton Town,Championship (ENG),2,True,2,66,Right,3 Stars
+735,200000,301112,-101112,Raphael Aflalo,Raphael Aflalo Lopes Martins,1996,23,190,85,Brazil,South America,Torwart,Desportivo Aves,Liga NOS (POR),1,False,0,65,Right,3 Stars
+736,300000,316825,-16825,Álex Craninx,Alexandro Marco Craninx Joostens,1995,24,194,78,Belgium,Europe,Torwart,Molde FK,Eliteserien (NOR),1,False,0,65,Right,4 Stars
+737,325000,412465,-87465,Ferdinand Oswald,Ferdinand Oswald,1990,29,184,77,Germany,Europe,Torwart,WSG Tirol,Bundesliga (AUT),1,False,0,65,Right,4 Stars
+738,250000,316825,-66825,Bruce Bvuma,Bruce Bvuma,1995,24,186,73,South Africa,Africa,Torwart,Kaizer Chiefs,misc_other_teams (MISC),1,False,0,65,Right,3 Stars
+739,400000,309080,90920,Ricardo Friedrich,Ricardo Schuck Friedrich,1993,27,188,83,Brazil,South America,Torwart,MKE Ankaragücü,Süper Lig (TUR),1,False,0,65,Right,1 Star
+740,250000,365271,-115271,Merveille Goblet,Merveille Goblet,1994,25,180,78,Belgium,Europe,Torwart,Cercle Brügge,Jupiler Pro League (BEL),1,False,0,65,Right,2 Stars
+741,400000,316825,83175,Paul Delecroix,Paul Delecroix,1988,31,185,76,France,Europe,Torwart,FC Metz,Ligue 1 (FRA),1,False,0,65,Right,4 Stars
+742,300000,307125,-7125,Dominik Hladun,Dominik Hładun,1995,24,190,77,Poland,Europe,Torwart,Zaglebie Lubin,PKO Ekstraklasa (POL),1,False,0,65,Right,2 Stars
+743,250000,303804,-53804,Michal Gliwa,Michał Gliwa,1988,31,188,76,Poland,Europe,Torwart,Rakow Czestochowa,PKO Ekstraklasa (POL),1,False,1,65,Right,2 Stars
+746,300000,316825,-16825,Salvador Ichazo,Salvador Ichazo,1992,28,188,83,Uruguay,South America,Torwart,FC Genua 1893,Serie A (ITA),1,False,0,65,Left,2 Stars
+749,1800000,901372,898628,Gabriel Brazão,Gabriel Resende Brazão,2000,19,191,84,Brazil,South America,Torwart,Albacete Balompié,LaLiga2 (ESP),2,False,0,65,Right,3 Stars
+750,300000,316825,-16825,Victor Rimniceanu,Victor Rîmniceanu,1990,29,185,85,Romania,Europe,Torwart,FC Voluntari,Liga 1 (ROU),1,False,0,65,Right,3 Stars
+752,300000,316825,-16825,Dean Bouzanis,Dean Bouzanis,1990,30,185,84,Australia,Oceania/Australia,Torwart,Melbourne City FC,A-League (AUS),1,False,0,65,Right,3 Stars
+753,475000,315779,159221,Pietro Perina,Pietro Perina,1992,28,186,82,Italy,Europe,Torwart,Cosenza Calcio,Serie B (ITA),2,False,0,65,Left,2 Stars
+755,400000,340853,59147,Nikita Medvedev,Nikita Medvedev,1994,25,192,80,Russia,Asia,Torwart,Lokomotiv Moskau,misc_other_teams (MISC),1,False,0,65,Right,2 Stars
+757,325000,307125,17875,Paolo Branduani,Paolo Branduani,1989,30,192,83,Italy,Europe,Torwart,FC Empoli,Serie B (ITA),2,False,0,65,Right,2 Stars
+758,300000,381654,-81654,Fabrizio Alastra,Fabrizio Alastra,1997,23,185,79,Italy,Europe,Torwart,Delfino Pescara 1936,Serie B (ITA),2,False,0,65,Right,2 Stars
+759,2000000,812395,1187605,Marco Carnesecchi,Marco Carnesecchi,2000,20,191,83,Italy,Europe,Torwart,Trapani Calcio,Serie B (ITA),2,False,0,65,Right,3 Stars
+760,325000,316825,8175,Tobias Knoflach,Tobias Knoflach,1993,26,183,82,Austria,Europe,Torwart,SK Rapid Wien,Bundesliga (AUT),1,False,0,65,Right,3 Stars
+761,250000,265071,-15071,Andreas Lukse,Andreas Lukse,1987,32,187,82,Austria,Europe,Torwart,1. FC Nürnberg,2. Bundesliga (GER),2,False,1,65,Right,3 Stars
+764,1300000,861740,438260,Maarten Paes,Maarten Paes,1998,21,191,82,Netherlands,Europe,Torwart,FC Utrecht,Eredivisie (NED),1,False,0,65,Right,3 Stars
+766,300000,303804,-3804,Matt Lampson,Matt Lampson,1989,30,191,91,United States,North America,Torwart,Columbus Crew SC,Major League Soccer (USA),1,False,0,65,Right,2 Stars
+767,400000,269720,130280,Clint Irwin,Clint Irwin,1989,31,191,88,United States,North America,Torwart,Colorado Rapids,Major League Soccer (USA),1,False,0,65,Right,1 Star
+769,200000,308490,-108490,Zlatan Alomerovic,Zlatan Alomerović,1991,28,187,85,Serbia,Europe,Torwart,Lechia Gdansk,PKO Ekstraklasa (POL),1,False,0,65,Right,2 Stars
+771,250000,310104,-60104,Santiago Londoño,Wilmar Santiago Londoño Ruiz,1995,24,186,70,Colombia,South America,Torwart,Envigado FC,Liga DIMAYOR I (COL),1,False,0,65,Right,3 Stars
+772,325000,316825,8175,Johan Wallens,Johan Wallens Otálvaro,1992,28,190,75,Colombia,South America,Torwart,Deportivo Cali,Liga DIMAYOR I (COL),1,False,0,65,Right,3 Stars
+773,300000,342660,-42660,Yan Wu,吴龑,1989,30,191,82,China PR,Asia,Torwart,Henan Jianye,Chinese Super League (CHN),1,False,0,65,Right,2 Stars
+774,675000,885276,-210276,Jasper Schendelaar,Jasper Schendelaar,2000,20,187,87,Netherlands,Europe,Torwart,AZ Alkmaar,Eredivisie (NED),1,False,0,65,Right,3 Stars
+775,350000,329800,20200,Dianzuo Liu,刘殿座,1990,29,188,82,China PR,Asia,Torwart,Guangzhou Evergrande Taobao,Chinese Super League (CHN),1,True,3,65,Right,3 Stars
+776,350000,261800,88200,Martin Chudy,Martin Chudý,1989,31,187,90,Slovakia,Europe,Torwart,Górnik Zabrze,PKO Ekstraklasa (POL),1,False,0,65,Right,3 Stars
+777,250000,332986,-82986,Matt Ingram,Matt Ingram,1993,26,190,82,England,Europe,Torwart,Hull City,Championship (ENG),2,False,0,65,Left,3 Stars
+778,300000,340853,-40853,Ramiro Macagno,Ramiro Macagno,1997,23,185,77,Argentina,South America,Torwart,Club Atlético Newell's Old Boys,Superliga (ARG),1,False,0,65,Right,2 Stars
+779,200000,316825,-116825,Nicolás Avellaneda,Nicolás Gastón Avellaneda,1993,27,191,83,Argentina,South America,Torwart,Defensa y Justicia,Superliga (ARG),1,False,0,65,Right,3 Stars
+780,250000,262384,-12384,Andy Lonergan,Andrew Lonergan,1983,36,192,87,England,Europe,Torwart,FC Liverpool,Premier League (ENG),1,False,0,65,Left,1 Star
+781,550000,316825,233175,Lucas Hägg Johansson,Lucas Hägg-Johansson,1994,25,189,79,Sweden,Europe,Torwart,Kalmar FF,Allsvenskan (SWE),1,False,0,65,Right,3 Stars
+782,250000,316649,-66649,Connal Trueman,Connal Trueman,1996,24,186,74,England,Europe,Torwart,Birmingham City,Championship (ENG),2,False,0,65,Right,3 Stars
+783,400000,346246,53753,Erce Kardesler,Erce Kardeşler,1994,26,186,79,Turkey,Asia,Torwart,Trabzonspor,Süper Lig (TUR),1,False,0,65,Right,2 Stars
+784,650000,400145,249855,Okan Kocuk,Okan Kocuk,1995,24,188,78,Turkey,Asia,Torwart,Galatasaray Istanbul,Süper Lig (TUR),1,False,0,65,Right,2 Stars
+785,200000,321422,-121422,Cenk Gönen,Cenk Gönen,1988,32,190,84,Turkey,Asia,Torwart,Alanyaspor,Süper Lig (TUR),1,False,2,65,Right,1 Star
+786,1300000,560271,739729,Álvaro Fernández,Álvaro Fernández Llorente,1998,22,186,75,Spain,Europe,Torwart,SD Huesca,LaLiga2 (ESP),2,False,0,65,Left,2 Stars
+788,400000,276745,123255,Dani Barrio,Daniel Barrio Álvarez,1987,32,190,78,Spain,Europe,Torwart,CD Numancia,LaLiga2 (ESP),2,False,0,65,Right,3 Stars
+789,325000,303578,21422,Papa Demba Camara,Papa Demba Oumar Camara,1993,27,195,70,Senegal,Africa,Torwart,Grenoble Foot 38,Ligue 2 (FRA),2,False,2,65,Right,3 Stars
+790,300000,360622,-60622,Aarón Escandell,Aarón Escandell,1995,24,185,71,Spain,Europe,Torwart,FC Granada,LaLiga (ESP),1,False,0,65,Right,3 Stars
+792,400000,548257,-148257,Javi Díaz,Javier Díaz Sánchez,1997,22,182,75,Spain,Europe,Torwart,FC Sevilla,LaLiga (ESP),1,False,0,65,Right,3 Stars
+793,300000,261966,38034,Tomas Cerny,Tomáš Černý,1985,34,184,83,Czech Republic,Europe,Torwart,Aberdeen FC,Scottish Premiership (SCO),1,False,0,65,Left,1 Star
+794,300000,274679,25321,Zdenek Zlámal,Zdeněk Zlámal,1985,34,193,92,Czech Republic,Europe,Torwart,Heart of Midlothian FC,Scottish Premiership (SCO),1,False,1,65,Right,3 Stars
+795,400000,410817,-10817,Joel Graterol,Joel Graterol,1997,23,182,73,Venezuela,South America,Torwart,CD América de Cali,Liga DIMAYOR I (COL),1,True,0,65,Right,3 Stars
+797,250000,290358,-40358,Jayson Leutwiler,Jayson Leutwiler,1989,31,192,80,Canada,North America,Torwart,Blackburn Rovers,Championship (ENG),2,False,3,65,Right,2 Stars
+799,300000,316825,-16825,Eric Oelschlägel,Eric Oelschlägel,1995,24,193,85,Germany,Europe,Torwart,Borussia Dortmund,1. Bundesliga (GER),1,False,0,65,Right,2 Stars
+800,300000,319544,-19544,Enrique Palos,Enrique Eduardo Palos Reyes,1986,33,190,82,Mexico,North America,Torwart,FC Juárez,Liga MX Clausura (MEX),1,False,0,65,Left,2 Stars
+801,1600000,474613,1125387,Noam Baumann,Noam Baumann,1996,23,192,83,Switzerland,Europe,Torwart,FC Lugano,Super League (SUI),1,False,0,65,Right,1 Star
+802,200000,275870,-75870,Patrick Wiegers,Patrick Wiegers,1990,30,188,87,Germany,Europe,Torwart,SG Dynamo Dresden,2. Bundesliga (GER),2,False,0,65,Right,2 Stars
+803,325000,275828,49172,Iván Vázquez,Edmundo Iván Vázquez Mellado Pérez,1982,37,182,80,Mexico,North America,Torwart,FC Juárez,Liga MX Clausura (MEX),1,False,0,65,Right,3 Stars
+804,325000,360290,-35290,Guillermo Allison,Guillermo Allison Revuelta,1990,29,191,90,Mexico,North America,Torwart,CD Cruz Azul,Liga MX Clausura (MEX),1,False,0,65,Right,3 Stars
+805,300000,316825,-16825,Azbe Jug,Ažbe Jug,1992,28,191,92,Slovenia,Europe,Torwart,Fortuna Sittard,Eredivisie (NED),1,False,0,65,Right,3 Stars
+806,525000,733126,-208126,Christian Früchtl,Christian Früchtl,2000,20,193,84,Germany,Europe,Torwart,FC Bayern München,1. Bundesliga (GER),1,False,0,65,Left,2 Stars
+807,200000,262501,-62501,Guillaume Faivre,Guillaume Faivre,1987,33,188,83,Switzerland,Europe,Torwart,FC Thun,Super League (SUI),1,False,0,65,Right,3 Stars
+808,250000,281935,-31935,Tom Mickel,Tom Mickel,1989,31,185,84,Germany,Europe,Torwart,Hamburger SV,2. Bundesliga (GER),2,False,0,65,Right,2 Stars
+809,650000,308490,341510,Dante Stipica,Dante Stipica,1991,28,189,79,Croatia,Europe,Torwart,Pogon Stettin,PKO Ekstraklasa (POL),1,False,0,65,Right,2 Stars
+811,300000,275898,24102,Cody Cropper,Cody Cropper,1993,27,193,91,United States,North America,Torwart,Houston Dynamo,Major League Soccer (USA),1,False,0,64,Right,3 Stars
+812,800000,499951,300049,Adam Jakubech,Adam Jakubech,1997,23,188,82,Slovakia,Europe,Torwart,KV Kortrijk,Jupiler Pro League (BEL),1,False,1,64,Right,3 Stars
+813,350000,247346,102654,Brian Rowe,Brian Rowe,1988,31,185,84,United States,North America,Torwart,Orlando City SC,Major League Soccer (USA),1,False,0,64,Right,2 Stars
+814,200000,278908,-78908,Brad Stuver,Brad Stuver,1991,29,191,81,United States,North America,Torwart,New York City FC,Major League Soccer (USA),1,False,0,64,Right,1 Star
+816,650000,394275,255725,Shun Takagi,髙木 骏,1989,30,181,76,Japan,Asia,Torwart,Oita Trinita,J1 League (JPN),1,False,0,64,Left,3 Stars
+818,300000,265414,34586,Alec Kann,Alec Kann,1990,29,193,86,United States,North America,Torwart,Atlanta United FC,Major League Soccer (USA),1,False,0,64,Left,3 Stars
+819,325000,310104,14896,Mark Birighitti,Mark Birighitti,1991,29,189,84,Australia,Oceania/Australia,Torwart,Central Coast Mariners,A-League (AUS),1,False,4,64,Right,4 Stars
+820,300000,287466,12533,Clément Diop,Clément Diop Degoud,1993,26,185,77,Senegal,Africa,Torwart,Montreal Impact,Major League Soccer (USA),1,False,1,64,Right,2 Stars
+824,200000,255910,-55910,Laurent Walthert,Laurent Walthert,1984,36,178,72,Switzerland,Europe,Torwart,Neuchâtel Xamax FCS,Super League (SUI),1,False,0,64,Right,2 Stars
+826,300000,307218,-7218,Emanuel Novo,Emanuel Rodrigues Novo,1992,27,190,78,Portugal,Europe,Torwart,FC Hermannstadt,Liga 1 (ROU),1,False,0,64,Left,2 Stars
+827,400000,344192,55808,Ander Cantero,Ander Cantero Armendáriz,1995,24,189,82,Spain,Europe,Torwart,CD Lugo,LaLiga2 (ESP),2,False,0,64,Left,2 Stars
+828,200000,313400,-113400,Delano van Crooij,Delano van Crooij,1991,29,185,78,Netherlands,Europe,Torwart,VVV-Venlo,Eredivisie (NED),1,False,0,64,Right,4 Stars
+829,300000,308262,-8262,Manuel Kuttin,Manuel Kuttin,1993,26,194,94,Austria,Europe,Torwart,Wolfsberger AC,Bundesliga (AUT),1,False,0,64,Right,3 Stars
+830,4500000,1311566,3188434,Kamil Grabara,Kamil Grabara,1999,20,190,80,Poland,Europe,Torwart,Huddersfield Town,Championship (ENG),2,False,0,64,Right,3 Stars
+831,200000,280441,-80441,Eirik Johansen,Eirik Holmen Johansen,1992,27,201,102,Norway,Europe,Torwart,Brann Bergen,Eliteserien (NOR),1,False,0,64,Right,3 Stars
+836,200000,280676,-80676,Bozhidar Mitrev,Bozhidar Konstantinov Mitrev,1987,33,185,85,Bulgaria,Europe,Torwart,FC Voluntari,Liga 1 (ROU),1,False,9,64,Right,3 Stars
+837,650000,428375,221625,José Hernández,José Santiago Hernández García,1997,23,183,75,Mexico,North America,Torwart,Atlas Guadalajara,Liga MX Clausura (MEX),1,False,0,64,Right,2 Stars
+838,300000,264294,35706,Edgar Hernández,Edgar Adolfo Hernández Tellez,1982,37,185,83,Mexico,North America,Torwart,Atlas Guadalajara,Liga MX Clausura (MEX),1,False,0,64,Right,3 Stars
+839,725000,391811,333189,Danijel Petkovic,Danijel Petković,1993,26,197,90,Montenegro,Europe,Torwart,SCO Angers,Ligue 1 (FRA),1,True,17,64,Right,3 Stars
+840,250000,301112,-51112,Mateusz Lis,Mateusz Lis,1997,23,192,83,Poland,Europe,Torwart,Wisla Krakau,PKO Ekstraklasa (POL),1,False,0,64,Right,2 Stars
+841,250000,313400,-63400,Damian Weglarz,Damian Węglarz,1996,24,187,75,Poland,Europe,Torwart,Jagiellonia Bialystok,PKO Ekstraklasa (POL),1,False,0,64,Right,1 Star
+842,200000,304066,-104066,Richard Sánchez,Richard Sánchez,1994,26,191,89,Mexico,North America,Torwart,Sporting Kansas City,Major League Soccer (USA),1,False,0,64,Right,2 Stars
+843,175000,281706,-106706,Thomas Gebauer,Thomas Gebauer,1982,37,193,88,Austria,Europe,Torwart,LASK,Bundesliga (AUT),1,False,0,64,Right,3 Stars
+845,200000,307550,-107550,Miguel Van Damme,Miguel Van Damme,1993,26,182,80,Belgium,Europe,Torwart,Cercle Brügge,Jupiler Pro League (BEL),1,False,0,64,Right,2 Stars
+846,300000,347619,-47619,Lawrence Ati Zigi,Lawrence Ati Zigi,1996,23,188,83,Ghana,Africa,Torwart,FC St. Gallen 1879,Super League (SUI),1,False,2,64,Right,3 Stars
+847,350000,314007,35993,Eduard Pap,Eduard Pap,1994,26,182,82,Romania,Europe,Torwart,FC Botosani,Liga 1 (ROU),1,False,0,64,Right,2 Stars
+848,300000,316825,-16825,Catalin Straton,Cătălin Straton,1989,30,191,87,Romania,Europe,Torwart,Dinamo Bukarest,Liga 1 (ROU),1,False,0,64,Right,2 Stars
+849,350000,316825,33175,Etienne Vaessen,Etienne Vaessen,1995,24,187,89,Netherlands,Europe,Torwart,RKC Waalwijk,Eredivisie (NED),1,False,0,64,Right,2 Stars
+850,200000,274161,-74161,Gudmund Kongshavn,Gudmund Taksdal Kongshavn,1991,29,189,90,Norway,Europe,Torwart,Aalesunds FK,Eliteserien (NOR),1,False,0,64,Right,3 Stars
+851,200000,249170,-49170,Dennis Telgenkamp,Dennis Telgenkamp,1987,32,192,103,Netherlands,Europe,Torwart,FC Emmen,Eredivisie (NED),1,False,0,64,Right,2 Stars
+852,800000,379865,420135,Djordje Nikolic,Djordje Nikolić,1997,23,195,91,Serbia,Europe,Torwart,FC Basel 1893,Super League (SUI),1,False,0,64,Right,5 Stars
+853,450000,314252,135748,Vaso Vasic,Vaso Vasić,1990,30,186,80,Serbia,Europe,Torwart,Royal Excel Mouscron,Jupiler Pro League (BEL),1,False,0,64,Right,3 Stars
+854,450000,272736,177264,Martin Fraisl,Martin Fraisl,1993,26,187,79,Austria,Europe,Torwart,SV Sandhausen,2. Bundesliga (GER),2,False,0,64,Right,2 Stars
+855,300000,291030,8970,Pol Freixanet,Pol Freixanet Viejo,1991,28,191,80,Spain,Europe,Torwart,FC Fuenlabrada,LaLiga2 (ESP),2,False,0,64,Right,2 Stars
+856,250000,277411,-27411,Jimmy Maurer,Jimmy Maurer,1988,31,189,84,United States,North America,Torwart,FC Dallas,Major League Soccer (USA),1,False,0,64,Left,3 Stars
+858,250000,336341,-86341,Jonathan Bond,Jonathan Bond,1993,26,193,84,England,Europe,Torwart,West Bromwich Albion,Championship (ENG),2,False,0,64,Right,2 Stars
+859,200000,317819,-117819,Sébastien Renot,Sébastien Rénot,1989,30,185,80,France,Europe,Torwart,ES Troyes AC,Ligue 2 (FRA),2,False,0,64,Right,3 Stars
+862,525000,612063,-87063,Anthony Maisonnial,Anthony Maisonnial,1998,22,188,74,France,Europe,Torwart,Paris FC,Ligue 2 (FRA),2,False,0,64,Right,3 Stars
+863,550000,428375,121625,Il-kyu Park,박일규 朴一圭,1989,30,180,76,Korea Republic,Asia,Torwart,Yokohama F. Marinos,J1 League (JPN),1,False,0,64,Right,4 Stars
+864,325000,394201,-69201,Brad Collins,Bradley Collins,1997,23,184,69,England,Europe,Torwart,FC Barnsley,Championship (ENG),2,False,0,64,Right,2 Stars
+865,400000,314007,85993,Andrés Mosquera,Andrés Felipe Mosquera Marmolejo,1991,28,182,72,Colombia,South America,Torwart,Independiente Medellín,Liga DIMAYOR I (COL),1,False,0,64,Left,2 Stars
+866,900000,828495,71505,Dimitry Bertaud,Dimitry Bertaud,1998,21,180,85,France,Europe,Torwart,HSC Montpellier,Ligue 1 (FRA),1,False,0,64,Right,3 Stars
+867,250000,612063,-362063,Nicolas Kocik,Nicolas Kocik,1998,22,193,80,France,Europe,Torwart,FC Valenciennes,Ligue 2 (FRA),2,False,0,64,Right,3 Stars
+868,250000,313400,-63400,James Shea,James Shea,1991,28,181,76,England,Europe,Torwart,Luton Town,Championship (ENG),2,False,0,64,Right,2 Stars
+869,475000,308584,166416,Riccardo Piscitelli,Riccardo Piscitelli,1993,26,185,78,Italy,Europe,Torwart,Dinamo Bukarest,Liga 1 (ROU),1,False,0,64,Left,3 Stars
+870,325000,311362,13638,Mehdi Jeannin,Mehdi Jeannin,1991,29,187,81,Algeria,Africa,Torwart,FC Sochaux-Montbéliard,Ligue 2 (FRA),2,False,0,64,Right,2 Stars
+871,200000,291343,-91343,Jeong-nam Hong,홍정남 洪正男,1988,31,186,79,Korea Republic,Asia,Torwart,Jeonbuk Hyundai Motors,K League 1 (KOR),1,False,0,64,Right,3 Stars
+872,325000,316825,8175,Sergio Román,Sergio Felipe Román Palacios,1995,24,190,76,Colombia,South America,Torwart,Once Caldas,Liga DIMAYOR I (COL),1,False,0,64,Right,2 Stars
+874,250000,650695,-400695,Mark Travers,Mark Travers,1999,20,191,82,Republic of Ireland,Europe,Torwart,AFC Bournemouth,Premier League (ENG),1,True,2,64,Right,2 Stars
+875,325000,360622,-35622,Donovan Léon,Donovan Léon,1992,28,186,88,France,Europe,Torwart,Stade Brest 29,Ligue 1 (FRA),1,False,25,64,Right,2 Stars
+876,325000,274872,50128,Philipp Kühn,Philipp Kühn,1992,28,189,95,Germany,Europe,Torwart,VfL Osnabrück,2. Bundesliga (GER),2,False,0,64,Right,3 Stars
+878,250000,285277,-35277,Assaf Al Qarni,Assaf Ahmed Al Qarni,1984,36,183,81,Saudi Arabia,Asia,Torwart,Al-Ittihad Dschidda,Saudi Professional League (KSA),1,False,11,64,Left,3 Stars
+880,200000,278149,-78149,Gianfranco Gazzaniga,Gianfranco Gazzaniga,1993,26,188,85,Argentina,South America,Torwart,SD Ponferradina,LaLiga2 (ESP),2,False,0,64,Right,3 Stars
+881,900000,733126,166875,Oliver Christensen,Oliver Christensen,1999,21,190,82,Denmark,Europe,Torwart,Odense Boldklub,Superligaen (DEN),1,False,0,64,Right,2 Stars
+883,350000,274872,75128,Ioannis Gelios,Ioannis Gelios,1992,28,190,88,Greece,Europe,Torwart,Holstein Kiel,2. Bundesliga (GER),2,False,0,64,Right,3 Stars
+884,600000,683049,-83049,Beom-keun Song,송범근 Bum Keun Song,1997,22,194,88,Korea Republic,Asia,Torwart,Jeonbuk Hyundai Motors,K League 1 (KOR),1,False,0,64,Right,2 Stars
+885,400000,327437,72563,Carlos Miguel Coronel,Carlos Miguel Coronel,1996,23,192,88,Brazil,South America,Torwart,Red Bull Salzburg,Bundesliga (AUT),1,False,0,64,Right,3 Stars
+886,650000,340853,309147,Sang-hun Yu,유상훈 柳相勋,1989,30,194,84,Korea Republic,Asia,Torwart,FC Seoul,K League 1 (KOR),1,False,0,64,Right,3 Stars
+889,1300000,534814,765186,Maarten Vandevoordt,Maarten Vandevoordt,2002,18,187,71,Belgium,Europe,Torwart,KRC Genk,Jupiler Pro League (BEL),1,False,0,63,Right,2 Stars
+890,200000,281706,-81706,Glen Moss,Glen Moss,1983,37,187,90,New Zealand,Oceania/Australia,Torwart,Newcastle United Jets,A-League (AUS),1,False,29,63,Right,3 Stars
+891,300000,514013,-214013,Christian Sánchez,Christian Joel Sánchez Leal,1999,20,193,88,Cuba,North America,Torwart,Sporting Gijón,LaLiga2 (ESP),2,False,0,63,Left,2 Stars
+892,200000,321422,-121422,Hillel Konaté,Yored Hillel Konaté,1994,25,182,77,Ivory Coast,Africa,Torwart,FC Valenciennes,Ligue 2 (FRA),2,False,0,63,Right,2 Stars
+893,1000000,354429,645571,Michele Di Gregorio,Michele Di Gregorio,1997,22,187,81,Italy,Europe,Torwart,Pordenone Calcio,Serie B (ITA),2,False,0,63,Right,3 Stars
+894,200000,316825,-116825,Anthony Mandrea,Anthony Mandrea,1996,23,186,78,France,Europe,Torwart,SCO Angers,Ligue 1 (FRA),1,False,0,63,Right,2 Stars
+895,400000,280368,119632,Alexander Meyer,Alexander Meyer,1991,29,195,88,Germany,Europe,Torwart,SSV Jahn Regensburg,2. Bundesliga (GER),2,False,0,63,Right,3 Stars
+897,325000,313400,11600,Théo Guivarch,Théo Guivarch,1995,24,195,87,France,Europe,Torwart,EA Guingamp,Ligue 2 (FRA),2,False,0,63,Right,2 Stars
+898,200000,281706,-81706,Iven Austbö,Iven Austbø,1985,35,190,85,Norway,Europe,Torwart,Viking Stavanger,Eliteserien (NOR),1,False,0,63,Right,2 Stars
+899,800000,365271,434729,Facundo Cambeses,Facundo Nicolás Cambeses,1997,22,185,78,Argentina,South America,Torwart,Club Atlético Banfield,Superliga (ARG),1,False,0,63,Right,2 Stars
+900,200000,281706,-81706,Yosgart Gutiérrez,Yosgart Ernesto Gutiérrez Serna,1981,39,188,82,Mexico,North America,Torwart,Club Necaxa,Liga MX Clausura (MEX),1,False,0,63,Right,2 Stars
+902,400000,428375,-28375,Quentin Braat,Quentin Braat,1997,22,194,90,France,Europe,Torwart,FC Chamois Niort,Ligue 2 (FRA),2,False,0,63,Right,2 Stars
+903,400000,307196,92804,Tomás Mejías,Tomás Mejías Osorio,1989,31,195,84,Spain,Europe,Torwart,FC Middlesbrough,Championship (ENG),2,False,0,63,Right,2 Stars
+904,400000,313400,86600,Juan Pérez,Juan Manuel Pérez Ruiz,1996,23,187,83,Spain,Europe,Torwart,CA Osasuna,LaLiga (ESP),1,False,0,63,Right,3 Stars
+905,300000,361902,-61902,Arda Akbulut,Arda Akbulut,2001,19,192,79,Turkey,Asia,Torwart,Trabzonspor,Süper Lig (TUR),1,False,0,63,Left,3 Stars
+906,200000,248620,-48620,Aslak Falch,Aslak Falch,1992,27,185,81,Norway,Europe,Torwart,Sarpsborg 08 FF,Eliteserien (NOR),1,False,0,63,Left,3 Stars
+907,300000,321422,-21422,Thomas Vincensini,Thomas Vincensini,1993,26,184,83,France,Europe,Torwart,RC Lens,Ligue 2 (FRA),2,False,0,63,Right,2 Stars
+908,300000,321422,-21422,Martin Sourzac,Martin Sourzac,1992,28,188,78,France,Europe,Torwart,AS Nancy-Lorraine,Ligue 2 (FRA),2,False,0,63,Right,2 Stars
+909,300000,365271,-65271,Utku Yuvakuran,Utku Yuvakuran,1997,23,192,81,Turkey,Asia,Torwart,Besiktas Istanbul,Süper Lig (TUR),1,False,0,63,Right,3 Stars
+910,300000,343641,-43641,Joel Coleman,Joel Coleman,1995,24,198,82,England,Europe,Torwart,Huddersfield Town,Championship (ENG),2,False,0,63,Right,3 Stars
+911,225000,306385,-81385,Ahmed Al-Kassar,Ahmed Ali Al Kassar,1991,28,177,76,Saudi Arabia,Asia,Torwart,Al-Faisaly Harmah,Saudi Professional League (KSA),1,False,0,63,Right,3 Stars
+914,300000,271494,28506,Joaquín Muñoz,Joaquín Muñoz,1990,29,181,82,Chile,South America,Torwart,Audax Italiano,Primera División de Chile (CHI),1,False,0,63,Right,2 Stars
+915,200000,313983,-113983,Luis Ureta,Luis Alfonso Ureta Medina,1999,20,177,77,Chile,South America,Torwart,CD O'Higgins,Primera División de Chile (CHI),1,False,0,63,Right,2 Stars
+916,200000,271494,-71494,Cristián Guerra,Cristian Edward Guerra Torres,1994,25,183,83,Chile,South America,Torwart,CD Palestino,Primera División de Chile (CHI),1,False,0,63,Right,2 Stars
+917,375000,311362,63638,Waleed Abdullah,Waleed Abdullah Ali,1986,34,190,86,Saudi Arabia,Asia,Torwart,Al-Nasr Riad,Saudi Professional League (KSA),1,False,72,63,Right,2 Stars
+918,1800000,565546,1234454,Luca Zidane,Luca Zinedine Zidane,1998,21,183,77,France,Europe,Torwart,Racing Santander,LaLiga2 (ESP),2,False,0,63,Right,3 Stars
+919,250000,274161,-24161,Michele Nardi,Michele Nardi,1986,33,182,80,Italy,Europe,Torwart,Chievo Verona,Serie B (ITA),2,False,0,63,Left,2 Stars
+921,450000,500393,-50393,Luca Plogmann,Luca Plogmann,2000,19,188,78,Germany,Europe,Torwart,SV Werder Bremen,1. Bundesliga (GER),1,False,0,63,Right,4 Stars
+922,300000,310089,-10089,Kentaro Seki,関宪 太郎,1986,33,178,76,Japan,Asia,Torwart,Vegalta Sendai,J1 League (JPN),1,False,0,63,Right,2 Stars
+923,350000,316825,33175,Takuo Okubo,大久保 択生,1989,30,190,92,Japan,Asia,Torwart,Shimizu S-Pulse,J1 League (JPN),1,False,0,63,Right,1 Star
+925,350000,450758,-100758,Yehvann Diouf,Yehvann Diouf,1999,20,187,75,France,Europe,Torwart,Stade Reims,Ligue 1 (FRA),1,False,0,63,Right,3 Stars
+927,300000,358945,-58945,Philipp Köhn,Philipp Köhn,1998,22,190,80,Switzerland,Europe,Torwart,Red Bull Salzburg,Bundesliga (AUT),1,False,0,63,Right,2 Stars
+928,475000,428375,46625,Nikita Contini,Nikita Contini,1996,23,190,82,Ukraine,Europe,Torwart,Virtus Entella,Serie B (ITA),2,False,0,63,Right,1 Star
+930,800000,322688,477312,Jérémy Frick,Jérémy Frick,1993,26,192,90,Switzerland,Europe,Torwart,Servette FC,Super League (SUI),1,False,0,63,Left,2 Stars
+932,250000,303804,-53804,Tae-heui Lee,이태희 李泰熙,1995,25,188,81,Korea Republic,Asia,Torwart,Incheon United,K League 1 (KOR),1,False,0,63,Right,3 Stars
+933,175000,281706,-106706,Christian Dobnik,Christian Dobnik,1986,33,181,80,Austria,Europe,Torwart,Wolfsberger AC,Bundesliga (AUT),1,False,0,63,Right,3 Stars
+934,200000,366517,-166517,Tobias Schützenauer,Tobias Schützenauer,1997,22,182,79,Austria,Europe,Torwart,SK Sturm Graz,Bundesliga (AUT),1,False,0,63,Right,4 Stars
+935,300000,288132,11868,José Escobar,José Huber Escobar Giraldo,1987,32,190,79,Colombia,South America,Torwart,Jaguares de Córdoba,Liga DIMAYOR I (COL),1,False,0,63,Right,3 Stars
+936,250000,306385,-56385,Pier Graziani,Pier Luigi Grazziani Serrano,1994,25,183,75,Colombia,South America,Torwart,Alianza Petrolera,Liga DIMAYOR I (COL),1,False,0,63,Right,3 Stars
+937,200000,281706,-81706,Liam Reddy,Liam Reddy,1981,38,189,90,Australia,Oceania/Australia,Torwart,Perth Glory,A-League (AUS),1,False,0,63,Right,2 Stars
+939,300000,317342,-17342,Marko Maric,Marko Marić,1996,24,191,89,Croatia,Europe,Torwart,Houston Dynamo,Major League Soccer (USA),1,False,0,63,Left,3 Stars
+940,200000,284797,-84797,Da-sol Kim,김다솔 Da Sol Kim,1989,31,188,80,Korea Republic,Asia,Torwart,Suwon Samsung Bluewings,K League 1 (KOR),1,False,0,63,Right,3 Stars
+942,250000,254399,-4399,Andrew Tarbell,Andrew Tarbell,1993,26,191,88,United States,North America,Torwart,Columbus Crew SC,Major League Soccer (USA),1,False,0,63,Right,2 Stars
+945,300000,282211,17789,Lukas Jonsson,Lukas Jonsson,1992,27,191,95,Sweden,Europe,Torwart,IK Sirius,Allsvenskan (SWE),1,False,0,63,Right,2 Stars
+946,300000,311362,-11362,Dinu Moldovan,Dinu Bogdan Moldovan,1990,30,183,72,Romania,Europe,Torwart,AFC Chindia Targoviste,Liga 1 (ROU),1,False,0,63,Right,2 Stars
+947,350000,563189,-213189,Mihai Aioani,Marian Aioani,1999,20,186,77,Romania,Europe,Torwart,AFC Chindia Targoviste,Liga 1 (ROU),1,False,0,63,Right,2 Stars
+948,350000,307767,42233,Csongor Fejer,Csongor Fejér,1995,24,188,87,Romania,Europe,Torwart,Sepsi Sf. Gheorghe,Liga 1 (ROU),1,False,0,63,Right,3 Stars
+949,800000,357563,442437,Catalin Cabuz,Cătălin Căbuz,1996,23,184,80,Romania,Europe,Torwart,FC Viitorul,Liga 1 (ROU),1,False,0,63,Right,2 Stars
+950,325000,271710,53290,Laurentiu Branescu,Laurentiu Constantin Brănescu,1994,26,194,86,Romania,Europe,Torwart,Kilmarnock FC,Scottish Premiership (SCO),1,False,0,63,Right,2 Stars
+953,200000,249170,-49170,Aljaz Ivacic,Aljaž Ivačič,1993,26,188,82,Slovenia,Europe,Torwart,Portland Timbers,Major League Soccer (USA),1,False,0,63,Right,3 Stars
+955,300000,313400,-13400,Thomas Dähne,Thomas Dähne,1994,26,193,84,Germany,Europe,Torwart,Wisla Plock,PKO Ekstraklasa (POL),1,False,0,63,Right,4 Stars
+957,200000,265414,-65414,Svend Brodersen,Svend Brodersen,1997,23,188,83,Germany,Europe,Torwart,FC St. Pauli,2. Bundesliga (GER),2,False,0,63,Right,3 Stars
+958,400000,306112,93888,Ilya Pomazun,Ilya Pomazun,1996,23,190,84,Russia,Asia,Torwart,ZSKA Moskau,misc_other_teams (MISC),1,False,0,63,Right,2 Stars
+960,350000,364330,-14330,Jerónimo Pourtau,Jerónimo Pourtau,2000,20,193,87,Argentina,South America,Torwart,Club Estudiantes de La Plata,Superliga (ARG),1,False,0,62,Right,3 Stars
+962,2700000,617711,2082289,Manuel Roffo,Manuel Roffo,2000,20,183,80,Argentina,South America,Torwart,Club Atlético Boca Juniors,Superliga (ARG),1,False,0,62,Right,4 Stars
+963,300000,313400,-13400,Luis Malagón,Luis Ángel Malagón Velázquez,1997,23,179,77,Mexico,North America,Torwart,Monarcas Morelia,Liga MX Clausura (MEX),1,False,0,62,Right,2 Stars
+966,200000,244390,-44390,Elliot Parish,Elliot Parish,1990,29,188,83,England,Europe,Torwart,St. Johnstone FC,Scottish Premiership (SCO),1,False,0,62,Right,2 Stars
+968,450000,393912,56088,Anthony Racioppi,Anthony Racioppi,1998,21,186,80,Switzerland,Europe,Torwart,Olympique Lyon,Ligue 1 (FRA),1,False,0,62,Right,2 Stars
+969,475000,307125,167875,San Jeong,정산 郑山,1989,30,191,84,Korea Republic,Asia,Torwart,Incheon United,K League 1 (KOR),1,False,0,62,Right,3 Stars
+970,400000,257722,142278,Julien Fabri,Julien Fabri,1994,26,183,75,France,Europe,Torwart,LB Châteauroux,Ligue 2 (FRA),2,False,0,62,Right,3 Stars
+971,250000,315779,-65779,Carlos Olses,Carlos Olses,2000,19,192,77,Venezuela,South America,Torwart,Racing Club,Superliga (ARG),1,False,0,62,Right,2 Stars
+973,400000,314007,85993,Abdullah Al-Jadani,Abdullah Al Jadani,1991,28,180,67,Saudi Arabia,Asia,Torwart,Al-Wahda Mekka,Saudi Professional League (KSA),1,False,0,62,Right,3 Stars
+974,350000,361902,-11902,Titas Krapikas,Titas Krapikas,1999,21,195,85,Lithuania,Europe,Torwart,Spezia Calcio,Serie B (ITA),2,False,0,62,Right,2 Stars
+975,325000,311362,13638,Moslem Al Freej,Muslim Al Furayj,1988,31,188,73,Saudi Arabia,Asia,Torwart,Al-Feiha FC,Saudi Professional League (KSA),1,False,0,62,Right,3 Stars
+976,475000,259417,215583,Tommi Vaiho,Tommi Vaiho,1988,31,188,78,Sweden,Europe,Torwart,Djurgardens IF,Allsvenskan (SWE),1,False,0,62,Right,2 Stars
+977,325000,313400,11600,Matthias Hamrol,Matthias Hamrol,1993,26,195,90,Germany,Europe,Torwart,FC Emmen,Eredivisie (NED),1,False,0,62,Left,4 Stars
+979,200000,271710,-71710,Grzegorz Sandomierski,Grzegorz Sandomierski,1989,31,196,87,Poland,Europe,Torwart,CFR Cluj,Liga 1 (ROU),1,False,3,62,Left,3 Stars
+981,250000,291030,-41030,Arpad Tordai,Árpád Tordai,1997,22,193,80,Romania,Europe,Torwart,FC Viitorul,Liga 1 (ROU),1,False,0,62,Right,3 Stars
+983,200000,307125,-107125,Nick Shinton,Nick Shinton,2001,18,193,78,Belgium,Europe,Torwart,FC Brügge,Jupiler Pro League (BEL),1,False,0,62,Left,3 Stars
+987,250000,310279,-60279,Thijmen Nijhuis,Thijmen Nijhuis,1998,21,196,83,Netherlands,Europe,Torwart,FC Utrecht,Eredivisie (NED),1,False,0,62,Right,3 Stars
+988,200000,248620,-48620,Robert Jendrusch,Robert Jendrusch,1996,23,191,85,Germany,Europe,Torwart,FC Erzgebirge Aue,2. Bundesliga (GER),2,False,0,62,Right,3 Stars
+991,200000,274847,-74847,Tino Casali,Tino Casali,1995,24,191,82,Austria,Europe,Torwart,SV Mattersburg,Bundesliga (AUT),1,False,0,62,Right,3 Stars
+992,200000,293547,-93547,Florian Faist,Florian Faist,1989,30,181,76,Austria,Europe,Torwart,TSV Hartberg,Bundesliga (AUT),1,False,0,62,Left,2 Stars
+993,175000,278966,-103966,Reuf Durakovic,Reuf Duraković,1994,26,196,92,Austria,Europe,Torwart,SC Rheindorf Altach,Bundesliga (AUT),1,False,0,62,Right,3 Stars
+995,325000,272433,52567,Juan Valencia,Juan David Valencia Arboleda,1993,27,183,75,Colombia,South America,Torwart,Rionegro Águilas,Liga DIMAYOR I (COL),1,False,0,62,Right,2 Stars
+996,200000,248620,-48620,Lukas Watkowiak,Lukas Watkowiak,1996,23,197,103,Germany,Europe,Torwart,SV Wehen Wiesbaden,2. Bundesliga (GER),2,False,0,62,Right,3 Stars
+997,250000,236767,13233,Florian Stritzel,Florian Stritzel,1994,26,197,92,Germany,Europe,Torwart,SV Darmstadt 98,2. Bundesliga (GER),2,False,0,62,Right,3 Stars
+999,550000,316825,233175,Yohei Takaoka,髙丘 陽平,1996,24,181,72,Japan,Asia,Torwart,Sagan Tosu,J1 League (JPN),1,False,0,62,Right,2 Stars
+1000,200000,246790,-46790,Takanori Sugeno,菅野 孝宪,1984,36,179,75,Japan,Asia,Torwart,Hokkaido Consadole Sapporo,J1 League (JPN),1,False,0,62,Right,2 Stars
+1001,300000,297335,2665,Michael Woud,Michael Woud,1999,21,196,85,New Zealand,Oceania/Australia,Torwart,Willem II Tilburg,Eredivisie (NED),1,True,2,62,Right,2 Stars
+1004,250000,288675,-38675,Kevin Piedrahita,Kevin Wilson Piedrahita Velasco,1991,28,185,80,United States,North America,Torwart,CD La Equidad Seguros SA,Liga DIMAYOR I (COL),1,False,0,62,Right,2 Stars
+1005,350000,509009,-159009,Dennis Smarsch,Dennis Smarsch,1999,21,195,97,Germany,Europe,Torwart,Hertha BSC,1. Bundesliga (GER),1,False,0,62,Right,4 Stars
+1007,325000,307767,17233,Octavian Valceanu,Octavian Vâlceanu,1996,23,187,77,Romania,Europe,Torwart,Academica Clinceni,Liga 1 (ROU),1,False,0,62,Right,2 Stars
+1008,675000,264206,410794,Adam Stachowiak,Adam Mieczyslaw Stachowiak,1986,33,190,80,Poland,Europe,Torwart,Denizlispor,Süper Lig (TUR),1,False,0,62,Right,3 Stars
+1010,300000,317710,-17710,Miguel San Román,Miguel San Román Ferrándiz,1997,22,189,79,Spain,Europe,Torwart,FC Elche,LaLiga2 (ESP),2,False,0,62,Right,3 Stars
+1011,300000,272976,27023,Limones,Jesús Reguillos Moya,1986,33,192,78,Spain,Europe,Torwart,CD Mirandés,LaLiga2 (ESP),2,False,0,62,Right,2 Stars
+1012,200000,235232,-35232,Viljar Myhra,Viljar Myhra,1996,23,194,94,Norway,Europe,Torwart,Strømsgodset IF,Eliteserien (NOR),1,False,0,62,Right,3 Stars
+1018,200000,321422,-121422,Jakub Bursztyn,Jakub Bursztyn,1998,22,186,81,Poland,Europe,Torwart,Pogon Stettin,PKO Ekstraklasa (POL),1,False,0,62,Right,2 Stars
+1019,200000,244390,-44390,Konrad Forenc,Konrad Forenc,1992,27,191,91,Poland,Europe,Torwart,Zaglebie Lubin,PKO Ekstraklasa (POL),1,False,0,62,Left,2 Stars
+1022,350000,358231,-8231,Hidajet Hankic,Hidajet Hankić,1994,25,187,81,Austria,Europe,Torwart,FC Botosani,Liga 1 (ROU),1,False,0,62,Right,3 Stars
+1024,200000,271710,-71710,Andrea Paroni,Andrea Paroni,1989,30,190,76,Italy,Europe,Torwart,Virtus Entella,Serie B (ITA),2,False,0,62,Right,2 Stars
+1028,200000,246790,-46790,Andrew Putna,Andrew Putna,1994,25,187,81,United States,North America,Torwart,Real Salt Lake City,Major League Soccer (USA),1,False,0,61,Right,2 Stars
+1029,175000,246790,-71790,Bryan Meredith,Bryan Meredith,1989,31,188,94,United States,North America,Torwart,Vancouver Whitecaps FC,Major League Soccer (USA),1,False,0,61,Right,2 Stars
+1035,200000,268321,-68321,Go Hatano,波多野 豪,1998,21,198,88,Japan,Asia,Torwart,FC Tokyo,J1 League (JPN),1,False,0,61,Right,3 Stars
+1036,300000,265858,34142,Ross Laidlaw,Ross Laidlaw,1992,27,201,85,Scotland,Europe,Torwart,Ross County FC,Scottish Premiership (SCO),1,False,0,61,Right,2 Stars
+1039,400000,303804,96196,Hussein Shaian,Hussain Abdoh Al Shaian,1989,30,184,70,Saudi Arabia,Asia,Torwart,Al-Taawon,Saudi Professional League (KSA),1,False,0,61,Right,2 Stars
+1040,200000,307001,-107001,Haruki Fukushima,福島 春樹,1993,26,182,78,Japan,Asia,Torwart,Urawa Red Diamonds,J1 League (JPN),1,False,0,61,Left,2 Stars
+1042,200000,246790,-46790,Hirotsugu Nakabayashi,中林 洋次,1986,34,182,73,Japan,Asia,Torwart,Yokohama F. Marinos,J1 League (JPN),1,False,0,61,Left,3 Stars
+1045,325000,309734,15266,Nicolas Lemaître,Nicolas Lemaître,1997,22,185,83,France,Europe,Torwart,Stade Reims,Ligue 1 (FRA),1,False,0,61,Right,2 Stars
+1046,200000,247346,-47346,Milosz Mleczko,Miłosz Mleczko,1999,21,191,84,Poland,Europe,Torwart,Lech Posen,PKO Ekstraklasa (POL),1,False,0,61,Right,3 Stars
+1049,300000,235232,64768,Helge Sandvik,Helge Sandvik,1990,30,183,75,Norway,Europe,Torwart,FK Haugesund,Eliteserien (NOR),1,False,0,61,Right,3 Stars
+1051,300000,269073,30927,Guido Guerrieri,Guido Guerrieri,1996,24,184,78,Italy,Europe,Torwart,Lazio Rom,Serie A (ITA),1,False,0,61,Right,3 Stars
+1055,300000,308490,-8490,Peter Vindahl Jensen,Peter Vindahl Jensen,1998,22,195,89,Denmark,Europe,Torwart,FC Nordsjaelland,Superligaen (DEN),1,False,0,61,Right,2 Stars
+1056,200000,235232,-35232,Marius Funk,Marius Funk,1996,24,187,88,Germany,Europe,Torwart,SpVgg Greuther Fürth,2. Bundesliga (GER),2,False,0,61,Right,3 Stars
+1060,200000,287400,-87400,Eduardo Fernández,Eduardo Fernández,1992,27,191,77,Mexico,North America,Torwart,Tigres UANL,Liga MX Clausura (MEX),1,False,0,61,Right,1 Star
+1061,200000,249170,-49170,Oscar Hedvall,Oscar Hedvall,1998,21,195,84,Denmark,Europe,Torwart,Silkeborg IF,Superligaen (DEN),1,False,0,61,Left,3 Stars
+1062,250000,254642,-4642,Budimir Janosevic,Budimir Janošević,1989,30,190,86,Serbia,Europe,Torwart,AIK Solna,Allsvenskan (SWE),1,False,0,61,Right,3 Stars
+1063,200000,246790,-46790,Kalle Joelsson,Kalle Joelsson,1998,22,183,74,Sweden,Europe,Torwart,Helsingborgs IF,Allsvenskan (SWE),1,False,0,61,Right,3 Stars
+1064,300000,296792,3208,Sixten Mohlin,Sixten Mohlin,1996,24,189,80,Sweden,Europe,Torwart,Östersunds FK,Allsvenskan (SWE),1,False,0,61,Right,2 Stars
+1065,200000,242007,-42007,Wílder Mosquera,Wílder Mosquera Romaña,1985,35,191,85,Colombia,South America,Torwart,CD Atlético Huila,Liga DIMAYOR I (COL),1,False,0,61,Right,2 Stars
+1066,400000,282211,117789,William Cuesta,William David Cuesta Mosquera,1993,27,195,87,Colombia,South America,Torwart,Deportes Tolima,Liga DIMAYOR I (COL),1,False,0,61,Right,3 Stars
+1071,250000,326549,-76549,Seny Dieng,Seny Dieng,1994,25,187,74,Switzerland,Europe,Torwart,Queens Park Rangers,Championship (ENG),2,False,0,60,Right,3 Stars
+1072,325000,307196,17804,Dehai Zou,邹德海,1993,27,187,79,China PR,Asia,Torwart,Beijing Sinobo Guoan,Chinese Super League (CHN),1,False,0,60,Right,1 Star
+1073,300000,347356,-47356,Marcos Peano,Marcos Hernán Peano,1998,21,185,70,Argentina,South America,Torwart,Club Atlético Unión,Superliga (ARG),1,False,0,60,Right,3 Stars
+1074,200000,264231,-64231,David Da Costa,David Da Costa,1986,34,187,79,Switzerland,Europe,Torwart,FC Lugano,Super League (SUI),1,False,0,60,Left,2 Stars
+1077,200000,307125,-107125,Antonio Valera,Antonio Valera Salmoral,1996,23,187,80,Spain,Europe,Torwart,SD Huesca,LaLiga2 (ESP),2,False,0,60,Right,2 Stars
+1078,250000,314007,-64007,Tom Glover,Thomas Glover,1997,22,190,85,Australia,Oceania/Australia,Torwart,Melbourne City FC,A-League (AUS),1,False,0,60,Right,2 Stars
+1079,200000,332973,-132973,Ellery Balcombe,Ellery Balcombe,1999,20,183,76,England,Europe,Torwart,FC Brentford,Championship (ENG),2,False,0,60,Right,3 Stars
+1082,200000,235232,-35232,Jacob Karlström,Jacob Karlstrøm,1997,22,200,90,Norway,Europe,Torwart,Tromsø IL,Eliteserien (NOR),1,False,0,60,Right,3 Stars
+1083,300000,263233,36767,Kristoffer Klaesson,Kristoffer Klaesson,2000,19,189,76,Norway,Europe,Torwart,Vålerenga Fotball,Eliteserien (NOR),1,False,0,60,Left,2 Stars
+1084,325000,282211,42789,JT Marcinkowski,James Marcinkowski,1997,22,185,83,United States,North America,Torwart,San Jose Earthquakes,Major League Soccer (USA),1,False,0,60,Right,2 Stars
+1088,250000,278908,-28908,Daiya Maekawa,前川 黛也,1994,25,191,86,Japan,Asia,Torwart,Vissel Kobe,J1 League (JPN),1,False,0,60,Right,3 Stars
+1089,525000,363505,161495,Elhan Kastrati,Elhan Kastrati,1997,23,186,74,Albania,Europe,Torwart,Trapani Calcio,Serie B (ITA),2,False,0,60,Right,1 Star
+1092,325000,331387,-6387,Andreas Hirzel,Andreas Hirzel,1993,27,190,89,Switzerland,Europe,Torwart,FC Thun,Super League (SUI),1,False,0,60,Right,2 Stars
+1097,300000,388941,-88941,Sonny Laiton,Sonny Patrick Laiton,2000,20,198,80,France,Europe,Torwart,AJ Auxerre,Ligue 2 (FRA),2,False,0,60,Right,2 Stars
+1099,300000,321422,-21422,Stefan Bajic,Stefan Bajic,2001,18,191,84,France,Europe,Torwart,AS Saint-Étienne,Ligue 1 (FRA),1,False,0,60,Right,3 Stars
+1102,325000,291833,33167,Jesús Rodríguez,Jesús Iván  Rodríguez Trujillo,1993,26,186,80,Mexico,North America,Torwart,Puebla FC,Liga MX Clausura (MEX),1,False,0,60,Right,2 Stars
+1103,400000,289447,110553,Joël Kiassumbua,Joël Kiassumbua,1992,27,190,82,DR Congo,Africa,Torwart,Servette FC,Super League (SUI),1,True,5,60,Right,1 Star
+1104,900000,410817,489183,Marcin Bulka,Marcin Bułka,1999,21,199,90,Poland,Europe,Torwart,FC Paris Saint-Germain,Ligue 1 (FRA),1,False,0,60,Right,2 Stars
+1107,200000,242806,-42806,Nikola Mirkovic,Nikola Mirković,1991,28,193,83,Serbia,Europe,Torwart,SönderjyskE,Superligaen (DEN),1,False,0,60,Right,3 Stars
+1110,250000,251326,-1326,Carl Klaus,Carl Klaus,1994,26,185,66,Germany,Europe,Torwart,SV Darmstadt 98,2. Bundesliga (GER),2,False,0,60,Right,2 Stars
+1115,300000,307125,-7125,Laurentiu Popescu,Laurențiu Popescu,1997,23,180,68,Romania,Europe,Torwart,CS U Craiova,Liga 1 (ROU),1,False,0,60,Right,2 Stars
+1116,300000,271710,28290,Tsuyoshi Kodama,児玉 剛,1987,32,183,84,Japan,Asia,Torwart,FC Tokyo,J1 League (JPN),1,False,0,60,Right,2 Stars
+1117,300000,236767,63233,Sosha Makani,Sosha Makani,1986,33,192,75,Iran,Asia,Torwart,Mjøndalen IF,Eliteserien (NOR),1,False,5,60,Right,2 Stars
+1118,300000,306138,-6138,Fabián Cerda,Fabián Alfredo Cerda Valdés,1989,30,183,83,Chile,South America,Torwart,CDP Curicó Unido,Primera División de Chile (CHI),1,False,0,60,Right,2 Stars
+1119,200000,257722,-57722,Eisuke Fujishima,藤嶋 栄介,1992,28,186,87,Japan,Asia,Torwart,Kawasaki Frontale,J1 League (JPN),1,False,0,60,Right,2 Stars
+1120,400000,363505,36495,Pierre Patron,Pierre Patron,1997,22,191,85,France,Europe,Torwart,FC Le Mans,Ligue 2 (FRA),2,False,0,59,Right,2 Stars
+1122,300000,269286,30714,Julian Faye Lund,Julian Faye Lund,1999,20,185,80,Norway,Europe,Torwart,Rosenborg BK,Eliteserien (NOR),1,False,0,59,Right,2 Stars
+1126,250000,282430,-32430,Jia Du,杜佳,1993,27,186,75,China PR,Asia,Torwart,Tianjin Teda,Chinese Super League (CHN),1,False,0,59,Right,3 Stars
+1127,300000,282690,17310,Ahmad Al-Rehaili,Ahmad Al Ruhaili,1994,25,189,88,Saudi Arabia,Asia,Torwart,Al-Raed,Saudi Professional League (KSA),1,False,0,59,Right,3 Stars
+1129,200000,294618,-94618,Esteban Salles,Esteban Salles,1994,26,187,78,France,Europe,Torwart,Grenoble Foot 38,Ligue 2 (FRA),2,False,0,59,Right,2 Stars
+1133,300000,318222,-18222,Tobias Lawal,Tobias Lawal,2000,19,195,84,Austria,Europe,Torwart,LASK,Bundesliga (AUT),1,False,0,59,Right,3 Stars
+1134,900000,375383,524617,Aynsley Pears,Aynsley Pears,1998,22,190,75,England,Europe,Torwart,FC Middlesbrough,Championship (ENG),2,False,0,59,Right,2 Stars
+1137,200000,274847,-74847,Kees Heemskerk,Kees Heemskerk,1991,29,194,86,Netherlands,Europe,Torwart,RKC Waalwijk,Eredivisie (NED),1,False,0,59,Right,2 Stars
+1138,300000,259624,40376,Jan Hoekstra,Jan Hoekstra,1998,22,190,75,Netherlands,Europe,Torwart,FC Groningen,Eredivisie (NED),1,False,0,59,Right,3 Stars
+1143,250000,313400,-63400,Paul Gartler,Paul Gartler,1997,22,185,75,Austria,Europe,Torwart,SK Rapid Wien,Bundesliga (AUT),1,False,0,59,Right,2 Stars
+1145,350000,303578,46422,Anatoliy Trubin,Anatoliy Trubin,2001,19,199,86,Ukraine,Europe,Torwart,Shakhtar Donetsk,misc_other_teams (MISC),1,False,0,59,Right,2 Stars
+1146,250000,282211,-32211,Juan Bolado,Juan Cruz Bolado,1997,22,181,76,Argentina,South America,Torwart,Club Deportivo Godoy Cruz Antonio Tomba,Superliga (ARG),1,False,0,59,Right,3 Stars
+1148,175000,282211,-107211,Matt Freese,Matt Freese,1998,22,193,83,United States,North America,Torwart,Philadelphia Union,Major League Soccer (USA),1,False,0,59,Right,2 Stars
+1152,325000,293547,31453,Gerardo Ruiz,Gerardo Daniel Ruiz Barragán,1985,35,190,77,Mexico,North America,Torwart,Querétaro FC,Liga MX Clausura (MEX),1,False,0,59,Right,3 Stars
+1154,475000,285049,189951,Aldair Quintana,Aldair Alejandro Quintana Rojas,1994,25,195,90,Colombia,South America,Torwart,Atlético Nacional,Liga DIMAYOR I (COL),1,True,0,59,Left,2 Stars
+1155,900000,328965,571035,Caoimhin Kelleher,Caoimhin Kelleher,1998,21,188,69,Republic of Ireland,Europe,Torwart,FC Liverpool,Premier League (ENG),1,True,0,59,Right,2 Stars
+1161,200000,285277,-85277,Julian Krahl,Julian Krahl,2000,20,194,90,Germany,Europe,Torwart,1. FC Köln,1. Bundesliga (GER),1,False,0,58,Right,3 Stars
+1163,200000,321422,-121422,Juan Serrano,Juan Sebastián Serrano,1999,20,190,76,Colombia,South America,Torwart,Alianza Petrolera,Liga DIMAYOR I (COL),1,False,0,58,Right,2 Stars
+1164,250000,254399,-4399,Carlos Mosquera,Carlos Mosquera,1994,25,195,92,Colombia,South America,Torwart,Deportivo Pasto,Liga DIMAYOR I (COL),1,False,0,58,Right,2 Stars
+1165,200000,474292,-274292,Morten Saetra,Morten Sætra,1997,22,198,78,Norway,Europe,Torwart,Strømsgodset IF,Eliteserien (NOR),1,False,0,58,Right,3 Stars
+1169,200000,469678,-269678,Guillermo Pozos,Guillermo Pozos,1992,27,180,76,Mexico,North America,Torwart,Club León FC,Liga MX Clausura (MEX),1,False,0,58,Right,3 Stars
+1171,250000,294732,-44732,Brent Gabriël,Brent Gabriël,1999,21,188,75,Belgium,Europe,Torwart,Waasland-Beveren,Jupiler Pro League (BEL),1,False,0,58,Right,3 Stars
+1184,175000,247036,-72036,Mansour Jawhar,Mansour Jawhar,1995,25,178,64,Saudi Arabia,Asia,Torwart,Abha Club,Saudi Professional League (KSA),1,False,0,58,Right,3 Stars
+1185,325000,274161,50839,Chunyu Dong,Chunyu Dong,1991,29,187,81,China PR,Asia,Torwart,Wuhan Zall,Chinese Super League (CHN),1,True,0,58,Left,3 Stars
+1186,300000,249876,50124,Roberto Salcedo,Roberto Alejandro Salcedo Reynoso,1991,28,183,79,Mexico,North America,Torwart,Atlético de San Luis,Liga MX Clausura (MEX),1,False,0,58,Right,2 Stars
+1190,200000,285469,-85469,Antonio Torres,Antonio Ignacio Torres Carrillo,1996,23,189,83,Mexico,North America,Torwart,Deportivo Guadalajara,Liga MX Clausura (MEX),1,False,0,58,Right,2 Stars
+1191,300000,302575,-2575,Lévi Ntumba,Lévi Ntumba,2001,18,194,78,France,Europe,Torwart,FCO Dijon,Ligue 1 (FRA),1,False,0,58,Left,2 Stars
+1192,250000,254399,-4399,Lewis Italiano,Lewis Italiano,1990,29,189,83,Australia,Oceania/Australia,Torwart,Newcastle United Jets,A-League (AUS),1,False,0,58,Left,2 Stars
+1194,200000,274872,-74872,Alexander Weidinger,Alexander Weidinger,1997,22,197,88,Germany,Europe,Torwart,SSV Jahn Regensburg,2. Bundesliga (GER),2,False,0,58,Right,2 Stars
+1196,300000,247346,52654,Carlos Higuera,Carlos Higuera,2000,19,182,77,Mexico,North America,Torwart,Club Tijuana,Liga MX Clausura (MEX),1,False,0,58,Right,3 Stars
+1197,200000,265071,-65071,Niclas Thiede,Niclas Thiede,1999,21,185,81,Germany,Europe,Torwart,SC Freiburg,1. Bundesliga (GER),1,False,0,58,Right,3 Stars
+1199,300000,293531,6469,Stefan Tarnovanu,Ștefan Târnovanu,2000,19,197,81,Romania,Europe,Torwart,FC Politehnica Iasi,Liga 1 (ROU),1,False,0,58,Right,2 Stars
+1203,400000,367720,32280,Simon Enzler,Simon Enzler,1997,22,186,78,Switzerland,Europe,Torwart,FC Luzern,Super League (SUI),1,False,0,57,Right,2 Stars
+1210,200000,474292,-274292,Nikita Haikin,Nikita Haikin,1995,24,185,68,Russia,Asia,Torwart,FK Bodø/Glimt,Eliteserien (NOR),1,False,0,57,Right,2 Stars
+1211,250000,474292,-224292,Michael Lansing,Michael Lansing,1994,25,193,88,United States,North America,Torwart,AC Horsens,Superligaen (DEN),1,False,0,57,Right,3 Stars
+1216,250000,474292,-224292,Justin vom Steeg,Justin Vom Steeg,1997,23,194,91,United States,North America,Torwart,Los Angeles Galaxy,Major League Soccer (USA),1,False,0,57,Right,3 Stars
+1218,250000,297335,-47335,Guillaume Dietsch,Guillaume Dietsch,2001,19,184,74,France,Europe,Torwart,FC Metz,Ligue 1 (FRA),1,False,0,57,Right,2 Stars
+1228,200000,254399,-54399,Sergio Pabón,Sergio Rafael Pabón Barros,1996,24,189,79,Colombia,South America,Torwart,Junior FC,Liga DIMAYOR I (COL),1,False,0,57,Right,2 Stars
+1237,250000,242007,7993,Andreas Hansen,Andreas Hansen,1995,24,186,71,Denmark,Europe,Torwart,Aalborg BK,Superligaen (DEN),1,False,0,57,Right,3 Stars
+1246,200000,254399,-54399,Tim Rönning,Tim Rönning,1999,21,191,81,Sweden,Europe,Torwart,IF Elfsborg Boras,Allsvenskan (SWE),1,False,0,56,Right,3 Stars
+1251,200000,246790,-46790,Seong-min Hwang,황성민 Sung Min Hwang,1991,28,188,83,Korea Republic,Asia,Torwart,Gyeongnam FC,K League 1 (KOR),1,False,0,56,Right,3 Stars
+1252,625000,301112,323888,Lucas Dias,Lucas Dias,1999,20,185,80,France,Europe,Torwart,Nîmes Olympique,Ligue 1 (FRA),1,False,0,56,Right,2 Stars
+1255,250000,343958,-93958,Patrik Gunnarsson,Patrik Gunnarsson,2000,19,182,70,Iceland,Europe,Torwart,FC Brentford,Championship (ENG),2,True,0,56,Right,3 Stars
+1256,350000,285049,64951,Yahia Fofana,Yahia Fofana,2000,19,194,89,France,Europe,Torwart,AC Le Havre,Ligue 2 (FRA),2,False,0,56,Right,3 Stars
+1261,200000,245391,-45391,Matt Bersano,Matt Bersano,1992,27,185,83,United States,North America,Torwart,San Jose Earthquakes,Major League Soccer (USA),1,False,0,56,Right,2 Stars
+1264,225000,249184,-24184,Andre Rawls,Andre Rawls,1991,28,188,83,United States,North America,Torwart,Colorado Rapids,Major League Soccer (USA),1,False,0,56,Right,2 Stars
+1265,650000,272638,377362,Florian Kastenmeier,Florian Kastenmeier,1997,22,192,84,Germany,Europe,Torwart,Fortuna Düsseldorf,1. Bundesliga (GER),1,False,0,56,Right,3 Stars
+1268,200000,254399,-54399,Omar Rodríguez,Omar Rodríguez,1996,23,185,80,Colombia,South America,Torwart,Independiente Santa Fe,Liga DIMAYOR I (COL),1,False,0,56,Right,2 Stars
+1274,250000,246790,3210,Jonas Dakir,Jonas Dakir,1997,23,191,76,Denmark,Europe,Torwart,Randers FC,Superligaen (DEN),1,False,0,56,Right,3 Stars
+1278,400000,289447,110553,Matthias Minder,Matthias Minder,1993,27,188,85,Switzerland,Europe,Torwart,Neuchâtel Xamax FCS,Super League (SUI),1,False,0,56,Left,2 Stars
+1297,300000,313400,-13400,Shu Mogi,茂木 秀,1999,21,195,80,Japan,Asia,Torwart,Cerezo Osaka,J1 League (JPN),1,False,0,55,Right,2 Stars
+1300,250000,291030,-41030,Ahmadou Dia,Ahmadou Dia,1999,20,182,78,France,Europe,Torwart,Olympique Marseille,Ligue 1 (FRA),1,False,0,55,Right,3 Stars
+1302,200000,358231,-158231,Kwang-yeon Lee,이광연 Gwang Yeon Lee,1999,20,184,85,Korea Republic,Asia,Torwart,Gangwon FC,K League 1 (KOR),1,False,0,54,Right,2 Stars
+1318,250000,304436,-54436,David Ochoa,David Ochoa,2001,19,188,80,United States,North America,Torwart,Real Salt Lake City,Major League Soccer (USA),1,False,0,54,Right,2 Stars
+1322,300000,301882,-1882,Jozef Pukaj,Jozef Pukaj,2000,20,191,83,Switzerland,Europe,Torwart,FC Basel 1893,Super League (SUI),1,False,0,53,Right,3 Stars
+1323,250000,316825,-66825,Lucio Soldini,Lucio Soldini,2001,19,179,76,Switzerland,Europe,Torwart,FC Lugano,Super League (SUI),1,False,0,53,Right,2 Stars
+1337,250000,270983,-20983,Florentin Bloch,Florentin Bloch,2000,20,190,78,France,Europe,Torwart,FC Toulouse,Ligue 1 (FRA),1,False,0,53,Left,3 Stars
+1348,300000,293821,6179,Greg Ranjitsingh,Greg Ranjitsingh,1993,26,191,88,Trinidad & Tobago,South America,Torwart,Minnesota United FC,Major League Soccer (USA),1,False,0,52,Right,1 Star
