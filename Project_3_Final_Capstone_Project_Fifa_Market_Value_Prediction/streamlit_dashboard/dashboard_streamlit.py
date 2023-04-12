@@ -1,6 +1,7 @@
 # Relevant libraries
 import streamlit as st
 import pandas as pd
+import os
 from bokeh.themes import built_in_themes
 from bokeh.io import curdoc
 from bokeh.models import ColumnDataSource
@@ -9,13 +10,14 @@ from bokeh.models import NumeralTickFormatter, CDSView, GroupFilter
 
 # prepare dataframes and set unique identifier to select between field players and goalkeepers later on
 
-absolute_path_fp = "neuefische_bootcamp_projects_2020/blob/main/Project_3_Final_Capstone_Project_Fifa_Market_Value_Prediction/streamlit_dashboard/fp_data_final_connected.csv"
-absolute_path_gk = "neuefische_bootcamp_projects_2020/blob/main/Project_3_Final_Capstone_Project_Fifa_Market_Value_Prediction/streamlit_dashboard/gk_data_final_connected.csv"
+dir_path = os.path.dirname(os.path.realpath(__file__))
+path_fp = dir_path + "fp_data_final_connected.csv"
+path_gk = dir_path + "gk_data_final_connected.csv"
 
-df_fp = pd.read_csv(absolute_path_fp, index_col=0)
+df_fp = pd.read_csv(path_fp, index_col=0)
 df_fp["identifier"] = "fp"
 
-df_gk = pd.read_csv(absolute_path_gk, index_col=0)
+df_gk = pd.read_csv(path_gk, index_col=0)
 df_gk["identifier"] = "gk"
 df_gk.main_position = df_gk.main_position.replace({'Torwart': "Goalkeeper"})
 
