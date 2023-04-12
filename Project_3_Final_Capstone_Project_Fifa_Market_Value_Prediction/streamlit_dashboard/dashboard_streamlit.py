@@ -9,10 +9,13 @@ from bokeh.models import NumeralTickFormatter, CDSView, GroupFilter
 
 # prepare dataframes and set unique identifier to select between field players and goalkeepers later on
 
-df_fp = pd.read_csv('fp_data_final_connected.csv', index_col=0)
+absolute_path_fp = "neuefische_bootcamp_projects_2020/blob/main/Project_3_Final_Capstone_Project_Fifa_Market_Value_Prediction/streamlit_dashboard/fp_data_final_connected.csv"
+absolute_path_gk = "neuefische_bootcamp_projects_2020/blob/main/Project_3_Final_Capstone_Project_Fifa_Market_Value_Prediction/streamlit_dashboard/gk_data_final_connected.csv"
+
+df_fp = pd.read_csv(absolute_path_fp, index_col=0)
 df_fp["identifier"] = "fp"
 
-df_gk = pd.read_csv('gk_data_final_connected.csv', index_col=0)
+df_gk = pd.read_csv(absolute_path_gk, index_col=0)
 df_gk["identifier"] = "gk"
 df_gk.main_position = df_gk.main_position.replace({'Torwart': "Goalkeeper"})
 
