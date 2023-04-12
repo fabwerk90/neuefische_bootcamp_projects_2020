@@ -11,8 +11,8 @@ from bokeh.models import NumeralTickFormatter, CDSView, GroupFilter
 # prepare dataframes and set unique identifier to select between field players and goalkeepers later on
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
-path_fp = dir_path + "fp_data_final_connected.csv"
-path_gk = dir_path + "gk_data_final_connected.csv"
+path_fp = dir_path + "/fp_data_final_connected.csv"
+path_gk = dir_path + "/gk_data_final_connected.csv"
 
 df_fp = pd.read_csv(path_fp, index_col=0)
 df_fp["identifier"] = "fp"
